@@ -88,9 +88,45 @@
     <display-name lang="he">ninja-FREETV</display-name>
     <url>http://www.freetv.tv</url>
   </channel>
+  <channel id="glz-RADIO">
+    <display-name lang="he">glz-RADIO</display-name>
+    <url>http://www.glz.co.il</url>
+  </channel>
+  <channel id="glglz-RADIO">
+    <display-name lang="he">glglz-RADIO</display-name>
+    <url>http://www.glz.co.il</url>
+  </channel>
   <channel id="5-sport-RADIO">
     <display-name lang="he">5-sport-RADIO</display-name>
     <url>http://www.radio.sport5.co.il</url>
+  </channel>
+  <channel id="tarbut-RADIO">
+    <display-name lang="he">tarbut-RADIO</display-name>
+    <url>http://www.kan.org.il</url>
+  </channel>
+  <channel id="moreshet-RADIO">
+    <display-name lang="he">moreshet-RADIO</display-name>
+    <url>http://www.kan.org.il</url>
+  </channel>
+  <channel id="kol-hamuzika-RADIO">
+    <display-name lang="he">kol-hamuzika-RADIO</display-name>
+    <url>http://www.kan.org.il</url>
+  </channel>
+  <channel id="bet-RADIO">
+    <display-name lang="he">bet-RADIO</display-name>
+    <url>http://www.kan.org.il</url>
+  </channel>
+  <channel id="gimmel-RADIO">
+    <display-name lang="he">gimmel-RADIO</display-name>
+    <url>http://www.kan.org.il</url>
+  </channel>
+  <channel id="reka-RADIO">
+    <display-name lang="he">reka-RADIO</display-name>
+    <url>http://www.kan.org.il</url>
+  </channel>
+  <channel id="88-RADIO">
+    <display-name lang="he">88-RADIO</display-name>
+    <url>http://www.kan.org.il</url>
   </channel>
   <programme start="20250917132100 +0000" stop="20250917134100 +0000" channel="reshet-comedy-RESHET">
     <title lang="he">צוחקים אתכם</title>
@@ -5718,6 +5754,229 @@
     <title lang="he">נינג'ה ישראל 3 - נקמת החנוניג'ות</title>
     <desc lang="he">החנונים שניצחו את חוקי הפיזיקה.</desc>
   </programme>
+  <programme start="20250917000000 +0300" stop="20250917020000 +0300" channel="glz-RADIO">
+    <title lang="he">ציפורי לילה אופטימיות - חיים קוזניץ</title>
+    <desc lang="he">חיים קוזניץ. ציפורי לילה אופטימיות עם חיים קוזניץ.</desc>
+  </programme>
+  <programme start="20250917020000 +0300" stop="20250917050000 +0300" channel="glz-RADIO">
+    <title lang="he">לילה ישראלי</title>
+    <desc lang="he">אורי קצור. רצועת המוזיקה הלילית של גלי צה&quot;ל.</desc>
+  </programme>
+  <programme start="20250917050000 +0300" stop="20250917060000 +0300" channel="glz-RADIO">
+    <title lang="he">לילה ישראלי</title>
+    <desc lang="he">אורי קצור. רצועת המוזיקה הלילית של גלי צה&quot;ל.</desc>
+  </programme>
+  <programme start="20250917060000 +0300" stop="20250917080000 +0300" channel="glz-RADIO">
+    <title lang="he">בוקר טוב ישראל</title>
+    <desc lang="he">אפי טריגר. יומן הבוקר של גלי צה&quot;ל מביא למאזינים את החדשות הראשונות של היום. בכל תוכנית מובא סיכום כל האירועים האחרונים, במקביל לסיקור נרחב של החדשות בארץ ובעולם.</desc>
+  </programme>
+  <programme start="20250917080000 +0300" stop="20250917100000 +0300" channel="glz-RADIO">
+    <title lang="he">יניר קוזין וספי עובדיה</title>
+    <desc lang="he">יניר קוזין וספי עובדיה. התוכנית מגישה למאזינים נקודת מבט שונה על הסיפורים המעניינים ביותר של הבוקר בחדשות ובאקטואליה בכלל.  צוות התוכנית שם לו למטרה להביא למאזינים שבוחרים לפתוח עימם את הבוקר את המרואיינים המובילים והמעניינים שיספרו במילים שלהם על סיפורי החדשות החשובים.</desc>
+  </programme>
+  <programme start="20250917100000 +0300" stop="20250917110000 +0300" channel="glz-RADIO">
+    <title lang="he">רינו צרור</title>
+    <desc lang="he">רינו צרור. התוכנית מביאה לשידור את הנעשה ברחוב הישראלי, בפריפריה ובעיר, תוך מתן דגש על היום-יום של האזרח, יוקר המחיה, חינוך, דיור, רווחה והפוליטיקה.</desc>
+  </programme>
+  <programme start="20250917110000 +0300" stop="20250917120000 +0300" channel="glz-RADIO">
+    <title lang="he">שגרת חירום</title>
+    <desc lang="he">עומר ירדני ואיתן כבל. &quot;שגרת חירום&quot;, רצועת השעה 11:00 החדשה של גלי צה&quot;ל, תלווה את המשרתים והמשרתות במילואים, ועם חזרתם לשגרה. את התכנית יגיש עומר ירדני, שחוזר לבית של החיילים אחרי למעלה מעשור, כשלצידו מגישים אורחים, בהם מילואימניקים שגויסו במלחמה.  התכנית תיתן מקום של כבוד למערך המילואים, ותיגע בנושאים האקטואליים החמים של היום. עוד בתכנית - פינות קבועות לחיבור בין מילואימניקים שאיבדו את מקום עבודתם למעסיקים עתידיים, זרקור לעסקים שהקימו והותירו מאחור עם הגעת צו הגיוס, טיפול זוגי למתמודדים עם החזרה הביתה, וערוץ הידברות בקו פתוח עם המפקדים.  על התפר בין חזית ועורף בצפון ובדרום, בין לחימה להחלמה, באתנחתא שבין צווי ההתייצבות, גלי צה&quot;ל מציעה שיגרת חירום.</desc>
+  </programme>
+  <programme start="20250917120000 +0300" stop="20250917130000 +0300" channel="glz-RADIO">
+    <title lang="he">יומן הצהריים</title>
+    <desc lang="he">אמיר איבגי. אמיר איבגי פותח את הצהריים עם הכותרות, הקולות, הדיווחים והראיונות עם האנשים והאירועים החשובים מהארץ ומהעולם. כל מה שקורה עכשיו.</desc>
+  </programme>
+  <programme start="20250917130000 +0300" stop="20250917150000 +0300" channel="glz-RADIO">
+    <title lang="he">״מהמקפצה!״ תכנית הקיץ של גלי צה״ל</title>
+    <desc lang="he">קובי אריאלי והדר לוי. תוכנית הקיץ החדשה של גלי צה״ל! ענבל גזית, קובי אריאלי, דודו ארז, אבי אטינגר, מירב פלדמן, נגה ד'אנג'לי והדר לוי מעבירים לנו את ימי הקיץ החמים עם שיחות, חידונים ופינות מיוחדות! כל יום בין ראשון עד רביעי בשעות 13:00-15:00,  הצטרפו אלינו מהים, מהקייטנה, מהרכב וגם מסביב לעולם.</desc>
+  </programme>
+  <programme start="20250917150000 +0300" stop="20250917160000 +0300" channel="glz-RADIO">
+    <title lang="he">יהיה בסדר</title>
+    <desc lang="he">אביב לביא ולינוי בר גפן. התוכנית שכבר הפכה למוקד פניות הציבור הלא רשמי של ישראל. אביב לביא, נעמי רביע, לינוי בר גפן והצוות המסור נאבקים בעוולות, פותרים בעיות ומתייצבים לצידו של האזרח הקטן.</desc>
+  </programme>
+  <programme start="20250917160000 +0300" stop="20250917165500 +0300" channel="glz-RADIO">
+    <title lang="he">ארבע אחרי הצהריים</title>
+    <desc lang="he">ערן אליקים. תוכנית מלאה שירים עבריים מאוצר הזמר העברי, באווירה נוסטלגית.</desc>
+  </programme>
+  <programme start="20250917165500 +0300" stop="20250917170000 +0300" channel="glz-RADIO">
+    <title lang="he">באופן מילולי</title>
+    <desc lang="he">אבשלום קור. סיור יומי בנופי העברית לתקופותיה בתנ&quot;ך, במשנה, בעברית המדוברת ובלשונם של העולים לארץ ישראל, וכן השוואת שמות ישובים ללשון האחות, הערבית.</desc>
+  </programme>
+  <programme start="20250917170000 +0300" stop="20250917180000 +0300" channel="glz-RADIO">
+    <title lang="he">חמש בערב</title>
+    <desc lang="he">ירון וילנסקי. יומן הערב של גלי צה&quot;ל עושה סדר בכל הכותרות הרבות והחשובות של היום, ומסכם עבורכם את האירועים החדשותיים הגדולים שהתרחשו.</desc>
+  </programme>
+  <programme start="20250917180000 +0300" stop="20250917190000 +0300" channel="glz-RADIO">
+    <title lang="he">החזית הכלכלית</title>
+    <desc lang="he">סמי פרץ ונורית קנטי. התכנית הכלכלית המובילה של גלי צה&quot;ל העוסקת במגוון תחומים שמקיפים את הכלכלה והחברה במדינת ישראל תסייע לכם להבין לאן בדיוק הולך הכסף שלכם.</desc>
+  </programme>
+  <programme start="20250917190000 +0300" stop="20250917200000 +0300" channel="glz-RADIO">
+    <title lang="he">רצועת הביטחון - אסטרטגיה וממשל</title>
+    <desc lang="he">דורון קדוש. התוכנית מביאה ראיונות ודיונים על נושאי אסטרטגיה וחוץ, ומעניקה נקודת מבט רחבה ומעמיקה על מה שקורה סביבנו וגם על המתרחש מחוץ לגבולות ישראל.</desc>
+  </programme>
+  <programme start="20250917200000 +0300" stop="20250917220000 +0300" channel="glz-RADIO">
+    <title lang="he">הקשב!</title>
+    <desc lang="he">בת אור צגאי ועידן סין. מגזין החיילים של גלי צה&quot;ל, המורכב מפינות מיוחדות וראיונות עם חיילי צה&quot;ל על השירות, החוויות והחברים.</desc>
+  </programme>
+  <programme start="20250917220000 +0300" stop="20250917230000 +0300" channel="glz-RADIO">
+    <title lang="he">חיים של אחרים</title>
+    <desc lang="he">ערן סבאג. תכנית המוקדשת למוזיקה ולהיסטוריה שמאחוריה.</desc>
+  </programme>
+  <programme start="20250917230000 +0300" stop="20250918000000 +0300" channel="glz-RADIO">
+    <title lang="he">24 היום שהיה</title>
+    <desc lang="he">24 היום שהיה. גלי צה&quot;ל מסכמים לכם את היום: נדבר קצת בכלכלה, ונמצא נקודות של אור בחשיכה. נהיה שם לדווח ולעדכן בכל התפתחות בלתי צפויה בסופו של יום, אך נשתדל לשלוח אתכם לישון רגועים ואם אפשר, עם חיוך קטן על הפנים.</desc>
+  </programme>
+  <programme start="20250918000000 +0300" stop="20250918020000 +0300" channel="glz-RADIO">
+    <title lang="he">ציפורי לילה: שמוליק נויפלד</title>
+    <desc lang="he">שמוליק נויפלד. מוזיקה חדשה וישנה, ביצועים מיוחדים, ישראלים ובינלאומיים, אירוחים של חברים עם סיפורים על מאחורי הקלעים, פינות מוזיקליות שונות ובעיקר הרבה אוירה ומוזיקה טובה.</desc>
+  </programme>
+  <programme start="20250918020000 +0300" stop="20250918050000 +0300" channel="glz-RADIO">
+    <title lang="he">לילה ישראלי</title>
+    <desc lang="he">עידן סין. רצועת המוזיקה הלילית של גלי צה&quot;ל.</desc>
+  </programme>
+  <programme start="20250918050000 +0300" stop="20250918060000 +0300" channel="glz-RADIO">
+    <title lang="he">לילה ישראלי</title>
+    <desc lang="he">עידן סין. רצועת המוזיקה הלילית של גלי צה&quot;ל.</desc>
+  </programme>
+  <programme start="20250918060000 +0300" stop="20250918080000 +0300" channel="glz-RADIO">
+    <title lang="he">בוקר טוב ישראל</title>
+    <desc lang="he">אפי טריגר. יומן הבוקר של גלי צה&quot;ל מביא למאזינים את החדשות הראשונות של היום. בכל תוכנית מובא סיכום כל האירועים האחרונים, במקביל לסיקור נרחב של החדשות בארץ ובעולם.</desc>
+  </programme>
+  <programme start="20250918080000 +0300" stop="20250918090000 +0300" channel="glz-RADIO">
+    <title lang="he">נכון להבוקר</title>
+    <desc lang="he">יונה לייבזון. התוכנית מגישה למאזינים נקודת מבט אחרת על הסיפורים המעניינים ביותר של הבוקר בחדשות ובאקטואליה בכלל. התוכנית מתמקדת באנשים עם הסיפורים המעניינים ביותר בתחומי הפוליטיקה, חברה, כלכלה, פלילים, ספורט ועוד.  צוות התוכנית שם לו למטרה להביא למאזינים שבוחרים לפתוח עימם את הבוקר את המרואיינים המובילים והמעניינים שיספרו במילים שלהם על סיפורי החדשות החשובים. ב-2014 זכתה &quot;נכון להבוקר&quot; בפרס תוכנית האקטואליה המצטיינת ברדיו של אגודת העיתונאים.  בימי חמישי מגישה את התוכנית אשת הטלוויזיה והרדיו אילנה דיין, שהחלה את דרכה בגלי צה&quot;ל ומאז הפכה לעיתונאית תחקירים מובילה ומראיינת בחסד. אילנה לא מוותרת על האהבה הראשונה שלה, הרדיו, ומתייצבת מדי חמישי כדי להביא למאזינים את נקודת המבט שלה על האירועים.</desc>
+  </programme>
+  <programme start="20250918090000 +0300" stop="20250918110000 +0300" channel="glz-RADIO">
+    <title lang="he">אוהד חמו ויניר קוזין</title>
+    <desc lang="he">אוהד חמו ויניר קוזין. הילה קורח ויאיר שרקי בכל שבוע, ב9:00-11:00, לשעתיים של מבט מזווית קצת אחרת על חדשות השבוע החולף וגם על הסיפורים שחמקו מתחת לרדאר.</desc>
+  </programme>
+  <programme start="20250918110000 +0300" stop="20250918120000 +0300" channel="glz-RADIO">
+    <title lang="he">לוסי אהריש וג'קי לוי</title>
+    <desc lang="he">לוסי אהריש וג'קי לוי. לוסי אהריש וג'קי לוי בתוכנית על כל מה שבין האישי לפוליטי והאנשים שמרכיבים את הישראליות.</desc>
+  </programme>
+  <programme start="20250918120000 +0300" stop="20250918130000 +0300" channel="glz-RADIO">
+    <title lang="he">יומן החוץ של גלי צה״ל</title>
+    <desc lang="he">טל שנהב. דסק החוץ של גלי צה&quot;ל יוצא למסע מסביב לעולם בתכנית חדשה בהגשת טל שנהב. התוכנית מסכמת את אירועי השבוע ומביאה ראיונות מעניינים וסיפורים חדשים וצבעוניים מרחבי תבל. מידי חמישי ב-12.</desc>
+  </programme>
+  <programme start="20250918130000 +0300" stop="20250918140000 +0300" channel="glz-RADIO">
+    <title lang="he">עושים ספורט</title>
+    <desc lang="he">דניאל זילברשטיין ואורי אוזן. מה שקורה עכשיו בספורט. תכנית הספורט השבועית שמסכמת עבורכם את אירועי הספורט בארץ ובעולם, ומשלבת ריאיונות נוקבים עם אנשים משלל ענפים ושיחות עם טובי הפרשנים.</desc>
+  </programme>
+  <programme start="20250918140000 +0300" stop="20250918150000 +0300" channel="glz-RADIO">
+    <title lang="he">הג'אם של קוטנר - אולי דנון</title>
+    <desc lang="he">יואב קוטנר. הג'אם של קוטנר.</desc>
+  </programme>
+  <programme start="20250918150000 +0300" stop="20250918155500 +0300" channel="glz-RADIO">
+    <title lang="he">בן וקובי פרג'</title>
+    <desc lang="he">בן וקובי פרג'. האחים פרג' משתלטים על הרדיו לשעה של סיכום השבוע והאירועים החשובים באמת (לפחות לדעתם). בתכנית הם מביאים אל הרדיו את הרחוב הישראלי, על שלל דמויותיו והעניינים הבוערים בו על אש קטנה.</desc>
+  </programme>
+  <programme start="20250918155500 +0300" stop="20250918160000 +0300" channel="glz-RADIO">
+    <title lang="he">באופן מילולי</title>
+    <desc lang="he">אבשלום קור. סיור יומי בנופי העברית לתקופותיה בתנ&quot;ך, במשנה, בעברית המדוברת ובלשונם של העולים לארץ ישראל, וכן השוואת שמות ישובים ללשון האחות, הערבית.</desc>
+  </programme>
+  <programme start="20250918160000 +0300" stop="20250918164500 +0300" channel="glz-RADIO">
+    <title lang="he">ארבע אחרי הצהריים</title>
+    <desc lang="he">ערן אליקים. תוכנית מלאה שירים עבריים מאוצר הזמר העברי, באווירה נוסטלגית.</desc>
+  </programme>
+  <programme start="20250918164500 +0300" stop="20250918170000 +0300" channel="glz-RADIO">
+    <title lang="he">בילוי היום</title>
+    <desc lang="he">אפי בן אברהם. מדריך הבילוי היומי שלכם, עם כל האירועים המעניינים: איפה כדאי לבקר? מה כדאי לראות בטלוויזיה? גם ביקורות והמלצות על מופעים, ספרים, ואלבומים חדשים - וכמובן דיווחים מהשטח על כל אירוע מעניין בזירת התרבות.</desc>
+  </programme>
+  <programme start="20250918170000 +0300" stop="20250918190000 +0300" channel="glz-RADIO">
+    <title lang="he">השבוע שהיה</title>
+    <desc lang="he">אמיר בר שלום ורן יבנאי. יומן הערב של גלי צה&quot;ל עושה סדר בכל הכותרות הרבות והחשובות של היום, ומסכם עבורכם את האירועים החדשותיים הגדולים שהתרחשו.</desc>
+  </programme>
+  <programme start="20250918190000 +0300" stop="20250918200000 +0300" channel="glz-RADIO">
+    <title lang="he">גילוי דעת</title>
+    <desc lang="he">איתי הרמן וענבל גזית. כולנו מכירים את הרגע הזה בו אנחנו מחפשים מידע על משהו באינטרנט, פותחים את ערך הויקיפדיה שלו, וגולשים עוד שעות בעקבות עוד ועוד קישורים. &quot;גילוי דעת&quot; תשאל מידי שבוע שלל שאלות שקשורות לאותו נושא ותנסה לספק לפחות חלק מהתשובות. אנחנו לא נרד לעומקו של עניין אלא נצעד לרוחבו. נתחיל ממילה, מושג או אדם ונסיים אחרי שעה של רצף אסוציאציות הקשורות בדרך זו או אחרת. נפריך מיתוסים, נעסוק בייצוג התרבותי, נבחן את הקשר לפילוסופיה, פיזיקה, ביולוגיה מתמטיקה, היסטוריה, סוציולוגיה, פסיכולוגיה ועוד.  את התוכנית מגישים איתי הרמן (הצ'ייסר) וענבל גזית.</desc>
+  </programme>
+  <programme start="20250918200000 +0300" stop="20250918210000 +0300" channel="glz-RADIO">
+    <title lang="he">העתיד עכשיו</title>
+    <desc lang="he">דרור גלוברמן. מגזין החדשנות והטכנולוגיה של גלי צה&quot;ל, כל יום חמישי בין 20:00-21:00. דרור גלוברמן מביא את הסיפורים והאנשים שמעצבים את המחר שלנו, היום.</desc>
+  </programme>
+  <programme start="20250918210000 +0300" stop="20250918220000 +0300" channel="glz-RADIO">
+    <title lang="he">הסכת &quot;דור הביט&quot;</title>
+    <desc lang="he">הסכת &quot;דור הביט&quot;. הסכת &quot;דור הביט&quot;.</desc>
+  </programme>
+  <programme start="20250918220000 +0300" stop="20250919000000 +0300" channel="glz-RADIO">
+    <title lang="he">רדיו-אקטיבי - תמר ריילי</title>
+    <desc lang="he">עדו שנבל. רדיואקטיבי היא תכנית משחקי מאזינים שמגישה כל שבוע עמית לוי המאזינים מוזמנים להתקשר לאולפן גלי צה&quot;ל, לשחק בשידור חי ולזכות בכרטיסים להופעות שוות.</desc>
+  </programme>
+  <programme start="20250917020000 +0300" stop="20250917060000 +0300" channel="glglz-RADIO">
+    <title lang="he">מוזיקה ברצף</title>
+  </programme>
+  <programme start="20250917060000 +0300" stop="20250917070000 +0300" channel="glglz-RADIO">
+    <title lang="he">דנה עמרמי</title>
+  </programme>
+  <programme start="20250917070000 +0300" stop="20250917100000 +0300" channel="glglz-RADIO">
+    <title lang="he">מדינה בדרך עם הדר מרקס</title>
+    <desc lang="he">עושה לי את הבוקר. עושה לי את הבוקר.</desc>
+  </programme>
+  <programme start="20250917100000 +0300" stop="20250917120000 +0300" channel="glglz-RADIO">
+    <title lang="he">קולות החיילים עם יולי רובין שטיין</title>
+    <desc lang="he">עושה לי את השירות.</desc>
+  </programme>
+  <programme start="20250917120000 +0300" stop="20250917140000 +0300" channel="glglz-RADIO">
+    <title lang="he">בת אור צגאי</title>
+  </programme>
+  <programme start="20250917140000 +0300" stop="20250917150000 +0300" channel="glglz-RADIO">
+    <title lang="he">עשורים עם ערן אליקים</title>
+    <desc lang="he">שנות ה-2000.</desc>
+  </programme>
+  <programme start="20250917150000 +0300" stop="20250917170000 +0300" channel="glglz-RADIO">
+    <title lang="he">טל שנהב</title>
+    <desc lang="he">עושה לי את הצהריים. עושה לי את הדרך.</desc>
+  </programme>
+  <programme start="20250917170000 +0300" stop="20250917190000 +0300" channel="glglz-RADIO">
+    <title lang="he">דנה עמרמי</title>
+  </programme>
+  <programme start="20250917190000 +0300" stop="20250917210000 +0300" channel="glglz-RADIO">
+    <title lang="he">איתי לוי</title>
+  </programme>
+  <programme start="20250917210000 +0300" stop="20250917220000 +0300" channel="glglz-RADIO">
+    <title lang="he">פופטוק</title>
+  </programme>
+  <programme start="20250917220000 +0300" stop="20250918000000 +0300" channel="glglz-RADIO">
+    <title lang="he">שחר אמאנו</title>
+  </programme>
+  <programme start="20250918020000 +0300" stop="20250918060000 +0300" channel="glglz-RADIO">
+    <title lang="he">מוזיקה ברצף</title>
+  </programme>
+  <programme start="20250918060000 +0300" stop="20250918070000 +0300" channel="glglz-RADIO">
+    <title lang="he">עדו שנבל</title>
+  </programme>
+  <programme start="20250918070000 +0300" stop="20250918100000 +0300" channel="glglz-RADIO">
+    <title lang="he">מדינה בדרך עם רואי שריקי</title>
+    <desc lang="he">עושה לי את הבוקר. עושה לי את הבוקר.</desc>
+  </programme>
+  <programme start="20250918100000 +0300" stop="20250918120000 +0300" channel="glglz-RADIO">
+    <title lang="he">קולות החיילים עם יולי רובין שטיין</title>
+    <desc lang="he">עושה לי את השירות.</desc>
+  </programme>
+  <programme start="20250918120000 +0300" stop="20250918140000 +0300" channel="glglz-RADIO">
+    <title lang="he">דלית רצ'שטר</title>
+  </programme>
+  <programme start="20250918140000 +0300" stop="20250918150000 +0300" channel="glglz-RADIO">
+    <title lang="he">עשורים עם מתן לוי</title>
+    <desc lang="he">שנות העשרה.</desc>
+  </programme>
+  <programme start="20250918150000 +0300" stop="20250918170000 +0300" channel="glglz-RADIO">
+    <title lang="he">דנה עמרמי</title>
+    <desc lang="he">עושה לי את הצהריים. עושה לי את הדרך.</desc>
+  </programme>
+  <programme start="20250918170000 +0300" stop="20250918190000 +0300" channel="glglz-RADIO">
+    <title lang="he">אחינעם בר</title>
+  </programme>
+  <programme start="20250918190000 +0300" stop="20250918210000 +0300" channel="glglz-RADIO">
+    <title lang="he">עדן לוי</title>
+    <desc lang="he">עושה לי את הערב.</desc>
+  </programme>
+  <programme start="20250918210000 +0300" stop="20250918230000 +0300" channel="glglz-RADIO">
+    <title lang="he">בת אור צגאי</title>
+  </programme>
+  <programme start="20250918230000 +0300" stop="20250919000000 +0300" channel="glglz-RADIO">
+    <title lang="he">שרול</title>
+  </programme>
   <programme start="20250917000000 +0300" stop="20250917013000 +0300" channel="5-sport-RADIO">
     <title lang="he">אולפן ליגת האלופות לסיכום המשחקים</title>
     <desc lang="he">; אולפן ליגת האלופות.</desc>
@@ -5917,5 +6176,2017 @@
     <title lang="he">ניוקאסל-ברצלונה מח.1‏</title>
     <desc lang="he">; ליגת האלופות.</desc>
     <premiere lang="he"/>
+  </programme>
+  <programme start="20250917000000 +0000" stop="20250917010000 +0000" channel="tarbut-RADIO">
+    <title lang="he">אש זרה(שידור חוזר)</title>
+    <desc lang="he">אש זרה(שידור חוזר).</desc>
+  </programme>
+  <programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="tarbut-RADIO">
+    <title lang="he">רדיו מונדו ש.ח</title>
+    <desc lang="he">רדיו מונדו ש.ח.</desc>
+  </programme>
+  <programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="tarbut-RADIO">
+    <title lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר ש.ח</title>
+    <desc lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר ש.ח.</desc>
+  </programme>
+  <programme start="20250917030000 +0000" stop="20250917040000 +0000" channel="tarbut-RADIO">
+    <title lang="he">המעבדה - גיל מרקוביץ&amp;apos;</title>
+    <desc lang="he">המעבדה - גיל מרקוביץ&amp;apos;.</desc>
+  </programme>
+  <programme start="20250917040000 +0000" stop="20250917040200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917040200 +0000" stop="20250917050000 +0000" channel="tarbut-RADIO">
+    <title lang="he">שלושה שיודעים</title>
+    <desc lang="he">שלושה שיודעים.</desc>
+  </programme>
+  <programme start="20250917050000 +0000" stop="20250917050200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917050200 +0000" stop="20250917060000 +0000" channel="tarbut-RADIO">
+    <title lang="he">גם כן תרבות - גואל פינטו</title>
+    <desc lang="he">גם כן תרבות - גואל פינטו.</desc>
+  </programme>
+  <programme start="20250917060000 +0000" stop="20250917060200 +0000" channel="tarbut-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917060200 +0000" stop="20250917070000 +0000" channel="tarbut-RADIO">
+    <title lang="he">גם כן תרבות - גואל פינטו</title>
+    <desc lang="he">גם כן תרבות - גואל פינטו.</desc>
+  </programme>
+  <programme start="20250917070000 +0000" stop="20250917070200 +0000" channel="tarbut-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917070200 +0000" stop="20250917080000 +0000" channel="tarbut-RADIO">
+    <title lang="he">מה שכרוך - יובל אביבי ומיה סלע</title>
+    <desc lang="he">מה שכרוך - יובל אביבי ומיה סלע.</desc>
+  </programme>
+  <programme start="20250917080000 +0000" stop="20250917080200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917080200 +0000" stop="20250917090000 +0000" channel="tarbut-RADIO">
+    <title lang="he">חיות - כיס</title>
+    <desc lang="he">חיות - כיס.</desc>
+  </programme>
+  <programme start="20250917090000 +0000" stop="20250917090200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917090200 +0000" stop="20250917100000 +0000" channel="tarbut-RADIO">
+    <title lang="he">המאה ה-20: שנה בשעה</title>
+    <desc lang="he">המאה ה-20: שנה בשעה.</desc>
+  </programme>
+  <programme start="20250917100000 +0000" stop="20250917100200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917100200 +0000" stop="20250917110000 +0000" channel="tarbut-RADIO">
+    <title lang="he">המעבדה - גיל מרקוביץ&amp;apos; ש.ח</title>
+    <desc lang="he">המעבדה - גיל מרקוביץ&amp;apos; ש.ח.</desc>
+  </programme>
+  <programme start="20250917110000 +0000" stop="20250917110200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917110200 +0000" stop="20250917120000 +0000" channel="tarbut-RADIO">
+    <title lang="he">מאחורי הקלעים - שידור חוזר</title>
+    <desc lang="he">מאחורי הקלעים - שידור חוזר.</desc>
+  </programme>
+  <programme start="20250917120000 +0000" stop="20250917120200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917120200 +0000" stop="20250917130000 +0000" channel="tarbut-RADIO">
+    <title lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר</title>
+    <desc lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250917130000 +0000" stop="20250917130200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917130200 +0000" stop="20250917140000 +0000" channel="tarbut-RADIO">
+    <title lang="he">שיר- אחד</title>
+    <desc lang="he">שיר- אחד.</desc>
+  </programme>
+  <programme start="20250917140000 +0000" stop="20250917140200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917140200 +0000" stop="20250917150000 +0000" channel="tarbut-RADIO">
+    <title lang="he">יום יום</title>
+    <desc lang="he">יום יום.</desc>
+  </programme>
+  <programme start="20250917150000 +0000" stop="20250917150200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917150200 +0000" stop="20250917160000 +0000" channel="tarbut-RADIO">
+    <title lang="he">רדיו מונדו - משה מורד</title>
+    <desc lang="he">רדיו מונדו - משה מורד.</desc>
+  </programme>
+  <programme start="20250917160000 +0000" stop="20250917160200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917160200 +0000" stop="20250917170000 +0000" channel="tarbut-RADIO">
+    <title lang="he">אש זרה - נדב הלפרין</title>
+    <desc lang="he">אש זרה - נדב הלפרין.</desc>
+  </programme>
+  <programme start="20250917170000 +0000" stop="20250917170200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917170200 +0000" stop="20250917180000 +0000" channel="tarbut-RADIO">
+    <title lang="he">שלושה שיודעים - שידור חוזר</title>
+    <desc lang="he">שלושה שיודעים - שידור חוזר.</desc>
+  </programme>
+  <programme start="20250917180000 +0000" stop="20250917190000 +0000" channel="tarbut-RADIO">
+    <title lang="he">שלושה שיודעים - שידור חוזר</title>
+    <desc lang="he">שלושה שיודעים - שידור חוזר.</desc>
+  </programme>
+  <programme start="20250917190000 +0000" stop="20250917200000 +0000" channel="tarbut-RADIO">
+    <title lang="he">גם כן תרבות-גואל פינטו (ש.ח)</title>
+    <desc lang="he">גם כן תרבות-גואל פינטו (ש.ח).</desc>
+  </programme>
+  <programme start="20250917200000 +0000" stop="20250917210000 +0000" channel="tarbut-RADIO">
+    <title lang="he">מה שכרוך - שידור חוזר</title>
+    <desc lang="he">מה שכרוך - שידור חוזר.</desc>
+  </programme>
+  <programme start="20250917210000 +0000" stop="20250917210100 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917210100 +0000" stop="20250917220000 +0000" channel="tarbut-RADIO">
+    <title lang="he">סיפור אהבה עם ענת שרון בלייס ש.ח</title>
+    <desc lang="he">סיפור אהבה עם ענת שרון בלייס ש.ח.</desc>
+  </programme>
+  <programme start="20250917220000 +0000" stop="20250917230000 +0000" channel="tarbut-RADIO">
+    <title lang="he">המעבדה - גיל מרקוביץ&amp;apos; ש.ח</title>
+    <desc lang="he">המעבדה - גיל מרקוביץ&amp;apos; ש.ח.</desc>
+  </programme>
+  <programme start="20250917230000 +0000" stop="20250918000000 +0000" channel="tarbut-RADIO">
+    <title lang="he">ברית מילה - ש.ח</title>
+    <desc lang="he">ברית מילה - ש.ח.</desc>
+  </programme>
+  <programme start="20250918000000 +0000" stop="20250918010000 +0000" channel="tarbut-RADIO">
+    <title lang="he">אש זרה(שידור חוזר)</title>
+    <desc lang="he">אש זרה(שידור חוזר).</desc>
+  </programme>
+  <programme start="20250918010000 +0000" stop="20250918020000 +0000" channel="tarbut-RADIO">
+    <title lang="he">רדיו מונדו ש.ח</title>
+    <desc lang="he">רדיו מונדו ש.ח.</desc>
+  </programme>
+  <programme start="20250918020000 +0000" stop="20250918030000 +0000" channel="tarbut-RADIO">
+    <title lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר ש.ח</title>
+    <desc lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר ש.ח.</desc>
+  </programme>
+  <programme start="20250918030000 +0000" stop="20250918040000 +0000" channel="tarbut-RADIO">
+    <title lang="he">היסטוריה לילדים ש.ח</title>
+    <desc lang="he">היסטוריה לילדים ש.ח.</desc>
+  </programme>
+  <programme start="20250918040000 +0000" stop="20250918040200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918040200 +0000" stop="20250918050000 +0000" channel="tarbut-RADIO">
+    <title lang="he">גואל פינטו מארח</title>
+    <desc lang="he">גואל פינטו מארח.</desc>
+  </programme>
+  <programme start="20250918050000 +0000" stop="20250918050200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918050200 +0000" stop="20250918060000 +0000" channel="tarbut-RADIO">
+    <title lang="he">מה שכרוך - שידור חוזר</title>
+    <desc lang="he">מה שכרוך - שידור חוזר.</desc>
+  </programme>
+  <programme start="20250918060000 +0000" stop="20250918060200 +0000" channel="tarbut-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918060200 +0000" stop="20250918070000 +0000" channel="tarbut-RADIO">
+    <title lang="he">סקרנית - שרון קנטור</title>
+    <desc lang="he">סקרנית - שרון קנטור.</desc>
+  </programme>
+  <programme start="20250918070000 +0000" stop="20250918070200 +0000" channel="tarbut-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918070200 +0000" stop="20250918080000 +0000" channel="tarbut-RADIO">
+    <title lang="he">1+1 עם אסף ליברמן</title>
+    <desc lang="he">1+1 עם אסף ליברמן.</desc>
+  </programme>
+  <programme start="20250918080000 +0000" stop="20250918080200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918080200 +0000" stop="20250918090000 +0000" channel="tarbut-RADIO">
+    <title lang="he">&amp;quot;חלון גאווה&amp;quot; עם איתי שיקמן</title>
+    <desc lang="he">&amp;quot;חלון גאווה&amp;quot; עם איתי שיקמן.</desc>
+  </programme>
+  <programme start="20250918090000 +0000" stop="20250918090200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918090200 +0000" stop="20250918100000 +0000" channel="tarbut-RADIO">
+    <title lang="he">המאה ה-20: שנה בשעה</title>
+    <desc lang="he">המאה ה-20: שנה בשעה.</desc>
+  </programme>
+  <programme start="20250918100000 +0000" stop="20250918100200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918100200 +0000" stop="20250918110000 +0000" channel="tarbut-RADIO">
+    <title lang="he">מקורב לצלחת - שאול אמסטרדמסקי</title>
+    <desc lang="he">מקורב לצלחת - שאול אמסטרדמסקי.</desc>
+  </programme>
+  <programme start="20250918110000 +0000" stop="20250918110200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918110200 +0000" stop="20250918120000 +0000" channel="tarbut-RADIO">
+    <title lang="he">כאן דוקו</title>
+    <desc lang="he">כאן דוקו.</desc>
+  </programme>
+  <programme start="20250918120000 +0000" stop="20250918120200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918120200 +0000" stop="20250918130000 +0000" channel="tarbut-RADIO">
+    <title lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר</title>
+    <desc lang="he">&amp;quot;נעים בכביש&amp;quot; עם רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250918130000 +0000" stop="20250918130200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918130200 +0000" stop="20250918140000 +0000" channel="tarbut-RADIO">
+    <title lang="he">תרבות הביטול</title>
+    <desc lang="he">תרבות הביטול.</desc>
+  </programme>
+  <programme start="20250918140000 +0000" stop="20250918140200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918140200 +0000" stop="20250918150000 +0000" channel="tarbut-RADIO">
+    <title lang="he">גבוהה גבוהה עם ויויאנה דייטש</title>
+    <desc lang="he">גבוהה גבוהה עם ויויאנה דייטש.</desc>
+  </programme>
+  <programme start="20250918150000 +0000" stop="20250918150200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918150200 +0000" stop="20250918160000 +0000" channel="tarbut-RADIO">
+    <title lang="he">רדיו מונדו - משה מורד</title>
+    <desc lang="he">רדיו מונדו - משה מורד.</desc>
+  </programme>
+  <programme start="20250918160000 +0000" stop="20250918160200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918160200 +0000" stop="20250918170000 +0000" channel="tarbut-RADIO">
+    <title lang="he">סקרנית - שרון קנטור ש.ח</title>
+    <desc lang="he">סקרנית - שרון קנטור ש.ח.</desc>
+  </programme>
+  <programme start="20250918170000 +0000" stop="20250918170200 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918170200 +0000" stop="20250918180000 +0000" channel="tarbut-RADIO">
+    <title lang="he">הבלתי מאוזנים</title>
+    <desc lang="he">הבלתי מאוזנים.</desc>
+  </programme>
+  <programme start="20250918180000 +0000" stop="20250918190000 +0000" channel="tarbut-RADIO">
+    <title lang="he">איך לעשות דברים - שיר ראובן</title>
+    <desc lang="he">איך לעשות דברים - שיר ראובן.</desc>
+  </programme>
+  <programme start="20250918190000 +0000" stop="20250918200000 +0000" channel="tarbut-RADIO">
+    <title lang="he">&amp;quot;פופ אפ&amp;quot; עם אלעד בר-נוי ש.ח</title>
+    <desc lang="he">&amp;quot;פופ אפ&amp;quot; עם אלעד בר-נוי ש.ח.</desc>
+  </programme>
+  <programme start="20250918200000 +0000" stop="20250918210000 +0000" channel="tarbut-RADIO">
+    <title lang="he">מכורים</title>
+    <desc lang="he">מכורים.</desc>
+  </programme>
+  <programme start="20250918210000 +0000" stop="20250918210100 +0000" channel="tarbut-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918210100 +0000" stop="20250918220000 +0000" channel="tarbut-RADIO">
+    <title lang="he">ספיישל 88</title>
+    <desc lang="he">ספיישל 88.</desc>
+  </programme>
+  <programme start="20250918220000 +0000" stop="20250918230000 +0000" channel="tarbut-RADIO">
+    <title lang="he">ספיישל 88</title>
+    <desc lang="he">ספיישל 88.</desc>
+  </programme>
+  <programme start="20250918230000 +0000" stop="20250919000000 +0000" channel="tarbut-RADIO">
+    <title lang="he">&amp;quot;חלון גאווה&amp;quot; עם איתי שיקמן ש.ח</title>
+    <desc lang="he">&amp;quot;חלון גאווה&amp;quot; עם איתי שיקמן ש.ח.</desc>
+  </programme>
+  <programme start="20250917000000 +0000" stop="20250917010000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="moreshet-RADIO">
+    <title lang="he">תפילת שחרית+מוזיקה</title>
+    <desc lang="he">תפילת שחרית+מוזיקה.</desc>
+  </programme>
+  <programme start="20250917030000 +0000" stop="20250917030300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917030300 +0000" stop="20250917040000 +0000" channel="moreshet-RADIO">
+    <title lang="he">סדר לימוד יומי - הרב נפתלי ורסמן</title>
+    <desc lang="he">סדר לימוד יומי - הרב נפתלי ורסמן.</desc>
+  </programme>
+  <programme start="20250917040000 +0000" stop="20250917040300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917040300 +0000" stop="20250917050000 +0000" channel="moreshet-RADIO">
+    <title lang="he">הבוקר עם בני טיטלבוים</title>
+    <desc lang="he">בני טיטלבוים.</desc>
+  </programme>
+  <programme start="20250917050000 +0000" stop="20250917050300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917050300 +0000" stop="20250917060000 +0000" channel="moreshet-RADIO">
+    <title lang="he">קלמן ליברמן איחוד שידורים עם כאן ב</title>
+    <desc lang="he">קלמן ליברמן איחוד שידורים עם כאן ב.</desc>
+  </programme>
+  <programme start="20250917060000 +0000" stop="20250917060300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917060300 +0000" stop="20250917070000 +0000" channel="moreshet-RADIO">
+    <title lang="he">קלמן ליברמן איחוד שידורים עם כאן ב</title>
+    <desc lang="he">קלמן ליברמן איחוד שידורים עם כאן ב.</desc>
+  </programme>
+  <programme start="20250917070000 +0000" stop="20250917070300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917070300 +0000" stop="20250917080000 +0000" channel="moreshet-RADIO">
+    <title lang="he">מנדי ביתאן</title>
+    <desc lang="he">מנדי ביתאן.</desc>
+  </programme>
+  <programme start="20250917080000 +0000" stop="20250917080300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917080300 +0000" stop="20250917090000 +0000" channel="moreshet-RADIO">
+    <title lang="he">התדר משלה - חני ריץ&amp;apos;</title>
+    <desc lang="he">התדר משלה - חני ריץ&amp;apos;.</desc>
+  </programme>
+  <programme start="20250917090000 +0000" stop="20250917090300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917090300 +0000" stop="20250917100000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיר השירים - שירת נשים - דבורה גוטמן קיציס</title>
+    <desc lang="he">שיר השירים - שירת נשים - דבורה גוטמן קיציס.</desc>
+  </programme>
+  <programme start="20250917100000 +0000" stop="20250917100300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917100300 +0000" stop="20250917110000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיר השירים - שיר של יום - דבורה גוטמן קיציס</title>
+    <desc lang="he">שיר השירים - שיר של יום - דבורה גוטמן קיציס.</desc>
+  </programme>
+  <programme start="20250917110000 +0000" stop="20250917110300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917110300 +0000" stop="20250917120000 +0000" channel="moreshet-RADIO">
+    <title lang="he">אורות עם עומר בן רובי</title>
+    <desc lang="he">אורות עם עומר בן רובי.</desc>
+  </programme>
+  <programme start="20250917120000 +0000" stop="20250917120300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917120300 +0000" stop="20250917130000 +0000" channel="moreshet-RADIO">
+    <title lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון</title>
+    <desc lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250917130000 +0000" stop="20250917140000 +0000" channel="moreshet-RADIO">
+    <title lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון</title>
+    <desc lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250917140000 +0000" stop="20250917150000 +0000" channel="moreshet-RADIO">
+    <title lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון</title>
+    <desc lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250917150000 +0000" stop="20250917160000 +0000" channel="moreshet-RADIO">
+    <title lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון</title>
+    <desc lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250917160000 +0000" stop="20250917170000 +0000" channel="moreshet-RADIO">
+    <title lang="he">משדר הערב - דב אייכלר</title>
+    <desc lang="he">משדר הערב - דב אייכלר.</desc>
+  </programme>
+  <programme start="20250917170000 +0000" stop="20250917170300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917170300 +0000" stop="20250917180000 +0000" channel="moreshet-RADIO">
+    <title lang="he">חברותא עם ידידיה תנעמי</title>
+    <desc lang="he">חברותא עם ידידיה תנעמי.</desc>
+  </programme>
+  <programme start="20250917180000 +0000" stop="20250917180300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917180300 +0000" stop="20250917190000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שואל ומשיב עם הרב עובדיה יוסף והרב יוסף אלנקווה</title>
+    <desc lang="he">שואל ומשיב עם הרב עובדיה יוסף והרב יוסף אלנקווה.</desc>
+  </programme>
+  <programme start="20250917190000 +0000" stop="20250917200000 +0000" channel="moreshet-RADIO">
+    <title lang="he">סדר ערב - הרב שלום ארוש</title>
+    <desc lang="he">סדר ערב - הרב שלום ארוש.</desc>
+  </programme>
+  <programme start="20250917200000 +0000" stop="20250917210000 +0000" channel="moreshet-RADIO">
+    <title lang="he">20 דקות תורה</title>
+    <desc lang="he">20 דקות תורה.</desc>
+  </programme>
+  <programme start="20250917210000 +0000" stop="20250917210300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917210300 +0000" stop="20250917220000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250917220000 +0000" stop="20250917230000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250917230000 +0000" stop="20250918000000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250918000000 +0000" stop="20250918010000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250918010000 +0000" stop="20250918020000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250918020000 +0000" stop="20250918030000 +0000" channel="moreshet-RADIO">
+    <title lang="he">תפילת שחרית+מוזיקה</title>
+    <desc lang="he">תפילת שחרית+מוזיקה.</desc>
+  </programme>
+  <programme start="20250918030000 +0000" stop="20250918030300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918030300 +0000" stop="20250918040000 +0000" channel="moreshet-RADIO">
+    <title lang="he">סדר לימוד יומי - הרב נפתלי ורסמן</title>
+    <desc lang="he">סדר לימוד יומי - הרב נפתלי ורסמן.</desc>
+  </programme>
+  <programme start="20250918040000 +0000" stop="20250918040300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918040300 +0000" stop="20250918050000 +0000" channel="moreshet-RADIO">
+    <title lang="he">מוזיקה מורשת</title>
+    <desc lang="he">מוזיקה מורשת.</desc>
+  </programme>
+  <programme start="20250918050000 +0000" stop="20250918050300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918050300 +0000" stop="20250918060000 +0000" channel="moreshet-RADIO">
+    <title lang="he">חמישי עם דב אייכלר</title>
+    <desc lang="he">חמישי עם דב אייכלר.</desc>
+  </programme>
+  <programme start="20250918060000 +0000" stop="20250918060300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918060300 +0000" stop="20250918070000 +0000" channel="moreshet-RADIO">
+    <title lang="he">חמישי עם דב אייכלר</title>
+    <desc lang="he">חמישי עם דב אייכלר.</desc>
+  </programme>
+  <programme start="20250918070000 +0000" stop="20250918070300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918070300 +0000" stop="20250918080000 +0000" channel="moreshet-RADIO">
+    <title lang="he">מנדי ביתאן</title>
+    <desc lang="he">מנדי ביתאן.</desc>
+  </programme>
+  <programme start="20250918080000 +0000" stop="20250918080300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918080300 +0000" stop="20250918090000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שמישהו יאצור אותי עם אלי ביתאן</title>
+    <desc lang="he">שמישהו יאצור אותי עם אלי ביתאן.</desc>
+  </programme>
+  <programme start="20250918090000 +0000" stop="20250918090300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918090300 +0000" stop="20250918100000 +0000" channel="moreshet-RADIO">
+    <title lang="he">זכות הציבור שירים שאהבתם עם נתיב רובינזון</title>
+    <desc lang="he">זכות הציבור שירים שאהבתם עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918100000 +0000" stop="20250918100300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918100300 +0000" stop="20250918110000 +0000" channel="moreshet-RADIO">
+    <title lang="he">זכות הציבור שירים שאהבתם עם נתיב רובינזון</title>
+    <desc lang="he">זכות הציבור שירים שאהבתם עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918110000 +0000" stop="20250918110300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918110300 +0000" stop="20250918120000 +0000" channel="moreshet-RADIO">
+    <title lang="he">זכות הציבור שירים שאהבתם עם נתיב רובינזון</title>
+    <desc lang="he">זכות הציבור שירים שאהבתם עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918120000 +0000" stop="20250918120300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918120300 +0000" stop="20250918130000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעור של הרבנית חגית שירה</title>
+    <desc lang="he">שיעור של הרבנית חגית שירה.</desc>
+  </programme>
+  <programme start="20250918130000 +0000" stop="20250918140000 +0000" channel="moreshet-RADIO">
+    <title lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון</title>
+    <desc lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="moreshet-RADIO">
+    <title lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון</title>
+    <desc lang="he">בדרך שלנו - מוזיקה בכאן מורשת עם נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="moreshet-RADIO">
+    <title lang="he">מעיינות הפרשה עם הרב יוסף צבי צירקוס</title>
+    <desc lang="he">מעיינות הפרשה עם הרב יוסף צבי צירקוס.</desc>
+  </programme>
+  <programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="moreshet-RADIO">
+    <title lang="he">רוק.דוט - ארוע הצדעה לנשות המילואימניקים</title>
+    <desc lang="he">ספיישל מורשת.</desc>
+  </programme>
+  <programme start="20250918170000 +0000" stop="20250918170300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918170300 +0000" stop="20250918180000 +0000" channel="moreshet-RADIO">
+    <title lang="he">רוק.דוט - ארוע הצדעה לנשות המילואימניקים</title>
+    <desc lang="he">ספיישל מורשת.</desc>
+  </programme>
+  <programme start="20250918180000 +0000" stop="20250918180300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918180300 +0000" stop="20250918190000 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדר אומנים עם דבורה גוטמן קיציס</title>
+    <desc lang="he">חדר אומנים עם דבורה גוטמן קיציס.</desc>
+  </programme>
+  <programme start="20250918190000 +0000" stop="20250918200000 +0000" channel="moreshet-RADIO">
+    <title lang="he">סדר ערב - הרב יצחק בצרי</title>
+    <desc lang="he">סדר ערב - הרב יצחק בצרי.</desc>
+  </programme>
+  <programme start="20250918200000 +0000" stop="20250918210000 +0000" channel="moreshet-RADIO">
+    <title lang="he">התוועדות - מנדי גרוזמן</title>
+    <desc lang="he">התוועדות - מנדי גרוזמן.</desc>
+  </programme>
+  <programme start="20250918210000 +0000" stop="20250918210300 +0000" channel="moreshet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918210300 +0000" stop="20250918220000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250918220000 +0000" stop="20250918230000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250918230000 +0000" stop="20250919000000 +0000" channel="moreshet-RADIO">
+    <title lang="he">שיעורי תורה בכאן מורשת</title>
+    <desc lang="he">שיעורי תורה בכאן מורשת.</desc>
+  </programme>
+  <programme start="20250917000000 +0000" stop="20250917010000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שידורי לילה</title>
+    <desc lang="he">שידורי לילה.</desc>
+  </programme>
+  <programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">קול הלילה</title>
+    <desc lang="he">קול הלילה.</desc>
+  </programme>
+  <programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">קול הלילה</title>
+    <desc lang="he">קול הלילה.</desc>
+  </programme>
+  <programme start="20250917030000 +0000" stop="20250917030300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917030300 +0000" stop="20250917040000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שעון מוזיקלי</title>
+    <desc lang="he">שעון מוזיקלי.</desc>
+  </programme>
+  <programme start="20250917040000 +0000" stop="20250917040300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917040300 +0000" stop="20250917050000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שחרית אישית עם אלכס אנסקי</title>
+    <desc lang="he">שחרית אישית עם אלכס אנסקי.</desc>
+  </programme>
+  <programme start="20250917050000 +0000" stop="20250917050300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917050300 +0000" stop="20250917060000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">ארוחת בוקר</title>
+    <desc lang="he">ארוחת בוקר.</desc>
+  </programme>
+  <programme start="20250917060000 +0000" stop="20250917070000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">ארוחת בוקר</title>
+    <desc lang="he">ארוחת בוקר.</desc>
+  </programme>
+  <programme start="20250917070000 +0000" stop="20250917080000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">היצירות הגדולות</title>
+    <desc lang="he">היצירות הגדולות.</desc>
+  </programme>
+  <programme start="20250917080000 +0000" stop="20250917090000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">היצירות הגדולות</title>
+    <desc lang="he">היצירות הגדולות.</desc>
+  </programme>
+  <programme start="20250917090000 +0000" stop="20250917090300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917090300 +0000" stop="20250917100000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">זרקור</title>
+    <desc lang="he">זרקור.</desc>
+  </programme>
+  <programme start="20250917100000 +0000" stop="20250917110000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">זרקור</title>
+    <desc lang="he">זרקור.</desc>
+  </programme>
+  <programme start="20250917110000 +0000" stop="20250917120000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">סייסטה מוסיקלית</title>
+    <desc lang="he">סייסטה מוסיקלית.</desc>
+  </programme>
+  <programme start="20250917120000 +0000" stop="20250917130000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">סייסטה מוסיקלית</title>
+    <desc lang="he">סייסטה מוסיקלית.</desc>
+  </programme>
+  <programme start="20250917130000 +0000" stop="20250917140000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מכאן לשם - מוסיקה בדרך הביתה</title>
+    <desc lang="he">מכאן לשם - מוסיקה בדרך הביתה.</desc>
+  </programme>
+  <programme start="20250917140000 +0000" stop="20250917150000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מכאן לשם - מוסיקה בדרך הביתה</title>
+    <desc lang="he">מכאן לשם - מוסיקה בדרך הביתה.</desc>
+  </programme>
+  <programme start="20250917150000 +0000" stop="20250917160000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">קלאסיקל לפנות ערב</title>
+    <desc lang="he">קלאסיקללפנות ערב.</desc>
+  </programme>
+  <programme start="20250917160000 +0000" stop="20250917170000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מהקלטות EBU</title>
+    <desc lang="he">מהקלטות EBU.</desc>
+  </programme>
+  <programme start="20250917170000 +0000" stop="20250917180000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מהקלטות EBU</title>
+    <desc lang="he">מהקלטות EBU.</desc>
+  </programme>
+  <programme start="20250917180000 +0000" stop="20250917190000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">אוצר מן העבר</title>
+    <desc lang="he">אוצר מן העבר.</desc>
+  </programme>
+  <programme start="20250917190000 +0000" stop="20250917200000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מוזיקה לסוף היום</title>
+    <desc lang="he">מוזיקה לסוף היום.</desc>
+  </programme>
+  <programme start="20250917200000 +0000" stop="20250917210000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מסביב לחצות</title>
+    <desc lang="he">מסביב לחצות.</desc>
+  </programme>
+  <programme start="20250917210000 +0000" stop="20250917210100 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917210100 +0000" stop="20250917220000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מאוצר הסרטייה</title>
+    <desc lang="he">מאוצר הסרטייה.</desc>
+  </programme>
+  <programme start="20250917220000 +0000" stop="20250918000000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שידורי לילה</title>
+    <desc lang="he">שידורי לילה.</desc>
+  </programme>
+  <programme start="20250918000000 +0000" stop="20250918010000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שידורי לילה</title>
+    <desc lang="he">שידורי לילה.</desc>
+  </programme>
+  <programme start="20250918010000 +0000" stop="20250918020000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">קול הלילה</title>
+    <desc lang="he">קול הלילה.</desc>
+  </programme>
+  <programme start="20250918020000 +0000" stop="20250918030000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">קול הלילה</title>
+    <desc lang="he">קול הלילה.</desc>
+  </programme>
+  <programme start="20250918030000 +0000" stop="20250918030300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918030300 +0000" stop="20250918040000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שעון מוזיקלי</title>
+    <desc lang="he">שעון מוזיקלי.</desc>
+  </programme>
+  <programme start="20250918040000 +0000" stop="20250918040300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918040300 +0000" stop="20250918050000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שחרית אישית עם אלכס אנסקי</title>
+    <desc lang="he">שחרית אישית עם אלכס אנסקי.</desc>
+  </programme>
+  <programme start="20250918050000 +0000" stop="20250918050300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918050300 +0000" stop="20250918060000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">ארוחת בוקר - עורכת: ליאל וקסמן מגישה: אורלי מורג</title>
+    <desc lang="he">ארוחת בוקר - עורכת: ליאל וקסמן מגישה: אורלי מורג.</desc>
+  </programme>
+  <programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">ארוחת בוקר - עורכת: ליאל וקסמן מגישה: אורלי מורג</title>
+    <desc lang="he">ארוחת בוקר - עורכת: ליאל וקסמן מגישה: אורלי מורג.</desc>
+  </programme>
+  <programme start="20250918070000 +0000" stop="20250918080000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">היצירות הגדולות</title>
+    <desc lang="he">היצירות הגדולות.</desc>
+  </programme>
+  <programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">היצירות הגדולות</title>
+    <desc lang="he">היצירות הגדולות.</desc>
+  </programme>
+  <programme start="20250918090000 +0000" stop="20250918090300 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918090300 +0000" stop="20250918100000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חמישי מנצח</title>
+    <desc lang="he">חמישי מנצח.</desc>
+  </programme>
+  <programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חמישי מנצח</title>
+    <desc lang="he">חמישי מנצח.</desc>
+  </programme>
+  <programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">סיסטה מוזיקלית עם אילה אשרוב</title>
+    <desc lang="he">סיסטה מוזיקלית עם אילה אשרוב.</desc>
+  </programme>
+  <programme start="20250918120000 +0000" stop="20250918130000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">סיסטה מוזיקלית עם אילה אשרוב</title>
+    <desc lang="he">סיסטה מוזיקלית עם אילה אשרוב.</desc>
+  </programme>
+  <programme start="20250918130000 +0000" stop="20250918140000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מכאן לשם – עורך ומגיש: עמיר לקח אביבי</title>
+    <desc lang="he">מכאן לשם – עורך ומגיש: עמיר לקח אביבי.</desc>
+  </programme>
+  <programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מכאן לשם – עורך ומגיש: עמיר לקח אביבי</title>
+    <desc lang="he">מכאן לשם – עורך ומגיש: עמיר לקח אביבי.</desc>
+  </programme>
+  <programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">המגזין עורכת: יוליה צודיקס</title>
+    <desc lang="he">המגזיןעורכת: יוליה צודיקס.</desc>
+  </programme>
+  <programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">לוקל-קלאסי קונצרטים נבחרים</title>
+    <desc lang="he">לוקל-קלאסי קונצרטים נבחרים.</desc>
+  </programme>
+  <programme start="20250918170000 +0000" stop="20250918180000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">לוקל-קלאסי קונצרטים נבחרים</title>
+    <desc lang="he">לוקל-קלאסי קונצרטים נבחרים.</desc>
+  </programme>
+  <programme start="20250918180000 +0000" stop="20250918190000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">לוקל-קלאסי קונצרטים נבחרים</title>
+    <desc lang="he">לוקל-קלאסי קונצרטים נבחרים.</desc>
+  </programme>
+  <programme start="20250918190000 +0000" stop="20250918200000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מוזיקה לסוף היום</title>
+    <desc lang="he">מוזיקה לסוף היום.</desc>
+  </programme>
+  <programme start="20250918200000 +0000" stop="20250918210000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מסביב לחצות</title>
+    <desc lang="he">מסביב לחצות.</desc>
+  </programme>
+  <programme start="20250918210000 +0000" stop="20250918210100 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918210100 +0000" stop="20250918220000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">מאוצר הסרטייה</title>
+    <desc lang="he">מאוצר הסרטייה.</desc>
+  </programme>
+  <programme start="20250918220000 +0000" stop="20250918230000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שידורי לילה</title>
+    <desc lang="he">שידורי לילה.</desc>
+  </programme>
+  <programme start="20250918230000 +0000" stop="20250919000000 +0000" channel="kol-hamuzika-RADIO">
+    <title lang="he">שידורי לילה</title>
+    <desc lang="he">שידורי לילה.</desc>
+  </programme>
+  <programme start="20250917000000 +0000" stop="20250917000200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917000200 +0000" stop="20250917010000 +0000" channel="bet-RADIO">
+    <title lang="he">זה מגיע לכם עם ד&amp;quot;ר גילי תמיר</title>
+    <desc lang="he">זה מגיע לכם עם ד&amp;quot;ר גילי תמיר.</desc>
+  </programme>
+  <programme start="20250917010000 +0000" stop="20250917010200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917010200 +0000" stop="20250917020000 +0000" channel="bet-RADIO">
+    <title lang="he">תרבותניקים</title>
+    <desc lang="he">תרבותניקים.</desc>
+  </programme>
+  <programme start="20250917020000 +0000" stop="20250917020200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917020200 +0000" stop="20250917030000 +0000" channel="bet-RADIO">
+    <title lang="he">אור ראשון</title>
+    <desc lang="he">אור ראשון.</desc>
+  </programme>
+  <programme start="20250917030000 +0000" stop="20250917030200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917030200 +0000" stop="20250917040000 +0000" channel="bet-RADIO">
+    <title lang="he">הבוקר הזה עם אריה גולן</title>
+    <desc lang="he">הבוקר הזה עם אריה גולן.</desc>
+  </programme>
+  <programme start="20250917040000 +0000" stop="20250917040200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917040200 +0000" stop="20250917050000 +0000" channel="bet-RADIO">
+    <title lang="he">הבוקר הזה עם אריה גולן</title>
+    <desc lang="he">הבוקר הזה עם אריה גולן.</desc>
+  </programme>
+  <programme start="20250917050000 +0000" stop="20250917050200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917050200 +0000" stop="20250917060000 +0000" channel="bet-RADIO">
+    <title lang="he">קלמן - ליברמן</title>
+    <desc lang="he">קלמן - ליברמן.</desc>
+  </programme>
+  <programme start="20250917060000 +0000" stop="20250917060200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917060200 +0000" stop="20250917070000 +0000" channel="bet-RADIO">
+    <title lang="he">קלמן - ליברמן</title>
+    <desc lang="he">קלמן - ליברמן.</desc>
+  </programme>
+  <programme start="20250917070000 +0000" stop="20250917070200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917070200 +0000" stop="20250917080000 +0000" channel="bet-RADIO">
+    <title lang="he">סדר יום עם קרן נויבך</title>
+    <desc lang="he">סדר יום עם קרן נויבך.</desc>
+  </programme>
+  <programme start="20250917080000 +0000" stop="20250917080200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917080200 +0000" stop="20250917090000 +0000" channel="bet-RADIO">
+    <title lang="he">סדר יום עם קרן נויבך</title>
+    <desc lang="he">סדר יום עם קרן נויבך.</desc>
+  </programme>
+  <programme start="20250917090000 +0000" stop="20250917090200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917090200 +0000" stop="20250917100000 +0000" channel="bet-RADIO">
+    <title lang="he">בחצי היום עם אסתי פרז</title>
+    <desc lang="he">בחצי היום עם אסתי פרז.</desc>
+  </programme>
+  <programme start="20250917100000 +0000" stop="20250917100200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917100200 +0000" stop="20250917110000 +0000" channel="bet-RADIO">
+    <title lang="he">בחצי היום עם אסתי פרז</title>
+    <desc lang="he">בחצי היום עם אסתי פרז.</desc>
+  </programme>
+  <programme start="20250917110000 +0000" stop="20250917110200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917110200 +0000" stop="20250917120000 +0000" channel="bet-RADIO">
+    <title lang="he">רגעי קסם עם גדי ליבנה</title>
+    <desc lang="he">רגעי קסם עם גדי ליבנה.</desc>
+  </programme>
+  <programme start="20250917120000 +0000" stop="20250917120200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917120200 +0000" stop="20250917130000 +0000" channel="bet-RADIO">
+    <title lang="he">השעה הבינלאומית עם ערן סיקורל</title>
+    <desc lang="he">השעה הבינלאומית עם ערן סיקורל.</desc>
+  </programme>
+  <programme start="20250917130000 +0000" stop="20250917130200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917130200 +0000" stop="20250917135500 +0000" channel="bet-RADIO">
+    <title lang="he">צבע הכסף עם רונן פולק</title>
+    <desc lang="he">צבע הכסף עם רונן פולק.</desc>
+  </programme>
+  <programme start="20250917135500 +0000" stop="20250917140000 +0000" channel="bet-RADIO">
+    <title lang="he">בנימיני ומזל מועלם</title>
+    <desc lang="he">בנימיני ומזל מועלם.</desc>
+  </programme>
+  <programme start="20250917140000 +0000" stop="20250917150000 +0000" channel="bet-RADIO">
+    <title lang="he">בנימיני ומזל מועלם</title>
+    <desc lang="he">בנימיני ומזל מועלם.</desc>
+  </programme>
+  <programme start="20250917150000 +0000" stop="20250917150200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917150200 +0000" stop="20250917160000 +0000" channel="bet-RADIO">
+    <title lang="he">בנימיני ומזל מועלם</title>
+    <desc lang="he">בנימיני ומזל מועלם.</desc>
+  </programme>
+  <programme start="20250917160000 +0000" stop="20250917160200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917160200 +0000" stop="20250917165300 +0000" channel="bet-RADIO">
+    <title lang="he">זה מגיע לכם עם ד&amp;quot;ר גילי תמיר</title>
+    <desc lang="he">זה מגיע לכם עם ד&amp;quot;ר גילי תמיר.</desc>
+  </programme>
+  <programme start="20250917165300 +0000" stop="20250917170000 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917170000 +0000" stop="20250917180000 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות הערב</title>
+    <desc lang="he">חדשות הערב.</desc>
+  </programme>
+  <programme start="20250917180000 +0000" stop="20250917180200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917180200 +0000" stop="20250917190000 +0000" channel="bet-RADIO">
+    <title lang="he">כאן צפון עם חן ביאר</title>
+    <desc lang="he">כאן צפון עם חן ביאר.</desc>
+  </programme>
+  <programme start="20250917190000 +0000" stop="20250917190200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917190200 +0000" stop="20250917200000 +0000" channel="bet-RADIO">
+    <title lang="he">תרבותניקים</title>
+    <desc lang="he">תרבותניקים.</desc>
+  </programme>
+  <programme start="20250917200000 +0000" stop="20250917200200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917200200 +0000" stop="20250917210000 +0000" channel="bet-RADIO">
+    <title lang="he">כאן הלילה עם חן ביאר</title>
+    <desc lang="he">כאן הלילה עם חן ביאר.</desc>
+  </programme>
+  <programme start="20250917210000 +0000" stop="20250917210200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917210200 +0000" stop="20250917220000 +0000" channel="bet-RADIO">
+    <title lang="he">סדר יום עם קרן נויבך</title>
+    <desc lang="he">סדר יום עם קרן נויבך.</desc>
+  </programme>
+  <programme start="20250917220000 +0000" stop="20250917220200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917220200 +0000" stop="20250917230000 +0000" channel="bet-RADIO">
+    <title lang="he">צבע הכסף עם רונן פולק</title>
+    <desc lang="he">צבע הכסף עם רונן פולק.</desc>
+  </programme>
+  <programme start="20250917230000 +0000" stop="20250917230200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917230200 +0000" stop="20250918000000 +0000" channel="bet-RADIO">
+    <title lang="he">השעה הבינלאומית עם ערן סיקורל</title>
+    <desc lang="he">השעה הבינלאומית עם ערן סיקורל.</desc>
+  </programme>
+  <programme start="20250918000000 +0000" stop="20250918000200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918000200 +0000" stop="20250918010000 +0000" channel="bet-RADIO">
+    <title lang="he">זה מגיע לכם עם ד&amp;quot;ר גילי תמיר</title>
+    <desc lang="he">זה מגיע לכם עם ד&amp;quot;ר גילי תמיר.</desc>
+  </programme>
+  <programme start="20250918010000 +0000" stop="20250918010200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918010200 +0000" stop="20250918020000 +0000" channel="bet-RADIO">
+    <title lang="he">תרבותניקים</title>
+    <desc lang="he">תרבותניקים.</desc>
+  </programme>
+  <programme start="20250918020000 +0000" stop="20250918020200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918020200 +0000" stop="20250918030000 +0000" channel="bet-RADIO">
+    <title lang="he">אור ראשון</title>
+    <desc lang="he">אור ראשון.</desc>
+  </programme>
+  <programme start="20250918030000 +0000" stop="20250918030200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918030200 +0000" stop="20250918040000 +0000" channel="bet-RADIO">
+    <title lang="he">הבוקר הזה עם אילאיל שחר</title>
+    <desc lang="he">הבוקר הזה עם איילה חסון.</desc>
+  </programme>
+  <programme start="20250918040000 +0000" stop="20250918040200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918040200 +0000" stop="20250918050000 +0000" channel="bet-RADIO">
+    <title lang="he">הבוקר הזה עם אילאיל שחר</title>
+    <desc lang="he">הבוקר הזה עם איילה חסון.</desc>
+  </programme>
+  <programme start="20250918050000 +0000" stop="20250918050200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918050200 +0000" stop="20250918060000 +0000" channel="bet-RADIO">
+    <title lang="he">עקיבא נוביק ורינה מצליח</title>
+    <desc lang="he">עקיבא ורינה.</desc>
+  </programme>
+  <programme start="20250918060000 +0000" stop="20250918060200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918060200 +0000" stop="20250918070000 +0000" channel="bet-RADIO">
+    <title lang="he">עקיבא נוביק ורינה מצליח</title>
+    <desc lang="he">עקיבא ורינה.</desc>
+  </programme>
+  <programme start="20250918070000 +0000" stop="20250918070200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918070200 +0000" stop="20250918080000 +0000" channel="bet-RADIO">
+    <title lang="he">גילי כהן ועומרי אסנהיים</title>
+    <desc lang="he">גילי כהן ועומרי אסנהיים.</desc>
+  </programme>
+  <programme start="20250918080000 +0000" stop="20250918080200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918080200 +0000" stop="20250918090000 +0000" channel="bet-RADIO">
+    <title lang="he">גילי כהן ועומרי אסנהיים</title>
+    <desc lang="he">גילי כהן ועומרי אסנהיים.</desc>
+  </programme>
+  <programme start="20250918090000 +0000" stop="20250918090200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918090200 +0000" stop="20250918100000 +0000" channel="bet-RADIO">
+    <title lang="he">בחצי היום עם ליאת רגב</title>
+    <desc lang="he">בחצי היום עם ליאת רגב.</desc>
+  </programme>
+  <programme start="20250918100000 +0000" stop="20250918100200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918100200 +0000" stop="20250918110000 +0000" channel="bet-RADIO">
+    <title lang="he">בחצי היום עם ליאת רגב</title>
+    <desc lang="he">בחצי היום עם ליאת רגב.</desc>
+  </programme>
+  <programme start="20250918110000 +0000" stop="20250918110200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918110200 +0000" stop="20250918120000 +0000" channel="bet-RADIO">
+    <title lang="he">רגעי קסם עם גדי ליבנה</title>
+    <desc lang="he">רגעי קסם עם גדי ליבנה.</desc>
+  </programme>
+  <programme start="20250918120000 +0000" stop="20250918120200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918120200 +0000" stop="20250918130000 +0000" channel="bet-RADIO">
+    <title lang="he">מרחאבית עם ערן זינגר</title>
+    <desc lang="he">מרחאבית עם ערן זינגר.</desc>
+  </programme>
+  <programme start="20250918130000 +0000" stop="20250918130200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918130200 +0000" stop="20250918135500 +0000" channel="bet-RADIO">
+    <title lang="he">כאן ספורט עם ליאן וילדאו</title>
+    <desc lang="he">כאן ספורט עם ליאן וילדאו.</desc>
+  </programme>
+  <programme start="20250918135500 +0000" stop="20250918140000 +0000" channel="bet-RADIO">
+    <title lang="he">חן ליברמן וישי שנרב</title>
+    <desc lang="he">חן ליברמן וישי שנרב.</desc>
+  </programme>
+  <programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="bet-RADIO">
+    <title lang="he">חן ליברמן וישי שנרב</title>
+    <desc lang="he">חן ליברמן וישי שנרב.</desc>
+  </programme>
+  <programme start="20250918150000 +0000" stop="20250918150200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918150200 +0000" stop="20250918160000 +0000" channel="bet-RADIO">
+    <title lang="he">חן ליברמן וישי שנרב</title>
+    <desc lang="he">חן ליברמן וישי שנרב.</desc>
+  </programme>
+  <programme start="20250918160000 +0000" stop="20250918160200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918160200 +0000" stop="20250918165300 +0000" channel="bet-RADIO">
+    <title lang="he">929 עם בני לאו ולירון מרוז</title>
+    <desc lang="he">929 עם בני לאו ולירון מרוז.</desc>
+  </programme>
+  <programme start="20250918165300 +0000" stop="20250918170000 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918170000 +0000" stop="20250918180000 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות הערב</title>
+    <desc lang="he">חדשות הערב.</desc>
+  </programme>
+  <programme start="20250918180000 +0000" stop="20250918180200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918180200 +0000" stop="20250918190000 +0000" channel="bet-RADIO">
+    <title lang="he">כאן דרום</title>
+    <desc lang="he">כאן דרום עם אסף פוזיילוב.</desc>
+  </programme>
+  <programme start="20250918190000 +0000" stop="20250918190200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918190200 +0000" stop="20250918200000 +0000" channel="bet-RADIO">
+    <title lang="he">חמישי עם יואב קרקובסקי</title>
+    <desc lang="he">חמישי עם יואב קרקובסקי.</desc>
+  </programme>
+  <programme start="20250918200000 +0000" stop="20250918200200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918200200 +0000" stop="20250918210000 +0000" channel="bet-RADIO">
+    <title lang="he">חמישי עם יואב קרקובסקי</title>
+    <desc lang="he">חמישי עם יואב קרקובסקי.</desc>
+  </programme>
+  <programme start="20250918210000 +0000" stop="20250918210200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918210200 +0000" stop="20250918220000 +0000" channel="bet-RADIO">
+    <title lang="he">קפה שישי</title>
+    <desc lang="he">קפה שישי.</desc>
+  </programme>
+  <programme start="20250918220000 +0000" stop="20250918220200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918220200 +0000" stop="20250918230000 +0000" channel="bet-RADIO">
+    <title lang="he">מקורב לצלחת עם שאול אמסטרדמסקי</title>
+    <desc lang="he">מקורב לצלחת עם שאול אמסטרדמסקי.</desc>
+  </programme>
+  <programme start="20250918230000 +0000" stop="20250918230200 +0000" channel="bet-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918230200 +0000" stop="20250919000000 +0000" channel="bet-RADIO">
+    <title lang="he">מרחאבית עם ערן זינגר</title>
+    <desc lang="he">מרחאבית עם ערן זינגר.</desc>
+  </programme>
+  <programme start="20250917000000 +0000" stop="20250917010000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250917030000 +0000" stop="20250917030200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917030200 +0000" stop="20250917040000 +0000" channel="gimmel-RADIO">
+    <title lang="he">עורך - ערן ליטוין</title>
+    <desc lang="he">עורך - ערן ליטוין.</desc>
+  </programme>
+  <programme start="20250917040000 +0000" stop="20250917040200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917040200 +0000" stop="20250917050000 +0000" channel="gimmel-RADIO">
+    <title lang="he">#התחלנו עם מאיה בצלאל וקותי סבג</title>
+    <desc lang="he">#התחלנו עם מאיה בצלאל וקותי סבג.</desc>
+  </programme>
+  <programme start="20250917050000 +0000" stop="20250917050200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917050200 +0000" stop="20250917060000 +0000" channel="gimmel-RADIO">
+    <title lang="he">#התחלנו עם מאיה בצלאל וקותי סבג</title>
+    <desc lang="he">#התחלנו עם מאיה בצלאל וקותי סבג.</desc>
+  </programme>
+  <programme start="20250917060000 +0000" stop="20250917060200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917060200 +0000" stop="20250917070000 +0000" channel="gimmel-RADIO">
+    <title lang="he">אהרן פררה</title>
+    <desc lang="he">אהרן פררה.</desc>
+  </programme>
+  <programme start="20250917070000 +0000" stop="20250917070200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917070200 +0000" stop="20250917080000 +0000" channel="gimmel-RADIO">
+    <title lang="he">אהרן פררה</title>
+    <desc lang="he">אהרן פררה.</desc>
+  </programme>
+  <programme start="20250917080000 +0000" stop="20250917080200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917080200 +0000" stop="20250917090000 +0000" channel="gimmel-RADIO">
+    <title lang="he">אהרן פררה</title>
+    <desc lang="he">אהרן פררה.</desc>
+  </programme>
+  <programme start="20250917090000 +0000" stop="20250917090200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917090200 +0000" stop="20250917100000 +0000" channel="gimmel-RADIO">
+    <title lang="he">צהריים של געגוע - שירה אלבוחר</title>
+    <desc lang="he">צהריים של געגוע - שירה אלבוחר.</desc>
+  </programme>
+  <programme start="20250917100000 +0000" stop="20250917100200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917100200 +0000" stop="20250917110000 +0000" channel="gimmel-RADIO">
+    <title lang="he">צהריים של געגוע - שירה אלבוחר</title>
+    <desc lang="he">צהריים של געגוע - שירה אלבוחר.</desc>
+  </programme>
+  <programme start="20250917110000 +0000" stop="20250917110200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917110200 +0000" stop="20250917120000 +0000" channel="gimmel-RADIO">
+    <title lang="he">אגן הים התיכון עם ורד יפתחי גרין</title>
+    <desc lang="he">אגן הים התיכון עם ורד יפתחי גרין.</desc>
+  </programme>
+  <programme start="20250917120000 +0000" stop="20250917120200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917120200 +0000" stop="20250917130000 +0000" channel="gimmel-RADIO">
+    <title lang="he">אגן הים התיכון עם ורד יפתחי גרין</title>
+    <desc lang="he">אגן הים התיכון עם ורד יפתחי גרין.</desc>
+  </programme>
+  <programme start="20250917130000 +0000" stop="20250917130200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917130200 +0000" stop="20250917140000 +0000" channel="gimmel-RADIO">
+    <title lang="he">עמלי חביב פרגון</title>
+    <desc lang="he">עמלי חביב פרגון.</desc>
+  </programme>
+  <programme start="20250917140000 +0000" stop="20250917140200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917140200 +0000" stop="20250917150000 +0000" channel="gimmel-RADIO">
+    <title lang="he">עמלי חביב פרגון</title>
+    <desc lang="he">עמלי חביב פרגון.</desc>
+  </programme>
+  <programme start="20250917150000 +0000" stop="20250917150200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917150200 +0000" stop="20250917160000 +0000" channel="gimmel-RADIO">
+    <title lang="he">עמלי חביב פרגון</title>
+    <desc lang="he">עמלי חביב פרגון.</desc>
+  </programme>
+  <programme start="20250917160000 +0000" stop="20250917160200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917160200 +0000" stop="20250917170000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית אסתי סילפן</title>
+    <desc lang="he">מוזיקה ישראלית אסתי סילפן.</desc>
+  </programme>
+  <programme start="20250917170000 +0000" stop="20250917170200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917170200 +0000" stop="20250917180000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית אסתי סילפן</title>
+    <desc lang="he">מוזיקה ישראלית אסתי סילפן.</desc>
+  </programme>
+  <programme start="20250917180000 +0000" stop="20250917190000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית אסתי סילפן</title>
+    <desc lang="he">מוזיקה ישראלית אסתי סילפן.</desc>
+  </programme>
+  <programme start="20250917190000 +0000" stop="20250917200000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית אסתי סילפן</title>
+    <desc lang="he">מוזיקה ישראלית אסתי סילפן.</desc>
+  </programme>
+  <programme start="20250917200000 +0000" stop="20250917210000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250917210000 +0000" stop="20250917210100 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250917210100 +0000" stop="20250917220000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250917220000 +0000" stop="20250917230000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250917230000 +0000" stop="20250918000000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918000000 +0000" stop="20250918010000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918010000 +0000" stop="20250918020000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918020000 +0000" stop="20250918030000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918030000 +0000" stop="20250918030200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918030200 +0000" stop="20250918040000 +0000" channel="gimmel-RADIO">
+    <title lang="he">עורך - ערן ליטוין</title>
+    <desc lang="he">עורך - ערן ליטוין.</desc>
+  </programme>
+  <programme start="20250918040000 +0000" stop="20250918040200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918040200 +0000" stop="20250918050000 +0000" channel="gimmel-RADIO">
+    <title lang="he">נתיב רובינזון</title>
+    <desc lang="he">נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918050000 +0000" stop="20250918050200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918050200 +0000" stop="20250918060000 +0000" channel="gimmel-RADIO">
+    <title lang="he">נתיב רובינזון</title>
+    <desc lang="he">נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918060000 +0000" stop="20250918060200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918060200 +0000" stop="20250918070000 +0000" channel="gimmel-RADIO">
+    <title lang="he">נתיב רובינזון</title>
+    <desc lang="he">נתיב רובינזון.</desc>
+  </programme>
+  <programme start="20250918070000 +0000" stop="20250918070200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918070200 +0000" stop="20250918080000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית - שירה אלבוחר</title>
+    <desc lang="he">מוזיקה ישראלית - שירה אלבוחר.</desc>
+  </programme>
+  <programme start="20250918080000 +0000" stop="20250918080200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918080200 +0000" stop="20250918090000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית - שירה אלבוחר</title>
+    <desc lang="he">מוזיקה ישראלית - שירה אלבוחר.</desc>
+  </programme>
+  <programme start="20250918090000 +0000" stop="20250918090200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918090200 +0000" stop="20250918100000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית</title>
+    <desc lang="he">מוזיקה ישראלית.</desc>
+  </programme>
+  <programme start="20250918100000 +0000" stop="20250918100200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918100200 +0000" stop="20250918110000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית</title>
+    <desc lang="he">מוזיקה ישראלית.</desc>
+  </programme>
+  <programme start="20250918110000 +0000" stop="20250918110200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918110200 +0000" stop="20250918120000 +0000" channel="gimmel-RADIO">
+    <title lang="he">המצעד השנתי של ישראל תשפ&amp;quot;ה בהגשת עמלי חביב פרגון וטל ארגמן</title>
+    <desc lang="he">ספיישל גימל.</desc>
+  </programme>
+  <programme start="20250918120000 +0000" stop="20250918120200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918120200 +0000" stop="20250918130000 +0000" channel="gimmel-RADIO">
+    <title lang="he">המצעד השנתי של ישראל תשפ&amp;quot;ה בהגשת עמלי חביב פרגון וטל ארגמן</title>
+    <desc lang="he">ספיישל גימל.</desc>
+  </programme>
+  <programme start="20250918130000 +0000" stop="20250918130200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918130200 +0000" stop="20250918140000 +0000" channel="gimmel-RADIO">
+    <title lang="he">המצעד השנתי של ישראל תשפ&amp;quot;ה בהגשת עמלי חביב פרגון וטל ארגמן</title>
+    <desc lang="he">ספיישל גימל.</desc>
+  </programme>
+  <programme start="20250918140000 +0000" stop="20250918140200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918140200 +0000" stop="20250918150000 +0000" channel="gimmel-RADIO">
+    <title lang="he">המצעד השנתי של ישראל תשפ&amp;quot;ה בהגשת עמלי חביב פרגון וטל ארגמן</title>
+    <desc lang="he">ספיישל גימל.</desc>
+  </programme>
+  <programme start="20250918150000 +0000" stop="20250918150200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918150200 +0000" stop="20250918160000 +0000" channel="gimmel-RADIO">
+    <title lang="he">ערב בכאן גימל</title>
+    <desc lang="he">ערב בכאן גימל.</desc>
+  </programme>
+  <programme start="20250918160000 +0000" stop="20250918160200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918160200 +0000" stop="20250918170000 +0000" channel="gimmel-RADIO">
+    <title lang="he">ערב בכאן גימל</title>
+    <desc lang="he">ערב בכאן גימל.</desc>
+  </programme>
+  <programme start="20250918170000 +0000" stop="20250918170200 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918170200 +0000" stop="20250918180000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מסיבה ישראלית</title>
+    <desc lang="he">מסיבה ישראלית.</desc>
+  </programme>
+  <programme start="20250918180000 +0000" stop="20250918190000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מסיבה ישראלית</title>
+    <desc lang="he">מסיבה ישראלית.</desc>
+  </programme>
+  <programme start="20250918190000 +0000" stop="20250918200000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918200000 +0000" stop="20250918210000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918210000 +0000" stop="20250918210100 +0000" channel="gimmel-RADIO">
+    <title lang="he">חדשות כאן ב</title>
+    <desc lang="he">חדשות כאן ב.</desc>
+  </programme>
+  <programme start="20250918210100 +0000" stop="20250918220000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918220000 +0000" stop="20250918230000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250918230000 +0000" stop="20250919000000 +0000" channel="gimmel-RADIO">
+    <title lang="he">מוזיקה ישראלית ברצף</title>
+    <desc lang="he">מוזיקה ישראלית ברצף.</desc>
+  </programme>
+  <programme start="20250917000000 +0000" stop="20250917010000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250917030000 +0000" stop="20250917040000 +0000" channel="reka-RADIO">
+    <title lang="he">אמהרית-מהדורת חדשות</title>
+    <desc lang="he">אמהרית-מהדורת חדשות.</desc>
+  </programme>
+  <programme start="20250917040000 +0000" stop="20250917040500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917040500 +0000" stop="20250917050000 +0000" channel="reka-RADIO">
+    <title lang="he">הנושא היומי</title>
+    <desc lang="he">הנושא היומי.</desc>
+  </programme>
+  <programme start="20250917050000 +0000" stop="20250917050500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917050500 +0000" stop="20250917060000 +0000" channel="reka-RADIO">
+    <title lang="he">הנושא היומי</title>
+    <desc lang="he">הנושא היומי.</desc>
+  </programme>
+  <programme start="20250917060000 +0000" stop="20250917060500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917060500 +0000" stop="20250917070000 +0000" channel="reka-RADIO">
+    <title lang="he">בוקר טוב ישראל</title>
+    <desc lang="he">בוקר טוב ישראל.</desc>
+  </programme>
+  <programme start="20250917070000 +0000" stop="20250917070500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917070500 +0000" stop="20250917080000 +0000" channel="reka-RADIO">
+    <title lang="he">בוקר טוב ישראל</title>
+    <desc lang="he">בוקר טוב ישראל.</desc>
+  </programme>
+  <programme start="20250917080000 +0000" stop="20250917080500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917080500 +0000" stop="20250917090000 +0000" channel="reka-RADIO">
+    <title lang="he">שעה עם אלה גיצין</title>
+    <desc lang="he">שעה עם אלה גיצין.</desc>
+  </programme>
+  <programme start="20250917090000 +0000" stop="20250917093000 +0000" channel="reka-RADIO">
+    <title lang="he">כאן גיאורגית</title>
+    <desc lang="he">גיאורגית.</desc>
+  </programme>
+  <programme start="20250917093000 +0000" stop="20250917100000 +0000" channel="reka-RADIO">
+    <title lang="he">בוכרית</title>
+    <desc lang="he">בוכרית.</desc>
+  </programme>
+  <programme start="20250917100000 +0000" stop="20250917110000 +0000" channel="reka-RADIO">
+    <title lang="he">אמהרית</title>
+    <desc lang="he">אמהרית.</desc>
+  </programme>
+  <programme start="20250917110000 +0000" stop="20250917120000 +0000" channel="reka-RADIO">
+    <title lang="he">ספרדית</title>
+    <desc lang="he">ספרדית.</desc>
+  </programme>
+  <programme start="20250917120000 +0000" stop="20250917120500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917120500 +0000" stop="20250917130000 +0000" channel="reka-RADIO">
+    <title lang="he">טניה ברסקי - ברכות ומוזיקה</title>
+    <desc lang="he">טניה ברסקי - ברכות ומוזיקה.</desc>
+  </programme>
+  <programme start="20250917130000 +0000" stop="20250917130500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917130500 +0000" stop="20250917140000 +0000" channel="reka-RADIO">
+    <title lang="he">איגור חריף</title>
+    <desc lang="he">איגור חריף.</desc>
+  </programme>
+  <programme start="20250917140000 +0000" stop="20250917140500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917140500 +0000" stop="20250917150000 +0000" channel="reka-RADIO">
+    <title lang="he">מקרה מיוחד-יאנה בריסקמן</title>
+    <desc lang="he">מקרה מיוחד-יאנה בריסקמן.</desc>
+  </programme>
+  <programme start="20250917150000 +0000" stop="20250917150500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917150500 +0000" stop="20250917160000 +0000" channel="reka-RADIO">
+    <title lang="he">יומן חדשות הערב ברשת רקע</title>
+    <desc lang="he">יומן חדשות הערב ברשת רקע.</desc>
+  </programme>
+  <programme start="20250917160000 +0000" stop="20250917170000 +0000" channel="reka-RADIO">
+    <title lang="he">אמהרית ערב</title>
+    <desc lang="he">אמהרית ערב.</desc>
+  </programme>
+  <programme start="20250917170000 +0000" stop="20250917180000 +0000" channel="reka-RADIO">
+    <title lang="he">אנגלית</title>
+    <desc lang="he">אנגלית.</desc>
+  </programme>
+  <programme start="20250917180000 +0000" stop="20250917190000 +0000" channel="reka-RADIO">
+    <title lang="he">צרפתית Kan en français</title>
+    <desc lang="he">צרפתית Kan en français.</desc>
+  </programme>
+  <programme start="20250917190000 +0000" stop="20250917200000 +0000" channel="reka-RADIO">
+    <title lang="he">משמרת לילה</title>
+  </programme>
+  <programme start="20250917200000 +0000" stop="20250917210000 +0000" channel="reka-RADIO">
+    <title lang="he">משמרת לילה</title>
+  </programme>
+  <programme start="20250917210000 +0000" stop="20250917210100 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917210100 +0000" stop="20250917220000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250917220000 +0000" stop="20250917230000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250917230000 +0000" stop="20250918000000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250918000000 +0000" stop="20250918010000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250918010000 +0000" stop="20250918020000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250918020000 +0000" stop="20250918030000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250918030000 +0000" stop="20250918040000 +0000" channel="reka-RADIO">
+    <title lang="he">אמהרית-מהדורת חדשות</title>
+    <desc lang="he">אמהרית-מהדורת חדשות.</desc>
+  </programme>
+  <programme start="20250918040000 +0000" stop="20250918040500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918040500 +0000" stop="20250918050000 +0000" channel="reka-RADIO">
+    <title lang="he">הנושא היומי</title>
+    <desc lang="he">הנושא היומי.</desc>
+  </programme>
+  <programme start="20250918050000 +0000" stop="20250918050500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918050500 +0000" stop="20250918060000 +0000" channel="reka-RADIO">
+    <title lang="he">הנושא היומי</title>
+    <desc lang="he">הנושא היומי.</desc>
+  </programme>
+  <programme start="20250918060000 +0000" stop="20250918060500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918060500 +0000" stop="20250918070000 +0000" channel="reka-RADIO">
+    <title lang="he">בוקר טוב ישראל</title>
+    <desc lang="he">בוקר טוב ישראל.</desc>
+  </programme>
+  <programme start="20250918070000 +0000" stop="20250918070500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918070500 +0000" stop="20250918080000 +0000" channel="reka-RADIO">
+    <title lang="he">בוקר טוב ישראל</title>
+    <desc lang="he">בוקר טוב ישראל.</desc>
+  </programme>
+  <programme start="20250918080000 +0000" stop="20250918080500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918080500 +0000" stop="20250918090000 +0000" channel="reka-RADIO">
+    <title lang="he">מיקרופון פתוח Открытый микрофон</title>
+    <desc lang="he">מיקרופון פתוח Открытый микрофон.</desc>
+  </programme>
+  <programme start="20250918090000 +0000" stop="20250918093000 +0000" channel="reka-RADIO">
+    <title lang="he">כאן גיאורגית</title>
+    <desc lang="he">גיאורגית.</desc>
+  </programme>
+  <programme start="20250918093000 +0000" stop="20250918100000 +0000" channel="reka-RADIO">
+    <title lang="he">בוכרית</title>
+    <desc lang="he">בוכרית.</desc>
+  </programme>
+  <programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="reka-RADIO">
+    <title lang="he">אמהרית</title>
+    <desc lang="he">אמהרית.</desc>
+  </programme>
+  <programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="reka-RADIO">
+    <title lang="he">ספרדית</title>
+    <desc lang="he">ספרדית.</desc>
+  </programme>
+  <programme start="20250918120000 +0000" stop="20250918130000 +0000" channel="reka-RADIO">
+    <title lang="he">כאן פרסית מירושלים</title>
+    <desc lang="he">כאן פרסית מירושלים.</desc>
+  </programme>
+  <programme start="20250918130000 +0000" stop="20250918130500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918130500 +0000" stop="20250918140000 +0000" channel="reka-RADIO">
+    <title lang="he">שניים באחד עם לנה רוסובסקי</title>
+    <desc lang="he">שניים באחד עם לנה רוסובסקי.</desc>
+  </programme>
+  <programme start="20250918140000 +0000" stop="20250918140500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918140500 +0000" stop="20250918150000 +0000" channel="reka-RADIO">
+    <title lang="he">שעת היסטוריה</title>
+    <desc lang="he">שעת היסטוריה.</desc>
+  </programme>
+  <programme start="20250918150000 +0000" stop="20250918150500 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918150500 +0000" stop="20250918160000 +0000" channel="reka-RADIO">
+    <title lang="he">יומן חדשות הערב ברשת רקע</title>
+    <desc lang="he">יומן חדשות הערב ברשת רקע.</desc>
+  </programme>
+  <programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="reka-RADIO">
+    <title lang="he">אמהרית ערב</title>
+    <desc lang="he">אמהרית ערב.</desc>
+  </programme>
+  <programme start="20250918170000 +0000" stop="20250918180000 +0000" channel="reka-RADIO">
+    <title lang="he">אנגלית</title>
+    <desc lang="he">אנגלית.</desc>
+  </programme>
+  <programme start="20250918180000 +0000" stop="20250918190000 +0000" channel="reka-RADIO">
+    <title lang="he">צרפתית Kan en français</title>
+    <desc lang="he">צרפתית Kan en français.</desc>
+  </programme>
+  <programme start="20250918190000 +0000" stop="20250918200000 +0000" channel="reka-RADIO">
+    <title lang="he">משמרת לילה</title>
+  </programme>
+  <programme start="20250918200000 +0000" stop="20250918210000 +0000" channel="reka-RADIO">
+    <title lang="he">משמרת לילה</title>
+  </programme>
+  <programme start="20250918210000 +0000" stop="20250918210100 +0000" channel="reka-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918210100 +0000" stop="20250918220000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250918220000 +0000" stop="20250918230000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250918230000 +0000" stop="20250919000000 +0000" channel="reka-RADIO">
+    <title lang="he">רקע - שידור לילה</title>
+    <desc lang="he">רקע - שידור לילה.</desc>
+  </programme>
+  <programme start="20250917000000 +0000" stop="20250917010000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250917010000 +0000" stop="20250917020000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250917020000 +0000" stop="20250917030000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250917030000 +0000" stop="20250917040000 +0000" channel="88-RADIO">
+    <title lang="he">עורכת מיה אופל דרוקמן</title>
+    <desc lang="he">עורכת מיה אופל דרוקמן.</desc>
+  </programme>
+  <programme start="20250917040000 +0000" stop="20250917050000 +0000" channel="88-RADIO">
+    <title lang="he">דורי בן-זאב</title>
+    <desc lang="he">דורי בן-זאב.</desc>
+  </programme>
+  <programme start="20250917050000 +0000" stop="20250917060000 +0000" channel="88-RADIO">
+    <title lang="he">דורי בן-זאב</title>
+    <desc lang="he">דורי בן-זאב.</desc>
+  </programme>
+  <programme start="20250917060000 +0000" stop="20250917070000 +0000" channel="88-RADIO">
+    <title lang="he">מיה אופל דרוקמן</title>
+    <desc lang="he">נעמי שלו.</desc>
+  </programme>
+  <programme start="20250917070000 +0000" stop="20250917080000 +0000" channel="88-RADIO">
+    <title lang="he">מיה אופל דרוקמן</title>
+    <desc lang="he">נעמי שלו.</desc>
+  </programme>
+  <programme start="20250917080000 +0000" stop="20250917090000 +0000" channel="88-RADIO">
+    <title lang="he">קבי דסטה</title>
+    <desc lang="he">קבי דסטה.</desc>
+  </programme>
+  <programme start="20250917090000 +0000" stop="20250917100000 +0000" channel="88-RADIO">
+    <title lang="he">קבי דסטה</title>
+    <desc lang="he">קבי דסטה.</desc>
+  </programme>
+  <programme start="20250917100000 +0000" stop="20250917110000 +0000" channel="88-RADIO">
+    <title lang="he">רוני ורטהיימר</title>
+    <desc lang="he">רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250917110000 +0000" stop="20250917120000 +0000" channel="88-RADIO">
+    <title lang="he">רוני ורטהיימר</title>
+    <desc lang="he">רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250917120000 +0000" stop="20250917130000 +0000" channel="88-RADIO">
+    <title lang="he">רוני ורטהיימר</title>
+    <desc lang="he">רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250917130000 +0000" stop="20250917140000 +0000" channel="88-RADIO">
+    <title lang="he">שרלוט לוי</title>
+    <desc lang="he">שרלוט לוי.</desc>
+  </programme>
+  <programme start="20250917140000 +0000" stop="20250917150000 +0000" channel="88-RADIO">
+    <title lang="he">שרלוט לוי</title>
+    <desc lang="he">שרלוט לוי.</desc>
+  </programme>
+  <programme start="20250917150000 +0000" stop="20250917160000 +0000" channel="88-RADIO">
+    <title lang="he">שרלוט לוי</title>
+    <desc lang="he">שרלוט לוי.</desc>
+  </programme>
+  <programme start="20250917160000 +0000" stop="20250917170000 +0000" channel="88-RADIO">
+    <title lang="he">עורכת שרלוט לוי</title>
+    <desc lang="he">עורכת שרלוט לוי.</desc>
+  </programme>
+  <programme start="20250917170000 +0000" stop="20250917180000 +0000" channel="88-RADIO">
+    <title lang="he">שורשים״ עם תומר מולוידזון</title>
+    <desc lang="he">שורשים״ עם תומר מולוידזון.</desc>
+  </programme>
+  <programme start="20250917180000 +0000" stop="20250917190000 +0000" channel="88-RADIO">
+    <title lang="he">מצב טיסה עם גיל מטוס</title>
+    <desc lang="he">מצב טיסה עם גיל מטוס.</desc>
+  </programme>
+  <programme start="20250917190000 +0000" stop="20250917200000 +0000" channel="88-RADIO">
+    <title lang="he">אוסף פרטי איתי צימר</title>
+    <desc lang="he">אוסף פרטי איתי צימר.</desc>
+  </programme>
+  <programme start="20250917200000 +0000" stop="20250917210000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250917210000 +0000" stop="20250917210100 +0000" channel="88-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250917210100 +0000" stop="20250917220000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250917220000 +0000" stop="20250917230000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250917230000 +0000" stop="20250918000000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250918000000 +0000" stop="20250918010000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250918010000 +0000" stop="20250918020000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250918020000 +0000" stop="20250918030000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250918030000 +0000" stop="20250918040000 +0000" channel="88-RADIO">
+    <title lang="he">עורך ברק איצקוביץ&amp;apos;</title>
+    <desc lang="he">עורכת שרלוט לוי.</desc>
+  </programme>
+  <programme start="20250918040000 +0000" stop="20250918050000 +0000" channel="88-RADIO">
+    <title lang="he">לאון פלדמן</title>
+    <desc lang="he">יואב יפת.</desc>
+  </programme>
+  <programme start="20250918050000 +0000" stop="20250918060000 +0000" channel="88-RADIO">
+    <title lang="he">לאון פלדמן</title>
+    <desc lang="he">יואב יפת.</desc>
+  </programme>
+  <programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="88-RADIO">
+    <title lang="he">לאון פלדמן</title>
+    <desc lang="he">יואב יפת.</desc>
+  </programme>
+  <programme start="20250918070000 +0000" stop="20250918080000 +0000" channel="88-RADIO">
+    <title lang="he">נוגה קליין</title>
+    <desc lang="he">נוגה קליין.</desc>
+  </programme>
+  <programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="88-RADIO">
+    <title lang="he">נוגה קליין</title>
+    <desc lang="he">נוגה קליין.</desc>
+  </programme>
+  <programme start="20250918090000 +0000" stop="20250918100000 +0000" channel="88-RADIO">
+    <title lang="he">נוגה קליין</title>
+    <desc lang="he">נוגה קליין.</desc>
+  </programme>
+  <programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="88-RADIO">
+    <title lang="he">רוני ורטהיימר</title>
+    <desc lang="he">רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="88-RADIO">
+    <title lang="he">רוני ורטהיימר</title>
+    <desc lang="he">רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250918120000 +0000" stop="20250918130000 +0000" channel="88-RADIO">
+    <title lang="he">רוני ורטהיימר</title>
+    <desc lang="he">רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250918130000 +0000" stop="20250918140000 +0000" channel="88-RADIO">
+    <title lang="he">שרלוט לוי</title>
+    <desc lang="he">מאיה דרוקמן.</desc>
+  </programme>
+  <programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="88-RADIO">
+    <title lang="he">שרלוט לוי</title>
+    <desc lang="he">מאיה דרוקמן.</desc>
+  </programme>
+  <programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="88-RADIO">
+    <title lang="he">שרלוט לוי</title>
+    <desc lang="he">מאיה דרוקמן.</desc>
+  </programme>
+  <programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="88-RADIO">
+    <title lang="he">עורכת שרלוט לוי</title>
+    <desc lang="he">עורכת שרלוט לוי.</desc>
+  </programme>
+  <programme start="20250918170000 +0000" stop="20250918180000 +0000" channel="88-RADIO">
+    <title lang="he">דיבור מקומי – רוני ורטהיימר מארח את פיטר רוט</title>
+    <desc lang="he">דיבור מקומי רוני ורטהיימר.</desc>
+  </programme>
+  <programme start="20250918180000 +0000" stop="20250918190000 +0000" channel="88-RADIO">
+    <title lang="he">&amp;quot;שעת מוזיקה רוני ורטהיימר&amp;quot;</title>
+    <desc lang="he">&amp;quot;שעת מוזיקה רוני ורטהיימר&amp;quot;.</desc>
+  </programme>
+  <programme start="20250918190000 +0000" stop="20250918200000 +0000" channel="88-RADIO">
+    <title lang="he">אוסף פרטי עם נוגה קליין</title>
+    <desc lang="he">אוסף פרטי עם נוגה קליין.</desc>
+  </programme>
+  <programme start="20250918200000 +0000" stop="20250918210000 +0000" channel="88-RADIO">
+    <title lang="he">עד חצות</title>
+    <desc lang="he">עד חצות.</desc>
+  </programme>
+  <programme start="20250918210000 +0000" stop="20250918210100 +0000" channel="88-RADIO">
+    <title lang="he">כאן חדשות</title>
+    <desc lang="he">כאן חדשות.</desc>
+  </programme>
+  <programme start="20250918210100 +0000" stop="20250918220000 +0000" channel="88-RADIO">
+    <title lang="he">ערביט</title>
+    <desc lang="he">ערביט.</desc>
+  </programme>
+  <programme start="20250918220000 +0000" stop="20250918230000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
+  </programme>
+  <programme start="20250918230000 +0000" stop="20250919000000 +0000" channel="88-RADIO">
+    <title lang="he">לילה של אלבומים. עורך: גיל מטוס</title>
+    <desc lang="he">לילה של אלבומים. עורך: גיל מטוס.</desc>
   </programme>
 </tv>
