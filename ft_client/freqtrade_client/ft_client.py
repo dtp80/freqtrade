@@ -5,7 +5,7 @@ import logging
 import re
 import sys
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any
 
 import rapidjson
 
@@ -81,8 +81,8 @@ def print_commands():
             print(f"{x}\n\t{doc}\n")
 
 
-def main_exec(parsed: Dict[str, Any]):
-    if parsed.get("show"):
+def main_exec(parsed: dict[str, Any]):
+    if parsed.get("show") or parsed.get("command") in ("show", "help"):
         print_commands()
         sys.exit()
 

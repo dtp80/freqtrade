@@ -19,7 +19,7 @@ from tests.exchange.test_exchange import ccxt_exceptionhandlers
 )
 def test_create_stoploss_order_htx(default_conf, mocker, limitratio, expected, side):
     api_mock = MagicMock()
-    order_id = f"test_prod_buy_{randint(0, 10 ** 6)}"
+    order_id = f"test_prod_buy_{randint(0, 10**6)}"
     order_type = "stop-limit"
 
     api_mock.create_order = MagicMock(return_value={"id": order_id, "info": {"foo": "bar"}})
@@ -123,7 +123,8 @@ def test_create_stoploss_order_dry_run_htx(default_conf, mocker):
     assert "type" in order
 
     assert order["type"] == order_type
-    assert order["price"] == 220
+    assert order["price"] == 217.8
+    assert order["stopPrice"] == 220
     assert order["amount"] == 1
 
 

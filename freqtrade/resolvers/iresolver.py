@@ -8,8 +8,9 @@ import importlib.util
 import inspect
 import logging
 import sys
+from collections.abc import Iterator
 from pathlib import Path
-from typing import Any, Dict, Iterator, List, Optional, Tuple, Type, Union
+from typing import Any
 
 from freqtrade.constants import Config
 from freqtrade.exceptions import OperationalException
@@ -40,21 +41,21 @@ class IResolver:
     """
 
     # Childclasses need to override this
-    object_type: Type[Any]
+    object_type: type[Any]
     object_type_str: str
-    user_subdir: Optional[str] = None
-    initial_search_path: Optional[Path] = None
+    user_subdir: str | None = None
+    initial_search_path: Path | None = None
     # Optional config setting containing a path (strategy_path, freqaimodel_path)
-    extra_path: Optional[str] = None
+    extra_path: str | None = None
 
     @classmethod
     def build_search_paths(
         cls,
         config: Config,
-        user_subdir: Optional[str] = None,
-        extra_dirs: Optional[List[str]] = None,
-    ) -> List[Path]:
-        abs_paths: List[Path] = []
+        user_subdir: str | None = None,
+        extra_dirs: list[str] | None = None,
+    ) -> list[Path]:
+        abs_paths: list[Path] = []
         if cls.initial_search_path:
             abs_paths.append(cls.initial_search_path)
 
@@ -73,7 +74,7 @@ class IResolver:
 
     @classmethod
     def _get_valid_object(
-        cls, module_path: Path, object_name: Optional[str], enum_failed: bool = False
+        cls, module_path: Path, object_name: str | None, enum_failed: bool = False
     ) -> Iterator[Any]:
         """
         Generator returning objects with matching object_type and object_name in the path given.
@@ -85,13 +86,13 @@ class IResolver:
              Tuple format: [Object, source]
         """
 
-        # Generate spec based on absolute path
-        # Pass object_name as first argument to have logging print a reasonable name.
         with PathModifier(module_path.parent):
             module_name = module_path.stem or ""
+            # Generate spec based on absolute path
+            # Pass object_name as first argument to have logging print a reasonable name.
             spec = importlib.util.spec_from_file_location(module_name, str(module_path))
             if not spec:
-                return iter([None])
+                return iter([])
 
             module = importlib.util.module_from_spec(spec)
             try:
@@ -108,15 +109,21 @@ class IResolver:
                 if enum_failed:
                     return iter([None])
 
+            def is_valid_class(obj):
+                try:
+                    return (
+                        inspect.isclass(obj)
+                        and issubclass(obj, cls.object_type)
+                        and obj is not cls.object_type
+                        and obj.__module__ == module_name
+                    )
+                except TypeError:
+                    return False
+
             valid_objects_gen = (
                 (obj, inspect.getsource(module))
-                for name, obj in inspect.getmembers(module, inspect.isclass)
-                if (
-                    (object_name is None or object_name == name)
-                    and issubclass(obj, cls.object_type)
-                    and obj is not cls.object_type
-                    and obj.__module__ == module_name
-                )
+                for name, obj in inspect.getmembers(module, is_valid_class)
+                if (object_name is None or object_name == name)
             )
             # The __module__ check ensures we only use strategies that are defined in this folder.
             return valid_objects_gen
@@ -124,7 +131,7 @@ class IResolver:
     @classmethod
     def _search_object(
         cls, directory: Path, *, object_name: str, add_source: bool = False
-    ) -> Union[Tuple[Any, Path], Tuple[None, None]]:
+    ) -> tuple[Any, Path] | tuple[None, None]:
         """
         Search for the objectname in the given directory
         :param directory: relative or absolute directory path
@@ -132,7 +139,7 @@ class IResolver:
         :return: object class
         """
         logger.debug(f"Searching for {cls.object_type.__name__} {object_name} in '{directory}'")
-        for entry in directory.iterdir():
+        for entry in sorted(directory.iterdir()):
             # Only consider python files
             if entry.suffix != ".py":
                 logger.debug("Ignoring %s", entry)
@@ -141,10 +148,11 @@ class IResolver:
                 logger.debug("Ignoring broken symlink %s", entry)
                 continue
             module_path = entry.resolve()
+            if entry.read_text(encoding="utf-8").find(f"class {object_name}(") == -1:
+                logger.debug(f"Skipping {module_path} as it does not contain class {object_name}.")
+                continue
 
-            obj = next(cls._get_valid_object(module_path, object_name), None)
-
-            if obj:
+            if obj := next(cls._get_valid_object(module_path, object_name), None):
                 obj[0].__file__ = str(entry)
                 if add_source:
                     obj[0].__source__ = obj[1]
@@ -153,10 +161,14 @@ class IResolver:
 
     @classmethod
     def _load_object(
-        cls, paths: List[Path], *, object_name: str, add_source: bool = False, kwargs: Dict
-    ) -> Optional[Any]:
+        cls, paths: list[Path], *, object_name: str, add_source: bool = False, kwargs: dict
+    ) -> Any | None:
         """
         Try to load object from path list.
+        :param paths: list of absolute paths to search
+        :param object_name: name of the module to import
+        :param add_source: add the source code as __source__ attribute to theloaded object.
+        :param kwargs: keyword arguments to pass to the object constructor
         """
 
         for _path in paths:
@@ -177,7 +189,7 @@ class IResolver:
 
     @classmethod
     def load_object(
-        cls, object_name: str, config: Config, *, kwargs: dict, extra_dir: Optional[str] = None
+        cls, object_name: str, config: Config, *, kwargs: dict, extra_dir: str | None = None
     ) -> Any:
         """
         Search and loads the specified object as configured in the child class.
@@ -188,7 +200,7 @@ class IResolver:
         :return: Object instance or None
         """
 
-        extra_dirs: List[str] = []
+        extra_dirs: list[str] = []
         if extra_dir:
             extra_dirs.append(extra_dir)
 
@@ -207,7 +219,7 @@ class IResolver:
     @classmethod
     def search_all_objects(
         cls, config: Config, enum_failed: bool, recursive: bool = False
-    ) -> List[Dict[str, Any]]:
+    ) -> list[dict[str, Any]]:
         """
         Searches for valid objects
         :param config: Config object
@@ -238,8 +250,8 @@ class IResolver:
         directory: Path,
         enum_failed: bool,
         recursive: bool = False,
-        basedir: Optional[Path] = None,
-    ) -> List[Dict[str, Any]]:
+        basedir: Path | None = None,
+    ) -> list[dict[str, Any]]:
         """
         Searches a directory for valid objects
         :param directory: Path to search
@@ -249,7 +261,7 @@ class IResolver:
         :return: List of dicts containing 'name', 'class' and 'location' entries
         """
         logger.debug(f"Searching for {cls.object_type.__name__} '{directory}'")
-        objects: List[Dict[str, Any]] = []
+        objects: list[dict[str, Any]] = []
         if not directory.is_dir():
             logger.info(f"'{directory}' is not a directory, skipping.")
             return objects

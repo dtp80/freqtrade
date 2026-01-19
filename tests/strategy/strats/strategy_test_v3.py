@@ -1,7 +1,6 @@
 # pragma pylint: disable=missing-docstring, invalid-name, pointless-string-statement
 
 from datetime import datetime
-from typing import Optional
 
 import talib.abstract as ta
 from pandas import DataFrame
@@ -24,6 +23,16 @@ class StrategyTestV3(IStrategy):
     Please look at the SampleStrategy in the user_data/strategy directory
     or strategy repository https://github.com/freqtrade/freqtrade-strategies
     for samples and inspiration.
+
+    ---
+
+    Some test asian characters.
+    Ensures that unicode characters are handled correctly when reading strategy files.
+    Otherwise this may break on windows systems.
+    All roughly translate to "hello world".
+        chinese string: "你好世界"
+        korean string: "안녕하세요,세계"
+        japanese string: "こんにちは、世界"
     """
 
     INTERFACE_VERSION = 3
@@ -75,15 +84,13 @@ class StrategyTestV3(IStrategy):
     protection_cooldown_lookback = IntParameter([0, 50], default=30)
 
     # TODO: Can this work with protection tests? (replace HyperoptableStrategy implicitly ... )
-    # @property
-    # def protections(self):
-    #     prot = []
-    #     if self.protection_enabled.value:
-    #         prot.append({
-    #             "method": "CooldownPeriod",
-    #             "stop_duration_candles": self.protection_cooldown_lookback.value
-    #         })
-    #     return prot
+    @property
+    def protections(self):
+        prot = []
+        if self.protection_enabled.value:
+            # Workaround to simplify tests. This will not work in real scenarios.
+            prot = self.config.get("_strategy_protections", {})
+        return prot
 
     bot_started = False
 
@@ -177,7 +184,7 @@ class StrategyTestV3(IStrategy):
         current_rate: float,
         proposed_leverage: float,
         max_leverage: float,
-        entry_tag: Optional[str],
+        entry_tag: str | None,
         side: str,
         **kwargs,
     ) -> float:
@@ -192,14 +199,14 @@ class StrategyTestV3(IStrategy):
         current_time: datetime,
         current_rate: float,
         current_profit: float,
-        min_stake: Optional[float],
+        min_stake: float | None,
         max_stake: float,
         current_entry_rate: float,
         current_exit_rate: float,
         current_entry_profit: float,
         current_exit_profit: float,
         **kwargs,
-    ) -> Optional[float]:
+    ) -> float | None:
         if current_profit < -0.0075:
             orders = trade.select_filled_orders(trade.entry_side)
             return round(orders[0].stake_amount, 0)

@@ -1,6 +1,6 @@
 import logging
 from time import time
-from typing import Any, Tuple
+from typing import Any
 
 import numpy as np
 import numpy.typing as npt
@@ -18,7 +18,7 @@ class BaseClassifierModel(IFreqaiModel):
     """
     Base class for regression type models (e.g. Catboost, LightGBM, XGboost etc.).
     User *must* inherit from this class and set fit(). See example scripts
-    such as prediction_models/CatboostClassifier.py for guidance.
+    such as prediction_models/XGBoostClassifier.py for guidance.
     """
 
     def train(self, unfiltered_df: DataFrame, pair: str, dk: FreqaiDataKitchen, **kwargs) -> Any:
@@ -86,7 +86,7 @@ class BaseClassifierModel(IFreqaiModel):
 
     def predict(
         self, unfiltered_df: DataFrame, dk: FreqaiDataKitchen, **kwargs
-    ) -> Tuple[DataFrame, npt.NDArray[np.int_]]:
+    ) -> tuple[DataFrame, npt.NDArray[np.int_]]:
         """
         Filter the prediction features data and predict with it.
         :param unfiltered_df: Full dataframe for the current backtest period.

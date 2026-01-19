@@ -1,8 +1,8 @@
 import logging
 import time
-from typing import Callable
+from collections.abc import Callable
 
-from cachetools import TTLCache
+from freqtrade.util import FtTTLCache
 
 
 logger = logging.getLogger(__name__)
@@ -27,7 +27,7 @@ class MeasureTime:
         """
         self._callback = callback
         self._time_limit = time_limit
-        self.__cache: TTLCache = TTLCache(maxsize=1, ttl=ttl)
+        self.__cache: FtTTLCache = FtTTLCache(maxsize=1, ttl=ttl)
 
     def __enter__(self):
         self._start = time.time()

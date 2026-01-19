@@ -3,7 +3,6 @@ Functions to convert data from one format to another
 """
 
 import logging
-from typing import Dict
 
 import numpy as np
 import pandas as pd
@@ -39,7 +38,8 @@ def ohlcv_to_dataframe(
     cols = DEFAULT_DATAFRAME_COLUMNS
     df = DataFrame(ohlcv, columns=cols)
 
-    df["date"] = to_datetime(df["date"], unit="ms", utc=True)
+    # Floor date to seconds to account for exchange imprecisions
+    df["date"] = to_datetime(df["date"], unit="ms", utc=True).dt.floor("s")
 
     # Some exchanges return int values for Volume and even for OHLC.
     # Convert them since TA-LIB indicators used in the strategy assume floats
@@ -158,8 +158,8 @@ def trim_dataframe(
 
 
 def trim_dataframes(
-    preprocessed: Dict[str, DataFrame], timerange, startup_candles: int
-) -> Dict[str, DataFrame]:
+    preprocessed: dict[str, DataFrame], timerange, startup_candles: int
+) -> dict[str, DataFrame]:
     """
     Trim startup period from analyzed dataframes
     :param preprocessed: Dict of pair: dataframe
@@ -167,7 +167,7 @@ def trim_dataframes(
     :param startup_candles: Startup-candles that should be removed
     :return: Dict of trimmed dataframes
     """
-    processed: Dict[str, DataFrame] = {}
+    processed: dict[str, DataFrame] = {}
 
     for pair, df in preprocessed.items():
         trimed_df = trim_dataframe(df, timerange, startup_candles=startup_candles)
@@ -182,7 +182,6 @@ def trim_dataframes(
 
 def order_book_to_dataframe(bids: list, asks: list) -> DataFrame:
     """
-    TODO: This should get a dedicated test
     Gets order book list, returns dataframe with below format per suggested by creslin
     -------------------------------------------------------------------
      b_sum       b_size       bids       asks       a_size       a_sum

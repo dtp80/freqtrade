@@ -1,7 +1,7 @@
 import logging
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any
 
 import numpy as np
 import pandas as pd
@@ -64,7 +64,7 @@ def get_required_data_timerange(config: Config) -> TimeRange:
     Used to compute the required data download time range
     for auto data-download in FreqAI
     """
-    time = datetime.now(tz=timezone.utc).timestamp()
+    time = datetime.now(tz=UTC).timestamp()
 
     timeframes = config["freqai"]["feature_parameters"].get("include_timeframes")
 
@@ -97,7 +97,7 @@ def plot_feature_importance(
     """
     Plot Best and worst features by importance for a single sub-train.
     :param model: Any = A model which was `fit` using a common library
-                        such as catboost or lightgbm
+                        such as XGBoost or lightgbm
     :param pair: str = pair e.g. BTC/USD
     :param dk: FreqaiDataKitchen = non-persistent data container for current coin/loop
     :param count_max: int = the amount of features to be loaded per column
@@ -107,7 +107,7 @@ def plot_feature_importance(
     # Extract feature importance from model
     models = {}
     if "FreqaiMultiOutputRegressor" in str(model.__class__):
-        for estimator, label in zip(model.estimators_, dk.label_list):
+        for estimator, label in zip(model.estimators_, dk.label_list, strict=False):
             models[label] = estimator
     else:
         models[dk.label_list[0]] = model
@@ -115,6 +115,8 @@ def plot_feature_importance(
     for label in models:
         mdl = models[label]
         if "catboost.core" in str(mdl.__class__):
+            # CatBoost is no longer actively supported since 2025.12
+            # However users can still use it in their custom models
             feature_importance = mdl.get_feature_importance()
         elif "lightgbm.sklearn" in str(mdl.__class__):
             feature_importance = mdl.feature_importances_
@@ -155,7 +157,7 @@ def plot_feature_importance(
         store_plot_file(fig, f"{dk.model_filename}-{label}.html", dk.data_path)
 
 
-def record_params(config: Dict[str, Any], full_path: Path) -> None:
+def record_params(config: dict[str, Any], full_path: Path) -> None:
     """
     Records run params in the full path for reproducibility
     """

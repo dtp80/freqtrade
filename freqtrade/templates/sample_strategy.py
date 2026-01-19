@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta, timezone
 from pandas import DataFrame
-from typing import Dict, Optional, Union, Tuple
+from typing import Optional, Union
 
 from freqtrade.strategy import (
     IStrategy,
@@ -96,7 +96,9 @@ class SampleStrategy(IStrategy):
     buy_rsi = IntParameter(low=1, high=50, default=30, space="buy", optimize=True, load=True)
     sell_rsi = IntParameter(low=50, high=100, default=70, space="sell", optimize=True, load=True)
     short_rsi = IntParameter(low=51, high=100, default=70, space="sell", optimize=True, load=True)
-    exit_short_rsi = IntParameter(low=1, high=50, default=30, space="buy", optimize=True, load=True)
+    exit_short_rsi = IntParameter(
+        low=1, high=50, default=30, space="exit", optimize=True, load=True
+    )
 
     # Number of candles the strategy requires before producing valid signals
     startup_candle_count: int = 200

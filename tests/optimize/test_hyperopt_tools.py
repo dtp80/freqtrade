@@ -1,7 +1,6 @@
 import logging
 import re
 from pathlib import Path
-from typing import Dict, List
 
 import numpy as np
 import pytest
@@ -14,7 +13,7 @@ from tests.conftest import CURRENT_TEST_STRATEGY, log_has, log_has_re
 
 
 # Functions for recurrent object patching
-def create_results() -> List[Dict]:
+def create_results() -> list[dict]:
     return [{"loss": 1, "result": "foo", "params": {}, "is_best": True}]
 
 
@@ -297,14 +296,14 @@ def test_show_epoch_details(capsys):
 
     HyperoptTools.show_epoch_details(test_result, 5, False, no_header=True)
     captured = capsys.readouterr()
-    assert "# Trailing stop:" in captured.out
+    assert "# Trailing stop parameters:" in captured.out
     # re.match(r"Pairs for .*", captured.out)
     assert re.search(r"^\s+trailing_stop = True$", captured.out, re.MULTILINE)
     assert re.search(r"^\s+trailing_stop_positive = 0.02$", captured.out, re.MULTILINE)
     assert re.search(r"^\s+trailing_stop_positive_offset = 0.04$", captured.out, re.MULTILINE)
     assert re.search(r"^\s+trailing_only_offset_is_reached = True$", captured.out, re.MULTILINE)
 
-    assert "# ROI table:" in captured.out
+    assert "# ROI parameters:" in captured.out
     assert re.search(r"^\s+minimal_roi = \{$", captured.out, re.MULTILINE)
     assert re.search(r"^\s+\"90\"\:\s0.14,\s*$", captured.out, re.MULTILINE)
 

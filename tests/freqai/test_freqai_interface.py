@@ -13,11 +13,16 @@ from freqtrade.freqai.utils import download_all_data_for_training, get_required_
 from freqtrade.optimize.backtesting import Backtesting
 from freqtrade.persistence import Trade
 from freqtrade.plugins.pairlistmanager import PairListManager
-from tests.conftest import EXMS, create_mock_trades, get_patched_exchange, log_has_re
-from tests.freqai.conftest import (
-    get_patched_freqai_strategy,
+from tests.conftest import (
+    EXMS,
+    create_mock_trades,
+    get_patched_exchange,
     is_arm,
     is_mac,
+    log_has_re,
+)
+from tests.freqai.conftest import (
+    get_patched_freqai_strategy,
     make_rl_config,
     mock_pytorch_mlp_model_training_parameters,
 )
@@ -25,9 +30,6 @@ from tests.freqai.conftest import (
 
 def can_run_model(model: str) -> None:
     is_pytorch_model = "Reinforcement" in model or "PyTorch" in model
-
-    if is_arm() and "Catboost" in model:
-        pytest.skip("CatBoost is not supported on ARM.")
 
     if is_pytorch_model and is_mac():
         pytest.skip("Reinforcement learning / PyTorch module not available on intel based Mac OS.")
@@ -39,7 +41,6 @@ def can_run_model(model: str) -> None:
         ("LightGBMRegressor", True, False, True, True, False, 0, 0),
         ("XGBoostRegressor", False, True, False, True, False, 10, 0.05),
         ("XGBoostRFRegressor", False, False, False, True, False, 0, 0),
-        ("CatboostRegressor", False, False, False, True, True, 0, 0),
         ("PyTorchMLPRegressor", False, False, False, False, False, 0, 0),
         ("PyTorchTransformerRegressor", False, False, False, False, False, 0, 0),
         ("ReinforcementLearner", False, True, False, True, False, 0, 0),
@@ -133,11 +134,10 @@ def test_extract_data_and_train_model_Standard(
     [
         ("LightGBMRegressorMultiTarget", "freqai_test_multimodel_strat"),
         ("XGBoostRegressorMultiTarget", "freqai_test_multimodel_strat"),
-        ("CatboostRegressorMultiTarget", "freqai_test_multimodel_strat"),
         ("LightGBMClassifierMultiTarget", "freqai_test_multimodel_classifier_strat"),
-        ("CatboostClassifierMultiTarget", "freqai_test_multimodel_classifier_strat"),
     ],
 )
+@pytest.mark.filterwarnings(r"ignore:.*__sklearn_tags__.*:DeprecationWarning")
 def test_extract_data_and_train_model_MultiTargets(mocker, freqai_conf, model, strat):
     can_run_model(model)
 
@@ -178,7 +178,6 @@ def test_extract_data_and_train_model_MultiTargets(mocker, freqai_conf, model, s
     "model",
     [
         "LightGBMClassifier",
-        "CatboostClassifier",
         "XGBoostClassifier",
         "XGBoostRFClassifier",
         "SKLearnRandomForestClassifier",
@@ -240,13 +239,11 @@ def test_extract_data_and_train_model_Classifiers(mocker, freqai_conf, model):
     [
         ("LightGBMRegressor", 2, "freqai_test_strat"),
         ("XGBoostRegressor", 2, "freqai_test_strat"),
-        ("CatboostRegressor", 2, "freqai_test_strat"),
         ("PyTorchMLPRegressor", 2, "freqai_test_strat"),
         ("PyTorchTransformerRegressor", 2, "freqai_test_strat"),
         ("ReinforcementLearner", 3, "freqai_rl_test_strat"),
         ("XGBoostClassifier", 2, "freqai_test_classifier"),
         ("LightGBMClassifier", 2, "freqai_test_classifier"),
-        ("CatboostClassifier", 2, "freqai_test_classifier"),
         ("PyTorchMLPClassifier", 2, "freqai_test_classifier"),
     ],
 )
