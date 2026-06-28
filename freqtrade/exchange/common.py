@@ -39,14 +39,12 @@ BAD_EXCHANGES = {
     "bitmex": "Various reasons",
     "probit": "Requires additional, regular calls to `signIn()`",
     "poloniex": "Does not provide fetch_order endpoint to fetch both open and closed orders",
-    "krakenfutures": "Unsupported futures exchange",
     "kucoinfutures": "Unsupported futures exchange",
     "poloniexfutures": "Unsupported futures exchange",
     "binancecoinm": "Unsupported futures exchange",
 }
 
 MAP_EXCHANGE_CHILDCLASS = {
-    "okex": "okx",
     "gateio": "gate",
     "huboi": "htx",
 }
@@ -63,6 +61,7 @@ SUPPORTED_EXCHANGES = [
     "htx",
     "hyperliquid",
     "kraken",
+    "krakenfutures",
     "okx",
     "myokx",
 ]
