@@ -124,172 +124,7 @@
     <display-name lang="he">88-RADIO</display-name>
     <url>http://www.kan.org.il</url>
   </channel>
-  <programme start="20260707044600 +0000" stop="20260707051200 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">אחד העם 101, עונה 1, פרק 8 יש חשמל באוויר, Segment ID: 1</title>
-    <desc lang="he">המידע אינו זמין.</desc>
-  </programme>
-  <programme start="20260707051200 +0000" stop="20260707054900 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">החיים זה לא הכל</title>
-    <desc lang="he">נמצא הרכב ש&quot;נגנב&quot; לפני 17 שנה.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707054900 +0000" stop="20260707062300 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">החיים זה לא הכל</title>
-    <desc lang="he">לחזור לעבר ולראות מה באמת קרה? חבל להרוס לא?</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707062300 +0000" stop="20260707065600 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">החיים זה לא הכל</title>
-    <desc lang="he">גדי ומיקי עושים קרחת.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707065600 +0000" stop="20260707072800 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">בלתי הפיך</title>
-    <desc lang="he">האם רונה ואודי יצליחו לסדר לעצמם ערב אחד לבד? צפו בפרק המלא.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707072800 +0000" stop="20260707075800 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">בלתי הפיך</title>
-    <desc lang="he">האם כדאי לסמוך על השכנים כשמחפשים את המטפלת המושלמת? צפו בפרק המלא.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707075800 +0000" stop="20260707083200 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">בלתי הפיך</title>
-    <desc lang="he">רונה יוצאת למסיבה ואודי נשאר בבית עם אסתר. איך זה ייגמר? צפו בפרק המלא.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707083200 +0000" stop="20260707091000 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">טקסי דרייבר</title>
-    <desc lang="he">יגאל ופאני הולכים להירשם ברבנות.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707091000 +0000" stop="20260707094900 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">טקסי דרייבר</title>
-    <desc lang="he">יגאל רוצה חתונה דתית ופאני אזרחית.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707094900 +0000" stop="20260707102700 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">טקסי דרייבר</title>
-    <desc lang="he">דרת דרמה קומית על קבוצת חברים בני 35 -40, נהגים בתחנת &quot;מוניות השכונה&quot;.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707102700 +0000" stop="20260707110000 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">החיים זה לא הכל</title>
-    <desc lang="he">הבליינד דייט של דפנה.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707110000 +0000" stop="20260707113200 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">החיים זה לא הכל</title>
-    <desc lang="he">גדי מנסה לגרום לאורלי ומיקי לעזוב את הדירה שלו.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707113200 +0000" stop="20260707120400 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">החיים זה לא הכל</title>
-    <desc lang="he">התחביב החדש של גדי.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707120400 +0000" stop="20260707123600 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">חברות</title>
-    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707123600 +0000" stop="20260707130700 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">חברות</title>
-    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707130700 +0000" stop="20260707133700 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">חברות</title>
-    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707133700 +0000" stop="20260707140800 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">זאת וזאתי</title>
-    <desc lang="he">תותית ומלעיל עוברות תאונת דרכים קלה ומתאשפזות בבית חולים, שם הן מכירות חברה שבאה בימים ובעזרת העצות שלה הן לומדות להעריך את החיים. בהשתתפות: אמיר דדון ועומר עציון.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707140800 +0000" stop="20260707143800 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">זאת וזאתי</title>
-    <desc lang="he">תותית ומילעל נוסעות לקמפיניג למצוא השראה לשיר ושם הן פוגשות חטיפים, אוהלים, ארנבים והרבה חתיכים.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707143800 +0000" stop="20260707150900 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">זאת וזאתי</title>
-    <desc lang="he">הקמפינג של תותית ומילעל ממשיך עם צ'יזבטים שיגרמו לכם לשקשק מפחד, מסיבת פיג'מות קורעת, שחייה מענגת עם חתיכים והחשוב מכל - רגעים בלתי נשכחים של חברים אמיתיים.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707150900 +0000" stop="20260707154100 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">בלתי הפיך</title>
-    <desc lang="he">אודי מפתיע את רונה ולוקח אותה לחופשה רומנטית בצימר. צפו בפרק המלא.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707154100 +0000" stop="20260707161200 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">בלתי הפיך</title>
-    <desc lang="he">אודי כהרגלו מסתבך בסבך של שקרים שמוביל לתוצאות לא צפויות. צפו בפרק המלא.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707161200 +0000" stop="20260707164900 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">בלתי הפיך</title>
-    <desc lang="he">מה יקרה כשרונה תבין שהיא פספסה את ההרשמה לגן הכי טוב בסביבה? הפרק המלא.</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707164900 +0000" stop="20260707174900 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">אמבוש אקסטרים</title>
-    <desc lang="he">האם הסיבה האמיתית לפרידה המפתיעה של טיילור מלכוב ובן זיני היא המתיחה ב&quot;אמבוש אקסטרים&quot;? ואיך הגיבה ג'קי אזולאי כשהיא גילתה שחברתה הטובה לאה שנירר מנהלת רומן עם מאהב חדש וצעיר?</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707174900 +0000" stop="20260707185700 +0000" channel="reshet-comedy-RESHET">
-    <title lang="he">אמבוש אקסטרים</title>
-    <desc lang="he">איך הצליחה דנית גרינברג לגרום לקוסם לטבוע באקווריום בזמן מופע קסמים ומה קרה כשלירון רביבו גילתה כי יש לה אחות נוספת שמעולם לא הכירה?</desc>
-    <rating system="IL">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20260707185700 +0000" stop="20260707194800 +0000" channel="reshet-comedy-RESHET">
+  <programme start="20260707193000 +0000" stop="20260707194800 +0000" channel="reshet-comedy-RESHET">
     <title lang="he">טקסי דרייבר</title>
     <desc lang="he">פרק סיום העונה.</desc>
     <rating system="IL">
@@ -376,6 +211,265 @@
   <programme start="20260708014800 +0000" stop="20260708021800 +0000" channel="reshet-comedy-RESHET">
     <title lang="he">בלתי הפיך</title>
     <desc lang="he">מה קורה כאשר חפץ המעבר של אסתר נהרס?! צפו בפרק המלא.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708021800 +0000" stop="20260708025000 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">אמבוש אקסטרים</title>
+    <desc lang="he">אף משימה ב&quot;הישרדות VIP&quot; לא הכינה את רגב הוד לאמבוש שאשתו הלן ארגנה לו. איך קרה שרגב הוד מחסל דוגמן שמתחיל עם אשתו?</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708025000 +0000" stop="20260708032500 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">אמבוש אקסטרים</title>
+    <desc lang="he">כיצד הצליחה מירי בוהדנה לסבך את השף יוסי שטרית עם פושע נמלט? ומה גרם להתמוטטות של המפיק ההוליוודי במהלך האודישן של לי לוי ושרי גבעתי?</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708032500 +0000" stop="20260708040200 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טקסי דרייבר</title>
+    <desc lang="he">אלישע מתחיל לגלות את עצמו מחדש, ואביהו מראה למאמן מה זה לא להכניס את הבן להרכב.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708040200 +0000" stop="20260708044000 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טקסי דרייבר</title>
+    <desc lang="he">ברוך עושה מאמצים לזכות בלילה אחד של שינה עם סווטה.חרא מתמודד עם געגועיו לקייס.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708044000 +0000" stop="20260708051200 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">החיים זה לא הכל</title>
+    <desc lang="he">גדי מציע למיכל נישואין.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708051200 +0000" stop="20260708054400 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">החיים זה לא הכל</title>
+    <desc lang="he">מיכל מחפשת דירה וגדי מנסה להחזיר אותה אליו.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708054400 +0000" stop="20260708061500 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">חברות</title>
+    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708061500 +0000" stop="20260708064700 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">חברות</title>
+    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708064700 +0000" stop="20260708071700 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">זאת וזאתי</title>
+    <desc lang="he">פרק סיום העונה: תותית ומילעל הולכות לחתונה והן מתרשמות מהדגה, עוזרות לכלה להחליף שמלה, שרות שיר בקליפ חברות ומשתכרות.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708071700 +0000" stop="20260708075100 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">בלתי הפיך</title>
+    <desc lang="he">רונה מציעה לאודי לחיות כמו גרושים בעודם נשואים. האם זה יעבוד? צפו בפרק.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708075100 +0000" stop="20260708082100 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">בלתי הפיך</title>
+    <desc lang="he">מדוע רונה לא עונדת את השרשרת שקיבלת מחמתה ריבה? צפו בפרק המלא.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708082100 +0000" stop="20260708092400 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">אמבוש אקסטרים</title>
+    <desc lang="he">כיצד הצליחה מירי בוהדנה לסבך את השף יוסי שטרית עם פושע נמלט? ומה גרם להתמוטטות של המפיק ההוליוודי במהלך האודישן של לי לוי ושרי גבעתי?</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708092400 +0000" stop="20260708102100 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">אמבוש אקסטרים</title>
+    <desc lang="he">אליקו מותח את חבריו לזמר המזרחי מאור אדרי ואושר כהן בשתי מתיחות קורעות! מאור מגיע לשבעה מהגיהינום עם המשפחה הכי מטורללת במדינה ואושר מגיע להתארח ברדיו ופוגש עיוור שלא רואה בעיניים.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708102100 +0000" stop="20260708105900 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טקסי דרייבר</title>
+    <desc lang="he">אלישע מגורש מן המקלט והטיפול הפסיכולוגי שלו עולה שלב.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708105900 +0000" stop="20260708114200 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טקסי דרייבר</title>
+    <desc lang="he">אלישע מחליט לשנות שמו, ליגאל מתחיל להימאס מהמושב וחרא דורש בדיקת אבהות.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708114200 +0000" stop="20260708121500 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">החיים זה לא הכל</title>
+    <desc lang="he">דפנה מלמדת את גדי איך להתחיל עם בחורות.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708121500 +0000" stop="20260708124700 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">החיים זה לא הכל</title>
+    <desc lang="he">גדי בדיכאון ודפנה מתערבת עם חברותיה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708124700 +0000" stop="20260708131700 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">חברות</title>
+    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708131700 +0000" stop="20260708134700 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">חברות</title>
+    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708134700 +0000" stop="20260708141500 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טלוויזיה מהעתיד</title>
+    <desc lang="he">מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708141500 +0000" stop="20260708144300 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טלוויזיה מהעתיד</title>
+    <desc lang="he">מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708144300 +0000" stop="20260708151000 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טלוויזיה מהעתיד</title>
+    <desc lang="he">מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708151000 +0000" stop="20260708154100 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">בלתי הפיך</title>
+    <desc lang="he">אודי ורונה מרגישים שחיקה בחיי הזוגיות ומתחילים לשחק משחקי תפקידים.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708154100 +0000" stop="20260708161100 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">בלתי הפיך</title>
+    <desc lang="he">אודי ורונה חוגגים יום הולדת לאסתר וכרגיל מסתבכים. צפו בפרק סיום העונה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708161100 +0000" stop="20260708171400 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">אמבוש אקסטרים</title>
+    <desc lang="he">כיצד הצליחה מירי בוהדנה לסבך את השף יוסי שטרית עם פושע נמלט? ומה גרם להתמוטטות של המפיק ההוליוודי במהלך האודישן של לי לוי ושרי גבעתי?</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708171400 +0000" stop="20260708181100 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">אמבוש אקסטרים</title>
+    <desc lang="he">אליקו מותח את חבריו לזמר המזרחי מאור אדרי ואושר כהן בשתי מתיחות קורעות! מאור מגיע לשבעה מהגיהינום עם המשפחה הכי מטורללת במדינה ואושר מגיע להתארח ברדיו ופוגש עיוור שלא רואה בעיניים.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708181100 +0000" stop="20260708185400 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טקסי דרייבר</title>
+    <desc lang="he">אלישע מתחיל את חייו החדשים כנמרוד ונתקל במהמורות בדרך.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708185400 +0000" stop="20260708193800 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טקסי דרייבר</title>
+    <desc lang="he">אחות של אלישע מתחילה בחיזור חולני אחרי חרא וזקן מסתורי מופיע פתאום בחייו.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708193800 +0000" stop="20260708201100 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">החיים זה לא הכל</title>
+    <desc lang="he">דפנה מלמדת את גדי איך להתחיל עם בחורות.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708201100 +0000" stop="20260708204300 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">החיים זה לא הכל</title>
+    <desc lang="he">גדי בדיכאון ודפנה מתערבת עם חברותיה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708204300 +0000" stop="20260708211300 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">חברות</title>
+    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708211300 +0000" stop="20260708214600 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">חברות</title>
+    <desc lang="he">קומדיית מצבים על ארבע חברות: נועה, פזית, ורד ושני. הסדרה מראה בצורה קומית את חייהן וחיי הסובבים אותן.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708214600 +0000" stop="20260708221300 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טלוויזיה מהעתיד</title>
+    <desc lang="he">מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708221300 +0000" stop="20260708224200 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טלוויזיה מהעתיד</title>
+    <desc lang="he">מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708224200 +0000" stop="20260708231000 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">טלוויזיה מהעתיד</title>
+    <desc lang="he">מה קורה כשנותנים לכוכבי הרשת תכנית טלוויזיה חדשה? טלוויזיה מהעתיד לצפייה ישירה.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708231000 +0000" stop="20260708234500 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">בלתי הפיך</title>
+    <desc lang="he">עכשיו כשההורות הפכה לשגרה, רונה ואודי מתפנים לטפל בזוגיות שלהם.</desc>
+    <rating system="IL">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20260708234500 +0000" stop="20260709001700 +0000" channel="reshet-comedy-RESHET">
+    <title lang="he">בלתי הפיך</title>
+    <desc lang="he">מערכת היחסים של עינת וחוויאר מעסיקה את כולם ורונה רוצה להיות האחות הטובה.</desc>
     <rating system="IL">
       <value>P13</value>
     </rating>
@@ -616,11 +710,11 @@
     <title lang="he">מדברים חדשות</title>
     <desc lang="he">מהדורת חדשות לילית בהגשת אלירז שדה שמסכם את היום מנקודת מבט אישית בליווי כתבי ופרשני i24NEWS. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708005000 +0000" stop="20260708021000 +0000" channel="i24-news-he-YES">
+  <programme start="20260708005000 +0000" stop="20260708021500 +0000" channel="i24-news-he-YES">
     <title lang="he">המהדורה המרכזית</title>
     <desc lang="he">מירי מיכאלי ונבחרת הכתבים והפרשנים של i24NEWS בכל ערב עם מהדורת החדשות הכי בינלאומית בישראל. ש.ח.</desc>
   </programme>
-  <programme start="20260708021000 +0000" stop="20260708030000 +0000" channel="i24-news-he-YES">
+  <programme start="20260708021500 +0000" stop="20260708030000 +0000" channel="i24-news-he-YES">
     <title lang="he">מהדורת חמש</title>
     <desc lang="he">שרון ניסים ונבחרת הכתבים והפרשנים של i24news עם סיכום חדשות היום. כ' עב'. ש.ח.</desc>
   </programme>
@@ -641,16 +735,16 @@
     <desc lang="he">עדכונים חיים מכל הזירות עם נבחרת הכתבים והפרשנים של i24news כ' עב'. שידור חי.</desc>
   </programme>
   <programme start="20260708051000 +0000" stop="20260708060000 +0000" channel="i24-news-he-YES">
-    <title lang="he">תקומה לשומרון - פרק 1</title>
-    <desc lang="he">תקומה לשומרון. פרק 1. ש.ח.</desc>
+    <title lang="he">איראן - דור המהפכה</title>
+    <desc lang="he">המאבק על החופש דרך העיניים של האנשים שמשלמים את המחיר הכבד ביותר ברחוב, בבתי הכלא וברשת. מגישה: מיכל רבינוביץ'. ש.ח.</desc>
   </programme>
   <programme start="20260708060000 +0000" stop="20260708061000 +0000" channel="i24-news-he-YES">
     <title lang="he">חדר החדשות</title>
     <desc lang="he">עדכונים חיים מכל הזירות עם נבחרת הכתבים והפרשנים של i24news כ' עב'. שידור חי.</desc>
   </programme>
   <programme start="20260708061000 +0000" stop="20260708070000 +0000" channel="i24-news-he-YES">
-    <title lang="he">תקומה לשומרון - פרק 2</title>
-    <desc lang="he">תקומה לשומרון. פרק 2. ש.ח.</desc>
+    <title lang="he">שוברי הקופות - פרק 1</title>
+    <desc lang="he">מאחורי הקלעים של?האמנים?שמצליחים למלא אולמות ולשגע את הרשת: בן בן ברוך ושחר כהן, אביב דורה ודניאל סטיופין. מגישה: יולי סולומון. כ' עב'. ש.ח.</desc>
   </programme>
   <programme start="20260708070000 +0000" stop="20260708073000 +0000" channel="i24-news-he-YES">
     <title lang="he">חדר החדשות</title>
@@ -704,21 +798,25 @@
     <title lang="he">הישראלים</title>
     <desc lang="he">אורי קוואל וצוות הפאנליסטים מסכמים את היום קצת אחרת, בלי פילטרים ובלי צנזורה. כ' עב'. שידור חי.</desc>
   </programme>
-  <programme start="20260708194500 +0000" stop="20260708202500 +0000" channel="i24-news-he-YES">
-    <title lang="he">ציידי הפדופילים</title>
-    <desc lang="he">הנערים שהחליטו לתפוס פדופילים וסיימו מאחורי הסורגים. תחקיר מיוחד של עדי מאירי. מגיש: משה שטיינמץ. כ' עב'. ש.ח.</desc>
+  <programme start="20260708194500 +0000" stop="20260708202000 +0000" channel="i24-news-he-YES">
+    <title lang="he">סודות המטבח</title>
+    <desc lang="he">המניפולציות של תעשיית המזון והמדריך המעשי לצרכנות אוכל חכמה ובריאה יותר.? מגישה: יולי סולומון. כ' עב.</desc>
   </programme>
-  <programme start="20260708202500 +0000" stop="20260708211000 +0000" channel="i24-news-he-YES">
+  <programme start="20260708202000 +0000" stop="20260708210500 +0000" channel="i24-news-he-YES">
     <title lang="he">7 שרון גל</title>
     <desc lang="he">שרון גל - החדשות, הדעות והאנשים שמעצבים את המציאות. ישיר, חד וללא פילטרים - כל ערב בשבע. כ' עב. ש.ח.</desc>
   </programme>
-  <programme start="20260708211000 +0000" stop="20260708221000 +0000" channel="i24-news-he-YES">
+  <programme start="20260708210500 +0000" stop="20260708220500 +0000" channel="i24-news-he-YES">
     <title lang="he">מדד גלבוע</title>
     <desc lang="he">ניב גלבוע עושה חשבון אך ורק לכיס שלכם. תכנית צרכנות, כלכלה וכמובן אוכל. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708221000 +0000" stop="20260709000000 +0000" channel="i24-news-he-YES">
+  <programme start="20260708220500 +0000" stop="20260708235500 +0000" channel="i24-news-he-YES">
     <title lang="he">מהדורת 15</title>
     <desc lang="he">סיון סיסאי ונדב אלימלך עם החדשות והכותרות המרכזיות של היום, הסיפורים המעניינים ועם פאנל הפרשנים והכתבים של I24NEWS. ש.ח.</desc>
+  </programme>
+  <programme start="20260708235500 +0000" stop="20260709005500 +0000" channel="i24-news-he-YES">
+    <title lang="he">מדברים חדשות</title>
+    <desc lang="he">מהדורת חדשות לילית בהגשת אלירז שדה שמסכם את היום מנקודת מבט אישית בליווי כתבי ופרשני i24NEWS. כ' עב'. ש.ח.</desc>
   </programme>
   <programme start="20260707000500 +0000" stop="20260707004500 +0000" channel="israel-plus-9-YES">
     <title lang="he">עקבות - מלכודת לדרקון</title>
@@ -828,15 +926,15 @@
     <title lang="he">עקבות - שלושה מטרים ריבועים</title>
     <desc lang="he">סדרה בלשית. שלושה מטרים ריבועים: בתא המטען של מונית מתגלה גופתה של מרינה גדנסקיה. הנהג טוען כי מעולם לא ראה את האישה הזו לפני כן.</desc>
   </programme>
-  <programme start="20260707201500 +0000" stop="20260707210500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260707201500 +0000" stop="20260707211000 +0000" channel="israel-plus-9-YES">
     <title lang="he">אישה בצרה - פרק 3</title>
     <desc lang="he">פעולה. אניה עוברת לדירה החדשה וחוגגת את חנוכת הבית עם חבריה ומשפחתה. לאחר החגיגה, היא נשארת בדירה עם חברה ניקס. בבוקר למחרת אניה מוצאת את גופתו של ניקס. ש.ח.</desc>
   </programme>
-  <programme start="20260707210500 +0000" stop="20260707222500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260707211000 +0000" stop="20260707223000 +0000" channel="israel-plus-9-YES">
     <title lang="he">העיוורת</title>
     <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות.</desc>
   </programme>
-  <programme start="20260707222500 +0000" stop="20260707231500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260707223000 +0000" stop="20260707231500 +0000" channel="israel-plus-9-YES">
     <title lang="he">העדים - בתוך זאב</title>
     <desc lang="he">סדרה בלשית. בתוך זאב: במהלך ציד הזאבים בתוך פגר של חיה נמצאת אצבע של אישה עם טבעת. ש.ח.</desc>
   </programme>
@@ -844,23 +942,23 @@
     <title lang="he">יום</title>
     <desc lang="he">תכנית הלייפסטייל והתרבות, העוסקת בחיים הציבוריים בארץ. ת.פ. ש.ח.</desc>
   </programme>
-  <programme start="20260707234000 +0000" stop="20260708000500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260707234000 +0000" stop="20260708001000 +0000" channel="israel-plus-9-YES">
     <title lang="he">לילה כלכלי</title>
     <desc lang="he">תוכנית חדשה בנושאים כלכליים. מחירים, צרכנות, פיננסים אישיים וטיפים שימושיים. מגישה: ליאורה שוורץ. ש.ח.</desc>
   </programme>
-  <programme start="20260708000500 +0000" stop="20260708004500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708001000 +0000" stop="20260708005000 +0000" channel="israel-plus-9-YES">
     <title lang="he">עקבות - הירושה המקוללת</title>
     <desc lang="he">סדרה בלשית. הירושה המקוללת: אישה בת 65 נרצחה בגרזן בדירתה. במהלך החקירה עולה, כי הגברת לא הייתה כה חסרת ישע, כפי שהצטיירה. ש.ח.</desc>
   </programme>
-  <programme start="20260708004500 +0000" stop="20260708011000 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708005000 +0000" stop="20260708011500 +0000" channel="israel-plus-9-YES">
     <title lang="he">להבין ולסלוח - במרמה</title>
     <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר. ש.ח.</desc>
   </programme>
-  <programme start="20260708011000 +0000" stop="20260708013500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708011500 +0000" stop="20260708014000 +0000" channel="israel-plus-9-YES">
     <title lang="he">להבין ולסלוח - כמיהה לגירושין</title>
     <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר. ש.ח.</desc>
   </programme>
-  <programme start="20260708013500 +0000" stop="20260708020000 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708014000 +0000" stop="20260708020000 +0000" channel="israel-plus-9-YES">
     <title lang="he">להבין ולסלוח - ציפיה לנכדים</title>
     <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר. ש.ח.</desc>
   </programme>
@@ -888,39 +986,39 @@
     <title lang="he">תיק רפואי</title>
     <desc lang="he">תכנית ריאליטי על אודות רופאים ומטופליהם. ניתוחים בפרטי פרטים. ש.ח.</desc>
   </programme>
-  <programme start="20260708060000 +0000" stop="20260708064500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708060000 +0000" stop="20260708065000 +0000" channel="israel-plus-9-YES">
     <title lang="he">טבעת נישואין - פרק 519</title>
     <desc lang="he">סדרת דרמה. שלושה אנשים נפגשים ברכבת למוסקבה. אמנם הם נפרדים בהגיעם ליעד, אך יד הגורל עוד תפגיש ביניהם לא פעם אחת.</desc>
   </programme>
-  <programme start="20260708064500 +0000" stop="20260708073000 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708065000 +0000" stop="20260708074000 +0000" channel="israel-plus-9-YES">
     <title lang="he">טבעת נישואין - פרק 520</title>
     <desc lang="he">סדרת דרמה. שלושה אנשים נפגשים ברכבת למוסקבה. אמנם הם נפרדים בהגיעם ליעד, אך יד הגורל עוד תפגיש ביניהם לא פעם אחת.</desc>
   </programme>
-  <programme start="20260708073000 +0000" stop="20260708080000 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708074000 +0000" stop="20260708080500 +0000" channel="israel-plus-9-YES">
     <title lang="he">להבין ולסלוח - כבר בוגר</title>
     <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר. ש.ח.</desc>
   </programme>
-  <programme start="20260708080000 +0000" stop="20260708082500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708080500 +0000" stop="20260708083000 +0000" channel="israel-plus-9-YES">
     <title lang="he">להבין ולסלוח - אהבה עם אבחנה</title>
     <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר. ש.ח.</desc>
   </programme>
-  <programme start="20260708082500 +0000" stop="20260708085500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708083000 +0000" stop="20260708090000 +0000" channel="israel-plus-9-YES">
     <title lang="he">להבין ולסלוח - לא בעיה שלי</title>
     <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר. ש.ח.</desc>
   </programme>
-  <programme start="20260708085500 +0000" stop="20260708103500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708090000 +0000" stop="20260708104500 +0000" channel="israel-plus-9-YES">
     <title lang="he">העיוורת</title>
     <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות.</desc>
   </programme>
-  <programme start="20260708103500 +0000" stop="20260708112500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708104500 +0000" stop="20260708113500 +0000" channel="israel-plus-9-YES">
     <title lang="he">העדים - סאגה</title>
     <desc lang="he">סדרה בלשית. סאגה: בביתו של איש העסקים קראינב מתרחש פשע כפול. בנו של קראינב סטאס תוקף עם סכין את חברתו לשעבר לנה. מתוך הגנה עצמית לנה הורגת את סטאס.</desc>
   </programme>
-  <programme start="20260708112500 +0000" stop="20260708121500 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708113500 +0000" stop="20260708122000 +0000" channel="israel-plus-9-YES">
     <title lang="he">אישה בצרה - פרק 4</title>
     <desc lang="he">פעולה. אניה עוברת לדירה החדשה וחוגגת את חנוכת הבית עם חבריה ומשפחתה. לאחר החגיגה, היא נשארת בדירה עם חברה ניקס. בבוקר למחרת אניה מוצאת את גופתו של ניקס.</desc>
   </programme>
-  <programme start="20260708121500 +0000" stop="20260708130000 +0000" channel="israel-plus-9-YES">
+  <programme start="20260708122000 +0000" stop="20260708130000 +0000" channel="israel-plus-9-YES">
     <title lang="he">עקבות - האנס</title>
     <desc lang="he">סדרה בלשית. האנס: בנהר מתגלה גופתה של אישה, אשר ככל הנראה קפצה מן הגשר. אך כבר תוצאות הבדיקות הראשונות מצביעות על כך, שלא מדובר כאן בהתאבדות. ש.ח.</desc>
   </programme>
@@ -1144,13 +1242,13 @@
     <title lang="he">בנימיני ומזל מועלם</title>
     <desc lang="he">שידור חי של תוכנית הרדיו של ''כאן חדשות ברשת ב'' בהגשת רן בנימיני ומזל מועלם. כ' סמ'. שידור חי.</desc>
   </programme>
-  <programme start="20260708145500 +0000" stop="20260708155500 +0000" channel="kan-11-YES">
+  <programme start="20260708145500 +0000" stop="20260708160000 +0000" channel="kan-11-YES">
     <title lang="he">כאן בשש - עם ליאל קייזר</title>
     <desc lang="he">הסיפורים הכי מעניינים בחדשות, הדיווחים והראיונות עם האנשים הכי רלוונטיים שנמצאים על סדר היום. כ' סמ'. שידור חי.</desc>
   </programme>
-  <programme start="20260708155500 +0000" stop="20260708165000 +0000" channel="kan-11-YES">
-    <title lang="he">שבע - עם איילה חסון</title>
-    <desc lang="he">כל ענייני היום הבוערים עם איילה חסון, האנשים שבמרכז החדשות ומיטב הפרשנים, מימין ומשמאל. כ' סמ'. שידור חי.</desc>
+  <programme start="20260708160000 +0000" stop="20260708165000 +0000" channel="kan-11-YES">
+    <title lang="he">אולפן מונדיאל</title>
+    <desc lang="he">סיכום שלב שמינית הגמר בגביע העולם בכדורגל 2026. מגישים: רועי קייס ואליאור לוי. כ' סמ'. שידור חי.</desc>
   </programme>
   <programme start="20260708165000 +0000" stop="20260708183000 +0000" channel="kan-11-YES">
     <title lang="he">מהדורת כאן חדשות - עם מאיה ראכלין</title>
@@ -1236,11 +1334,11 @@
     <title lang="he">חדשות הבוקר - עם אדוה דדון</title>
     <desc lang="he">אדוה דדון עם הסיפורים, הדיווחים והעדכונים על כל מה שחשוב לדעת. כ' סמ'/עב'. שידור חי.</desc>
   </programme>
-  <programme start="20260707080000 +0000" stop="20260707093000 +0000" channel="keshet-12-YES">
+  <programme start="20260707080000 +0000" stop="20260707092000 +0000" channel="keshet-12-YES">
     <title lang="he">חתונה ממבט ראשון - בוגרי חתונמי מגיעים</title>
     <desc lang="he">בוגרי חתונמי מגיעים לעזור לזוגות! מפגש כזה אף פעם לא היה בתוכנית. האם זה יעזור לזוגות להתקרב יותר? וגם: ניב חשבה שהיא מגיעה לארוחה רגועה, אבל מסתבר שהיא נקלעה לחקירה מכיוון לא צפוי. כ' עב'. ת.פ. ש.ח.</desc>
   </programme>
-  <programme start="20260707093000 +0000" stop="20260707100000 +0000" channel="keshet-12-YES">
+  <programme start="20260707092000 +0000" stop="20260707100000 +0000" channel="keshet-12-YES">
     <title lang="he">סברי מרנן 8 - המשפחה עוברת על החוק</title>
     <desc lang="he">המשפחה יוצאת למשימה סודית שאסור לנו לספר מהי! לא תאמינו מה הם עשו. כ' עב'. ש.ח.</desc>
   </programme>
@@ -1264,51 +1362,47 @@
     <title lang="he">שבע עם - גדעון אוקו</title>
     <desc lang="he">גדעון אוקו עם כל ההתפתחויות הכי חשובות של היום. בהשתתפות פאנל הפרשנים, בן כספית ועמית סגל. כ' סמ'. שס''י. שידור חי.</desc>
   </programme>
-  <programme start="20260707165000 +0000" stop="20260707183000 +0000" channel="keshet-12-YES">
-    <title lang="he">המהדורה המרכזית</title>
-    <desc lang="he">בהגשת דני קושמרו. כל ערב ב-20:00 הכתבים והפרשנים של החדשות 12 מעדכנים על האירועים הבולטים שהיו, וחושפים את מה שאחרים מנסים להסתיר. כ' סמ'. שס''י. שידור חי.</desc>
+  <programme start="20260707182000 +0000" stop="20260707200000 +0000" channel="keshet-12-YES">
+    <title lang="he">חתונה ממבט ראשון - ריסטארט לזוגיות</title>
+    <desc lang="he">משפט אחד של עומר עושה ריסטארט לזוגיות שלו עם ויקי. מה הוא אמר ששינה הכול? כ' עב'. ת.פ.</desc>
   </programme>
-  <programme start="20260707183000 +0000" stop="20260707200000 +0000" channel="keshet-12-YES">
-    <title lang="he">חתונה ממבט ראשון</title>
-    <desc lang="he">התוכנית האהובה ''חתונה ממבט ראשון'' חוזרת והפעם עוד יותר נועזת, יותר חשופה, יותר מרגשת ועם סיפורי אהבה שהלכו הרבה יותר רחוק! כ' עב'. ת.פ.</desc>
-  </programme>
-  <programme start="20260707200000 +0000" stop="20260707203500 +0000" channel="keshet-12-YES">
-    <title lang="he">גיא פינס</title>
+  <programme start="20260707200000 +0000" stop="20260707204000 +0000" channel="keshet-12-YES">
+    <title lang="he">גיא פינס - רותם סלע מרגלת</title>
     <desc lang="he">גיא פינס עם מיטב הכתבות הכי חמות בחדשות הבידור - הסיפורים האחרונים, הכוכבים הנוצצים והשערוריות המרתקות ביותר בארץ ובעולם. כ' סמ'/עב'.</desc>
   </programme>
-  <programme start="20260707203500 +0000" stop="20260707213500 +0000" channel="keshet-12-YES">
+  <programme start="20260707204000 +0000" stop="20260707214000 +0000" channel="keshet-12-YES">
     <title lang="he">אברי ושרקי</title>
     <desc lang="he">אברי גלעד ויאיר שרקי בתכנית מיוחדת על כל אירועי היום בארץ ובעולם עם הפרשנים, הכתבים והאורחים המעניינים. כ' סמ'/עב'. שידור חי.</desc>
   </programme>
-  <programme start="20260707213500 +0000" stop="20260707220500 +0000" channel="keshet-12-YES">
+  <programme start="20260707214000 +0000" stop="20260707220500 +0000" channel="keshet-12-YES">
     <title lang="he">אברי ושרקי + אחד</title>
-    <desc lang="he">''אברי ושרקי + אחד'' מביאה מדי לילה ריאיון אחד מעמיק ומרחיב דעת עם האנשים שלא תשמעו במהלך היום. כ' סמ'/עב'.</desc>
+    <desc lang="he">''אברי ושרקי + אחד'' מביאה מדי לילה ריאיון אחד מעמיק ומרחיב דעת עם האנשים שלא תשמעו במהלך היום. והפעם: טל קדמי. כ' סמ'/עב'.</desc>
   </programme>
-  <programme start="20260707220500 +0000" stop="20260707225000 +0000" channel="keshet-12-YES">
+  <programme start="20260707220500 +0000" stop="20260707224500 +0000" channel="keshet-12-YES">
     <title lang="he">סודות הנדל''ן</title>
     <desc lang="he">מגזין שבועי בהנחיית עורכת הדין דפנה שחר הפותח דלת לזירה הנדל''נית בארץ ובחו''ל. הפעם: חיים פרוימוביץ', יו''ר ''דירה להשכיר'', על עתיד השכירות ארוכת הטווח. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260707225000 +0000" stop="20260708000000 +0000" channel="keshet-12-YES">
+  <programme start="20260707224500 +0000" stop="20260707235500 +0000" channel="keshet-12-YES">
     <title lang="he">רוקדים עם כוכבים - אתגר הסיפור האישי</title>
     <desc lang="he">אתגר הסיפור האישי - צחי הלוי מביא את סיפור הקרב שלו לרחבה ואין ישראלי שישאר אדיש לריקוד הזה. וגם: נועה כהן מספרת את הסוד שמעולם לא חשבה שתחשוף בריקוד שמרגש את כל האולפן. תוכנית הדחה. כ' עב'. ת.פ. ש.ח.</desc>
   </programme>
-  <programme start="20260708000000 +0000" stop="20260708003000 +0000" channel="keshet-12-YES">
+  <programme start="20260707235500 +0000" stop="20260708002500 +0000" channel="keshet-12-YES">
     <title lang="he">קליפ טיים</title>
     <desc lang="he">מיטב להיטי המוסיקה הישראלית מכל הזמנים. כ' עב'.</desc>
   </programme>
-  <programme start="20260708003000 +0000" stop="20260708005000 +0000" channel="keshet-12-YES">
-    <title lang="he">המרכיב העיקרי: במטבח של אבי ביטון - פסטה</title>
-    <desc lang="he">השף אבי ביטון מבשל עם חומר גלם אחד שאנחנו הישראלים אוהבים, ומכין ממנו את המנות הכי טעימות. והיום: פסטה - פסטה עם ברווז, פנה פוטנסקה ופסטה דייגים. כ' עב'/ער'. ש.ח.</desc>
+  <programme start="20260708002500 +0000" stop="20260708005500 +0000" channel="keshet-12-YES">
+    <title lang="he">המרכיב העיקרי: במטבח של אבי ביטון - פלפל</title>
+    <desc lang="he">המרכיב העיקרי, השף אבי ביטון מבשל עם חומר גלם אחד שאנחנו הישראלים אוהבים ומכין ממנו את המנות הכי טעימות. והפעם: פלפלים חריפים. מלפח ממולא, גולש הונגרי, סלט עוף. כ' עב'/ער'. ש.ח.</desc>
   </programme>
-  <programme start="20260708005000 +0000" stop="20260708015000 +0000" channel="keshet-12-YES">
+  <programme start="20260708005500 +0000" stop="20260708015500 +0000" channel="keshet-12-YES">
     <title lang="he">הכוכב הבא לאירוויזיון - דרמה בהדחה</title>
     <desc lang="he">רגע כזה עוד לא היה לנו - דרמה בהדחה. כ' עב'. ת.פ. ש.ח.</desc>
   </programme>
-  <programme start="20260708015000 +0000" stop="20260708021500 +0000" channel="keshet-12-YES">
-    <title lang="he">גיא פינס</title>
+  <programme start="20260708015500 +0000" stop="20260708022000 +0000" channel="keshet-12-YES">
+    <title lang="he">גיא פינס - רותם סלע מרגלת</title>
     <desc lang="he">גיא פינס עם מיטב הכתבות הכי חמות בחדשות הבידור - הסיפורים האחרונים, הכוכבים הנוצצים והשערוריות המרתקות ביותר בארץ ובעולם. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708021500 +0000" stop="20260708030000 +0000" channel="keshet-12-YES">
+  <programme start="20260708022000 +0000" stop="20260708030000 +0000" channel="keshet-12-YES">
     <title lang="he">אברי ושרקי</title>
     <desc lang="he">אברי גלעד ויאיר שרקי בתכנית מיוחדת על כל אירועי היום בארץ ובעולם עם הפרשנים, הכתבים והאורחים המעניינים. כ' עב'. ש.ח.</desc>
   </programme>
@@ -1336,17 +1430,17 @@
     <title lang="he">חדשות הבוקר - עם נסלי ברדה</title>
     <desc lang="he">נסלי ברדה עם הסיפורים, הדיווחים והעדכונים על כל מה שחשוב לדעת. כ' סמ'/עב'. שידור חי.</desc>
   </programme>
-  <programme start="20260708080000 +0000" stop="20260708094000 +0000" channel="keshet-12-YES">
+  <programme start="20260708080000 +0000" stop="20260708095000 +0000" channel="keshet-12-YES">
     <title lang="he">רוקדים עם כוכבים - ההדחה המפתיעה</title>
     <desc lang="he">שלב חדש מתחיל - הקבוצות מתערבבות מחדש! וגם: ההדחה שלא הייתה אמורה לקרות והשאירה את השופטים בהלם. כ' עב'. ת.פ. ש.ח.</desc>
   </programme>
-  <programme start="20260708094000 +0000" stop="20260708101500 +0000" channel="keshet-12-YES">
+  <programme start="20260708095000 +0000" stop="20260708103000 +0000" channel="keshet-12-YES">
     <title lang="he">סברי מרנן 8 - הפרוצדורה</title>
     <desc lang="he">הגברים של המשפחה בפאניקה - הפרוצדורה שהם כל כך פחדו ממנה מגיעה. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708101500 +0000" stop="20260708120000 +0000" channel="keshet-12-YES">
+  <programme start="20260708103000 +0000" stop="20260708120000 +0000" channel="keshet-12-YES">
     <title lang="he">12 בצוהריים</title>
-    <desc lang="he">משדר חדשות מיוחד עם עדי זריפי ותמיר סטיינמן. כ' סמ'. שידור חי.</desc>
+    <desc lang="he">משדר חדשות מיוחד עם עדי זריפי. כ' סמ'. שידור חי.</desc>
   </programme>
   <programme start="20260708120000 +0000" stop="20260708135500 +0000" channel="keshet-12-YES">
     <title lang="he">מהדורת היום - עם עופר חדד</title>
@@ -1369,8 +1463,8 @@
     <desc lang="he">בהגשת יונית לוי. בכל ערב הכתבים והפרשנים של החדשות 12 מעדכנים על האירועים הבולטים שהיו, וחושפים את מה שאחרים מנסים להסתיר. כ' סמ'. שידור חי.</desc>
   </programme>
   <programme start="20260708183000 +0000" stop="20260708200000 +0000" channel="keshet-12-YES">
-    <title lang="he">חתונה ממבט ראשון</title>
-    <desc lang="he">התוכנית האהובה ''חתונה ממבט ראשון'' חוזרת והפעם עוד יותר נועזת, יותר חשופה, יותר מרגשת ועם סיפורי אהבה שהלכו הרבה יותר רחוק! כ' עב'. ת.פ.</desc>
+    <title lang="he">חתונה ממבט ראשון - סופ''ש הזוגות 2026</title>
+    <desc lang="he">סוף סוף זה קורה, סופ''ש הזוגות 2026 - מה לעזאזל קרה שם? מה אביתר אמר שעיצבן את נטע? מה קרה בין נועה לארי? ולמה ויקי רוצה להחליף בן זוג? הכל עומד להשתנות ומכאן אין דרך חזרה. כ' עב'. ת.פ.</desc>
   </programme>
   <programme start="20260708200000 +0000" stop="20260708203500 +0000" channel="keshet-12-YES">
     <title lang="he">גיא פינס</title>
@@ -1388,7 +1482,7 @@
     <title lang="he">חתונה ממבט ראשון - ויקי, עכשיו מתעוררים?</title>
     <desc lang="he">ויקי סוף סוף רוצה להתקרב לעומר, אבל יכול להיות שהיא פספסה את ההזדמנות? איך עומר יגיב? כ' עב'. ת.פ. ש.ח.</desc>
   </programme>
-  <programme start="20260708233500 +0000" stop="20260709001500 +0000" channel="keshet-12-YES">
+  <programme start="20260708233500 +0000" stop="20260709000000 +0000" channel="keshet-12-YES">
     <title lang="he">קליפ טיים</title>
     <desc lang="he">מיטב להיטי המוסיקה הישראלית מכל הזמנים. כ' עב'.</desc>
   </programme>
@@ -1492,43 +1586,47 @@
     <title lang="he">חדשות: המהדורה המרכזית</title>
     <desc lang="he">המהדורה המרכזית של ערוץ 13 עם דוריה למפל ואודי סגל. כ' סמ' שידור חי.</desc>
   </programme>
-  <programme start="20260707181500 +0000" stop="20260707195500 +0000" channel="reshet-13-YES">
+  <programme start="20260707181500 +0000" stop="20260707195300 +0000" channel="reshet-13-YES">
     <title lang="he">פאוור קאפל - בלאגן בארמון!</title>
     <desc lang="he">יש חשמל באוויר, והמתח בין הזוגות עולה מדרגה! מה קרה כשעומרי קנדה יצא נגד שיר ואלעד? מה הוביל לבלאגן בארמון? ת.פ. כ' עב'. שידור חי.</desc>
   </programme>
-  <programme start="20260707195500 +0000" stop="20260707202500 +0000" channel="reshet-13-YES">
-    <title lang="he">הצינור - גיא לרר</title>
-    <desc lang="he">מגזין הרשת של ערוץ 13 גיא לרר בתכנית אקטואליה חברתית, עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. כת' עפ''י דרישה. שידור חי.</desc>
+  <programme start="20260707195300 +0000" stop="20260707203000 +0000" channel="reshet-13-YES">
+    <title lang="he">הצינור - בר שם אור</title>
+    <desc lang="he">בר שם אור בתכנית אקטואליה חברתית, עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. כ' סמ'. שידור חי.</desc>
   </programme>
-  <programme start="20260707202500 +0000" stop="20260707205500 +0000" channel="reshet-13-YES">
+  <programme start="20260707203000 +0000" stop="20260707205600 +0000" channel="reshet-13-YES">
     <title lang="he">היום שהיה - עם טל שורר</title>
     <desc lang="he">טל שורר עם תוכנית סיכום היום - כל אירועי היום שהיה: הכותרות הבולטות, הסיפורים החשובים והעדכונים האחרונים. כ' סמ' שידור חי.</desc>
   </programme>
-  <programme start="20260707205500 +0000" stop="20260707212900 +0000" channel="reshet-13-YES">
+  <programme start="20260707205600 +0000" stop="20260707213200 +0000" channel="reshet-13-YES">
     <title lang="he">המומחים - אלעד זוהר</title>
     <desc lang="he">בואו לשמוע את העצות הכי טובות ישירות מהמומחים. אלעד זוהר מארח באולפן בכירים בתחומי הכלכלה, המשפט, הנדל''ן ועוד, לשיחות על הסוגיות החמות שמשפיעות על החיים ועל הכיס של כולנו. כ' עב', ת.פ.</desc>
   </programme>
-  <programme start="20260707212900 +0000" stop="20260707220500 +0000" channel="reshet-13-YES">
+  <programme start="20260707213200 +0000" stop="20260707220300 +0000" channel="reshet-13-YES">
     <title lang="he">מאחורי הכסף</title>
     <desc lang="he">כל הכותרות הכלכליות והסודות שמאחורי הכסף: המניות שחייבים לבדוק, הנדל''ן שיניב לכם את עסקת חייכם, מבחני הרכבים הכי חדשים בשוק והאפליקציות והגאדג'טים שיחסכו לכם כסף. ת.פ. כ' סמ'. ש.ח.</desc>
   </programme>
-  <programme start="20260707220500 +0000" stop="20260707225500 +0000" channel="reshet-13-YES">
+  <programme start="20260707220300 +0000" stop="20260707225100 +0000" channel="reshet-13-YES">
     <title lang="he">הדו''ח היומי</title>
     <desc lang="he">מגזין תרבות יומי שמעלה למסך את כל הסיפורים המדוברים, נושאי השיחה החמים והידיעות המרעישות ביותר! בהנחיית קובי מחט. כ' סמ', ת.פ ש.ח.</desc>
   </programme>
-  <programme start="20260707225500 +0000" stop="20260707234500 +0000" channel="reshet-13-YES">
+  <programme start="20260707225100 +0000" stop="20260707234800 +0000" channel="reshet-13-YES">
     <title lang="he">מוריה וברקו</title>
     <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' ש.ח.</desc>
   </programme>
-  <programme start="20260707234500 +0000" stop="20260708001500 +0000" channel="reshet-13-YES">
+  <programme start="20260707234800 +0000" stop="20260708002000 +0000" channel="reshet-13-YES">
     <title lang="he">מכתוב עם אילון בן יוסף</title>
     <desc lang="he">הגרפולוג אילון בן יוסף מארח מפורסמים ואתכם מהבית, כדי לצלול לעמקי האישיות ולגלות סודות מרתקים, והכל, כמובן, דרך כתב היד. כ' עב', ת.פ ש.ח.</desc>
   </programme>
-  <programme start="20260708001500 +0000" stop="20260708011000 +0000" channel="reshet-13-YES">
+  <programme start="20260708002000 +0000" stop="20260708005900 +0000" channel="reshet-13-YES">
     <title lang="he">מרגישות יופי</title>
     <desc lang="he">הטרנדים והחידושים הכי חמים ונכונים של עולם היופי והטיפוח - כל מה שצריך לדעת כדי להישאר יפים ומעודכנים. ת.פ. כ' עב' ש.ח.</desc>
   </programme>
-  <programme start="20260708011000 +0000" stop="20260708015500 +0000" channel="reshet-13-YES">
+  <programme start="20260708005900 +0000" stop="20260708012400 +0000" channel="reshet-13-YES">
+    <title lang="he">קליפים ברצף</title>
+    <desc lang="he">קליפים נבחרים ברצף.</desc>
+  </programme>
+  <programme start="20260708012400 +0000" stop="20260708015500 +0000" channel="reshet-13-YES">
     <title lang="he">קליפים ברצף</title>
     <desc lang="he">קליפים נבחרים ברצף.</desc>
   </programme>
@@ -1537,8 +1635,8 @@
     <desc lang="he">מגזין בריאות חדש בהנחיית טלי מץ, פרופ' איתן פרידמן וד''ר איתי גל שמביא לצופים את כל מה שכדאי לדעת בנושאי בריאות, רפואה ואורח חיים בריא. התוכנית תעסוק בחדשנות ברפואה, ניתוחים, כירורגיה וספורט. כ' עב'/ער ש.ח.</desc>
   </programme>
   <programme start="20260708023000 +0000" stop="20260708030000 +0000" channel="reshet-13-YES">
-    <title lang="he">הצינור - גיא לרר</title>
-    <desc lang="he">מגזין הרשת של ערוץ 13 גיא לרר בתכנית אקטואליה חברתית, עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. כת' עפ''י דרישה. ש.ח.</desc>
+    <title lang="he">הצינור - בר שם אור</title>
+    <desc lang="he">בר שם אור בתכנית אקטואליה חברתית, עם תחקירים, כתבות וכל הסיפורים החמים מהרשת. כ' סמ'. ש.ח.</desc>
   </programme>
   <programme start="20260708030000 +0000" stop="20260708040000 +0000" channel="reshet-13-YES">
     <title lang="he">העולם הבוקר - רגע לפני</title>
@@ -1576,15 +1674,19 @@
     <title lang="he">מבזק חדשות</title>
     <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.</desc>
   </programme>
-  <programme start="20260708090500 +0000" stop="20260708100000 +0000" channel="reshet-13-YES">
+  <programme start="20260708090500 +0000" stop="20260708095400 +0000" channel="reshet-13-YES">
     <title lang="he">סטטוסקופ - פרק 328</title>
     <desc lang="he">מגזין בריאות חדש בהנחיית גיל לוין, ד''ר רעות מרדכי, פרופ' איתן פרידמן וד''ר איתי גל שמביאים לצופים את כל מה שכדאי לדעת בנושאי בריאות, רפואה ואורח חיים בריא. כ' עב', ער' כ' עב' ער'.</desc>
   </programme>
-  <programme start="20260708100000 +0000" stop="20260708100500 +0000" channel="reshet-13-YES">
+  <programme start="20260708095400 +0000" stop="20260708100000 +0000" channel="reshet-13-YES">
+    <title lang="he">אסנהיים - סטטיק</title>
+    <desc lang="he">עמרי אסנהיים בארוחה אינטימית וראיון אחד על אחד עם סטטיק, המנטור בעונה החדשה של דה וויס עם הסוד שמעולם לא העז לפתוח. כ' עב' ש.ח.</desc>
+  </programme>
+  <programme start="20260708100000 +0000" stop="20260708100600 +0000" channel="reshet-13-YES">
     <title lang="he">מבזק חדשות</title>
     <desc lang="he">מבזק חדשות ערוץ 13. כ' סמ'. שידור חי.</desc>
   </programme>
-  <programme start="20260708100500 +0000" stop="20260708110000 +0000" channel="reshet-13-YES">
+  <programme start="20260708100600 +0000" stop="20260708110000 +0000" channel="reshet-13-YES">
     <title lang="he">אסנהיים - סטטיק</title>
     <desc lang="he">עמרי אסנהיים בארוחה אינטימית וראיון אחד על אחד עם סטטיק, המנטור בעונה החדשה של דה וויס עם הסוד שמעולם לא העז לפתוח. כ' עב' ש.ח.</desc>
   </programme>
@@ -1628,25 +1730,29 @@
     <title lang="he">היום שהיה - עם טל שורר</title>
     <desc lang="he">טל שורר עם תוכנית סיכום היום - כל אירועי היום שהיה: הכותרות הבולטות, הסיפורים החשובים והעדכונים האחרונים. כ' סמ' שידור חי.</desc>
   </programme>
-  <programme start="20260708204500 +0000" stop="20260708212000 +0000" channel="reshet-13-YES">
+  <programme start="20260708204500 +0000" stop="20260708211500 +0000" channel="reshet-13-YES">
     <title lang="he">אנשי הנדל''ן</title>
     <desc lang="he">אנשי הנדל''ן לוקחת את הצופים אל לב עולם הבנייה בישראל - אל היזמים, החברות והפרויקטים שמעצבים שכונות, קהילות וערים בכל רחבי הארץ. ת.פ כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708212000 +0000" stop="20260708214600 +0000" channel="reshet-13-YES">
+  <programme start="20260708211500 +0000" stop="20260708215000 +0000" channel="reshet-13-YES">
     <title lang="he">המומחים - אלעד זוהר</title>
     <desc lang="he">בואו לשמוע את העצות הכי טובות ישירות מהמומחים. אלעד זוהר מארח באולפן בכירים בתחומי הכלכלה, המשפט, הנדל''ן ועוד, לשיחות על הסוגיות החמות שמשפיעות על החיים ועל הכיס של כולנו. כ' עב', ת.פ ש.ח.</desc>
   </programme>
-  <programme start="20260708214600 +0000" stop="20260708224600 +0000" channel="reshet-13-YES">
+  <programme start="20260708215000 +0000" stop="20260708224000 +0000" channel="reshet-13-YES">
     <title lang="he">הדו''ח היומי</title>
     <desc lang="he">מגזין תרבות יומי שמעלה למסך את כל הסיפורים המדוברים, נושאי השיחה החמים והידיעות המרעישות ביותר! בהנחיית קובי מחט. כ' סמ', ת.פ ש.ח.</desc>
   </programme>
-  <programme start="20260708224600 +0000" stop="20260708233500 +0000" channel="reshet-13-YES">
+  <programme start="20260708224000 +0000" stop="20260708232500 +0000" channel="reshet-13-YES">
     <title lang="he">מוריה וברקו</title>
     <desc lang="he">הצמד הטלוויזיוני החדש מוריה אסרף ואייל ברקוביץ מדברים בלי הנחות על הנושאים החמים והחשובים שעל סדר היום. כ' סמ' ש.ח.</desc>
   </programme>
-  <programme start="20260708233500 +0000" stop="20260709000000 +0000" channel="reshet-13-YES">
+  <programme start="20260708232500 +0000" stop="20260708235000 +0000" channel="reshet-13-YES">
     <title lang="he">נדל''ן בצו השעה</title>
     <desc lang="he">איך בונים, משפצים, משכירים ומנהלים את הבניין בזמן מלחמה. מנחים: רותם ישראל ועו''ד ירון טיקוצקי. ת.פ. כ' עב' ש.ח.</desc>
+  </programme>
+  <programme start="20260708235000 +0000" stop="20260709005000 +0000" channel="reshet-13-YES">
+    <title lang="he">מילון היופי</title>
+    <desc lang="he">תוכנית לייפסטייל נשית בתחומי הביוטי, הסטיילינג והטיפוח, כמו גם סוגיות שמעסיקות נשים ואימהות. מנחות התוכנית: סנדרה רינגלר, גליה תורן חן וד''ר הדר ישראלי. ת.פ. כ' עב'/ער' ש.ח.</desc>
   </programme>
   <programme start="20260707003000 +0000" stop="20260707012000 +0000" channel="now-14-YES">
     <title lang="he">שבע - עם שלזינגר וברדוגו</title>
@@ -2240,91 +2346,91 @@
     <title lang="he">קליפ טיים - על האש</title>
     <desc lang="he">קליפים ישראליים, מוזיקה טובה וזמן הנאה. ש.ח.</desc>
   </programme>
-  <programme start="20260708030000 +0000" stop="20260708045100 +0000" channel="channel-24-YES">
+  <programme start="20260708030000 +0000" stop="20260708045800 +0000" channel="channel-24-YES">
     <title lang="he">בוקר ישראלי</title>
     <desc lang="he">לכל אחד יש את המוסיקה הישראלית שלו. כל השירים, כל הסגנונות, כל הזמנים, פותחים את היום רק בכחול לבן. ש.ח.</desc>
   </programme>
-  <programme start="20260708045100 +0000" stop="20260708053500 +0000" channel="channel-24-YES">
+  <programme start="20260708045800 +0000" stop="20260708054200 +0000" channel="channel-24-YES">
     <title lang="he">פבלו, אוכל וחברים 2 - אלישע בנאי</title>
     <desc lang="he">פבלו רוזנברג חוזר לעונה שניה ומארח אצלו במטבח אמנים מוכרים לשיחה אישית על מוזיקה, אוכל ומה שבניהם. במהלך התכנית יבשלו פבלו והאורח ארוחה וישירו ביחד משיריו של האורח. והפעם: אלישע בנאי. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708053500 +0000" stop="20260708061500 +0000" channel="channel-24-YES">
+  <programme start="20260708054200 +0000" stop="20260708062000 +0000" channel="channel-24-YES">
     <title lang="he">אמהות מבשלות ביחד 4 - פרק 4</title>
     <desc lang="he">יערה דרור מגיעה להרצליה, למטבח של לירון ספיר ויחד יבשלו אוכל פרסי-ישראלי: בולונז פרסי, רלייה ושווארמה דגים. הקונדיטור אור בן אוליאל יכין טירמיסו מפורק בהשראת עיצובים של מעצבות פנים. ת.פ. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708061500 +0000" stop="20260708064100 +0000" channel="channel-24-YES">
+  <programme start="20260708062000 +0000" stop="20260708064500 +0000" channel="channel-24-YES">
     <title lang="he">תמרה וחברים - טיילור מלכוב</title>
     <desc lang="he">תמרה אהרוני מארחת חברים במטבח שלה ויחד מבשלים ארוחה. הפעם, השחקנית והדוגמנית טיילור מלכוב להכנת מתכוני פיקניק מפנק: סמוסה ביתית וקציצות ירק קריספיות. תמרה מבקרת בשדות אורז ומכינה סלט גזר. ת.פ. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708064100 +0000" stop="20260708070900 +0000" channel="channel-24-YES">
+  <programme start="20260708064500 +0000" stop="20260708071100 +0000" channel="channel-24-YES">
     <title lang="he">החיים זה לא הכל 7 - פרק 19</title>
     <desc lang="he">פרק 19: אינסומניה - לגדי יש חברה חדשה, מה שפותר לדפנה את נדודי השינה ויוצר למיכל בעיות הירדמות. לדפנה יש פסיכולוג חדש ומוזר וכולם סובלים מהפרעות שינה. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708070900 +0000" stop="20260708073700 +0000" channel="channel-24-YES">
+  <programme start="20260708071100 +0000" stop="20260708074100 +0000" channel="channel-24-YES">
     <title lang="he">החיים זה לא הכל 7 - פרק 20</title>
     <desc lang="he">פרק 20: התנגשות - מאיר מנסה להוציא רשיון לנשק, דפנה עוברת תאונת דרכים קלה והיא וגדי מנסים לרמות את הביטוח. חוקר ביטוח ערני משבש להם את התכנית. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708073700 +0000" stop="20260708080200 +0000" channel="channel-24-YES">
+  <programme start="20260708074100 +0000" stop="20260708080400 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - דולה מהבולה</title>
     <desc lang="he">מירב החליטה שהיא צריכה דולה לקראת הלידה והדולה שנבחרה מטריפה את בית חסון כולו. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708080200 +0000" stop="20260708082700 +0000" channel="channel-24-YES">
+  <programme start="20260708080400 +0000" stop="20260708083100 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - קובלנות וחיות אחרות</title>
     <desc lang="he">לפנחס יש פינה חדשה ברדיו קלאסיק בה הוא מתלונן על מוצרים פגומים אותם רכש. ושני חזרה מאירלנד והמשפחה שלה התגבשה בלעדיה... כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708082700 +0000" stop="20260708090200 +0000" channel="channel-24-YES">
+  <programme start="20260708083100 +0000" stop="20260708090300 +0000" channel="channel-24-YES">
     <title lang="he">אהבה מעבר לפינה 2 - פרק 43</title>
     <desc lang="he">לאחר שליאור התוודה בפני קרן כי הוא זה שביקש מעמי לעזוב, קרן כועסת ונוסעת לפגוש את עמי. דניאלה לא רוצה להיות ביחד עם נתן, ואילו הרומן שלה עם אמנון ממשיך לפרוח. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708090200 +0000" stop="20260708093700 +0000" channel="channel-24-YES">
+  <programme start="20260708090300 +0000" stop="20260708093900 +0000" channel="channel-24-YES">
     <title lang="he">אהבה מעבר לפינה 2 - פרק 44</title>
     <desc lang="he">נעמה מגלה את הרומן בין דניאלה ואמנון. דניאלה מבולבלת מעצם המעמד, ומסרבת להקשיב לנעמה. קרן נוסעת לעמי. ליאור שנשאר מאחור לא מפסיק להתגעגע, עד שמחליט לנסוע להחזיר את אהובתו אליו. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708093700 +0000" stop="20260708101200 +0000" channel="channel-24-YES">
+  <programme start="20260708093900 +0000" stop="20260708101100 +0000" channel="channel-24-YES">
     <title lang="he">רמת אביב ג' - פרק 48</title>
     <desc lang="he">דין מגיע לביקור מפתיע בדירתה של טלי. דניאל חש שמשהו נורא קרה לחברתו שירלי, אך היא מתחמקת מלספר לו. אמיר מגיע לביתה של עידית לינוביץ' לשפוך את ליבו. שרון וגיל מבלים בפארק. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708101200 +0000" stop="20260708103800 +0000" channel="channel-24-YES">
+  <programme start="20260708101100 +0000" stop="20260708103900 +0000" channel="channel-24-YES">
     <title lang="he">מה שבע - זמן עם אמא</title>
     <desc lang="he">דודי רוצה לבלות כמה שיותר עם אמא שלו, אבשי הופך לכוכב בגלל כתבה במאקו ודלית לא מצליחה לריב עם השכנה כי הילדים כל הזמן מפריעים לה. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708103800 +0000" stop="20260708110400 +0000" channel="channel-24-YES">
+  <programme start="20260708103900 +0000" stop="20260708110300 +0000" channel="channel-24-YES">
     <title lang="he">מה שבע - החלום</title>
     <desc lang="he">דלית חולמת לראשונה חלום ללא הילדים וזה מלחיץ אותה, לשם כך היא מזמנת פסיכולוגית הביתה, שכל המשפחה המורחבת מנצלת את שירותיה למעט דודי ודלית. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708110400 +0000" stop="20260708114000 +0000" channel="channel-24-YES">
+  <programme start="20260708110300 +0000" stop="20260708114200 +0000" channel="channel-24-YES">
     <title lang="he">רמזור 4 - חפר מוציא תואר</title>
     <desc lang="he">חפר מבין שיש לו בעיה למצוא עבודה ומחליט להוציא תואר. אמיר משתגע שאינו יכול לתקוע את ירדנה מול המסך ליותר מ-10 דקות, ואיצקו פותח פייסבוק כדי להתקרב לדניאל. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708114000 +0000" stop="20260708121300 +0000" channel="channel-24-YES">
+  <programme start="20260708114200 +0000" stop="20260708121400 +0000" channel="channel-24-YES">
     <title lang="he">צומת מילר - זו דרמה זו לא קומדיה</title>
     <desc lang="he">לאדיר נמאס שבגלל שהוא קומיקאי לא מתייחסים אליו ברצינות, עופר מציע לו לקחת חלק בדרמה פוליטית כבדה על מנת לשנות את המצב. רוני מזמינה חברה הביתה שלא נותנת לאדיר לעבוד. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708121300 +0000" stop="20260708123900 +0000" channel="channel-24-YES">
+  <programme start="20260708121400 +0000" stop="20260708124100 +0000" channel="channel-24-YES">
     <title lang="he">החיים זה לא הכל 2 - 6. לא רוצה לדעת</title>
     <desc lang="he">שעת האמת הגיעה. תוצאות בדיקת מי השפיר יגלו לזוג נוימן את מין הילוד. גדי משביע את דפנה שלא תגלה לו. מיקי חש ברע, הולך לרופא, ומגלה שהוא חולה במחלה לא שגרתית. כ' עב' ש.ח.</desc>
   </programme>
-  <programme start="20260708123900 +0000" stop="20260708130500 +0000" channel="channel-24-YES">
+  <programme start="20260708124100 +0000" stop="20260708130600 +0000" channel="channel-24-YES">
     <title lang="he">החיים זה לא הכל 2 - 7. מומולדת</title>
     <desc lang="he">גדי מבטיח לדפנה להדפיס לה עבודה לאוניברסיטה, אבל במקום זה יוצא למלחמה בתאגיד עסקי ענק. מיקי מבטיח לסיגי הופעה של קנובלר במסיבת יום ההולדת של אחייניתה. כ' עב' ש.ח.</desc>
   </programme>
-  <programme start="20260708130500 +0000" stop="20260708133000 +0000" channel="channel-24-YES">
+  <programme start="20260708130600 +0000" stop="20260708133200 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - פילפל מיטר</title>
     <desc lang="he">בית משפחת רוזן התקינו פיפל מיטר והם יקבעו מהו הרייטינג, בנוסף לזה הם קיבלו בירושה ציור שגנבו הנאצים ימח שמם ממשפחתם באירופה. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708133000 +0000" stop="20260708135500 +0000" channel="channel-24-YES">
+  <programme start="20260708133200 +0000" stop="20260708135500 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - התערבות</title>
     <desc lang="he">כל המשפחות מתאספות אצל החסונים להתערבות לטובת שי, בניסיון לגמול אותו מההתמכרות שלו לקופונים ומבצעים. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708135500 +0000" stop="20260708142000 +0000" channel="channel-24-YES">
+  <programme start="20260708135500 +0000" stop="20260708141800 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - הרוגי מלכות</title>
     <desc lang="he">לשי ושני יש פנצר בדרך להופעה של בתם, מי יבוא לחלץ אותם סילבן ורחל או ריקי פנחס ואיתמר? והאם הם יגיעו בזמן להופעה? כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708142000 +0000" stop="20260708145500 +0000" channel="channel-24-YES">
+  <programme start="20260708141800 +0000" stop="20260708145400 +0000" channel="channel-24-YES">
     <title lang="he">אהבה מעבר לפינה 2 - פרק 55</title>
     <desc lang="he">אורית, לאחר וידויו של יקי, נפגשת עם החיילת שיקי הטריד. אליאן מנסה להתקרב לנתן, אך הוא לא מעוניין. אמנון מציע לדניאלה לעבור לגור אצלו עד שהעניינים ירגעו. רומריו מכה שוב ומנסה לכפות עצמו על קרן. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708145500 +0000" stop="20260708153000 +0000" channel="channel-24-YES">
+  <programme start="20260708145400 +0000" stop="20260708153000 +0000" channel="channel-24-YES">
     <title lang="he">אהבה מעבר לפינה 2 - פרק 56</title>
     <desc lang="he">נעמה מצליחה להבריח את רומריו ונותנת לקרן הלוואה כספית, ללא ידיעתו של ליאור. אורית מודיעה ליקי שהיא לא מאמינה לו. עדן דוחה את הצעתו של גולן לנישואין. כ' עב'. ש.ח.</desc>
   </programme>
@@ -2332,71 +2438,71 @@
     <title lang="he">קרוב רחוק - פרק 180</title>
     <desc lang="he">אחרי שהמכונית שלהם סוטה מהכביש, מיה, דין וניקו מוצאים את עצמם בסכנת חיים. ארי מתעורר ולא יודע איפה מיה ומתחיל לדאוג. כ' עב'.</desc>
   </programme>
-  <programme start="20260708155500 +0000" stop="20260708162000 +0000" channel="channel-24-YES">
+  <programme start="20260708155500 +0000" stop="20260708162200 +0000" channel="channel-24-YES">
     <title lang="he">החיים זה לא הכל - 9. מטמורפוזה</title>
     <desc lang="he">גדי רב עם מיקי, עם דפנה ועם עצמו. הוא מחליט להשתנות ומגיע למסקנות מרחיקות לכת. דפנה נוטלת הורמונים כדי להגביר את סיכוייה להיכנס להריון, דבר שמשפיע עליה בעל כורחה. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708162000 +0000" stop="20260708164500 +0000" channel="channel-24-YES">
+  <programme start="20260708162200 +0000" stop="20260708164800 +0000" channel="channel-24-YES">
     <title lang="he">החיים זה לא הכל - 10. אישה קוטלת</title>
     <desc lang="he">גדי ומיקי יושבים במשרד ומקטרים. בלהט השיחה, גדי מאחל לקנובלר למות. פתאום קנובלר נכנס וגדי לא יודע האם הוא שמע או לא שמע. מיקי מתאהב בנערה יפה, אך מסתבר שהיא בת דודתו של קנובלר. כ' עב' ש.ח.</desc>
   </programme>
-  <programme start="20260708164500 +0000" stop="20260708171000 +0000" channel="channel-24-YES">
+  <programme start="20260708164800 +0000" stop="20260708171400 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - בחירות</title>
     <desc lang="he">שוב יש בחירות, והפעם הבחירות הכי חשובות וכולם נגד כולם. רק פנחס לא מוצא את תעודת הזהות שלו. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708171000 +0000" stop="20260708173500 +0000" channel="channel-24-YES">
+  <programme start="20260708171400 +0000" stop="20260708173900 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - בואו נפרד</title>
     <desc lang="he">לשי יש פינה קבועה בתוכנית בוקר וכולם צוחקים עליו, ומשפחת חסון מנסה לגרום למני לחזור לאיטליה ולאשתו. שחקנים אורחים: פאולה וליאון רוזנברג. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708173500 +0000" stop="20260708180000 +0000" channel="channel-24-YES">
+  <programme start="20260708173900 +0000" stop="20260708180400 +0000" channel="channel-24-YES">
     <title lang="he">סברי מרנן - עוד שבת של קונצרט</title>
     <desc lang="he">שבת בצהריים ושי ושני מתפצלים. שי הולך עם פנחס ואדם למשחק כדורגל של הגדולה, ושני, ספיר וריקי לקונצרט של הבינונית. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708180000 +0000" stop="20260708183500 +0000" channel="channel-24-YES">
+  <programme start="20260708180400 +0000" stop="20260708184200 +0000" channel="channel-24-YES">
     <title lang="he">צומת מילר - זו דרמה זו לא קומדיה</title>
     <desc lang="he">לאדיר נמאס שבגלל שהוא קומיקאי לא מתייחסים אליו ברצינות, עופר מציע לו לקחת חלק בדרמה פוליטית כבדה על מנת לשנות את המצב. רוני מזמינה חברה הביתה שלא נותנת לאדיר לעבוד. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708183500 +0000" stop="20260708190200 +0000" channel="channel-24-YES">
+  <programme start="20260708184200 +0000" stop="20260708191100 +0000" channel="channel-24-YES">
     <title lang="he">רמזור - העוזר</title>
     <desc lang="he">המנקה של טלי ואמיר מחליטה להפסיק לבוא. ואז מגיע גיורא, עוזר בית מהחלומות של טלי ומהסיוטים של אמיר. חפר שוכר דירה עם חדר נעול שאליו אסור להיכנס. מה יש בפנים? כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708190200 +0000" stop="20260708192800 +0000" channel="channel-24-YES">
+  <programme start="20260708191100 +0000" stop="20260708193800 +0000" channel="channel-24-YES">
     <title lang="he">הפרלמנט</title>
-    <desc lang="he">אמציה, שאולי, קרקו, אבי והקטור מזמינים אתכם להציץ מקרוב על הפרלמנט שלהם, והשבוע: שאולי וראובן מעבירים ביחד יום כיפור בלתי נשכח, החבורה יוצאת לעוד נסיעה משותפת ומשחק אסוציאציות סוער יוצא לדרך. כ' עב'. ש.ח.</desc>
+    <desc lang="he">שאולי, אמציה, אבי, ד''ר הקטור, קרקו ואירינה בסדרת מערכונים המלווים את חייהם ההזויים, מעבר לפגישה השבועית בשולחן בית הקפה. והפעם: ''האקדח'', ''קוסומוי'', ''כנפיים'', ''הפסקת חשמל'', ''רעיון לספר''. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708192800 +0000" stop="20260708195300 +0000" channel="channel-24-YES">
+  <programme start="20260708193800 +0000" stop="20260708200300 +0000" channel="channel-24-YES">
     <title lang="he">קרוב רחוק - פרק 180</title>
     <desc lang="he">אחרי שהמכונית שלהם סוטה מהכביש, מיה, דין וניקו מוצאים את עצמם בסכנת חיים. ארי מתעורר ולא יודע איפה מיה ומתחיל לדאוג. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708195300 +0000" stop="20260708202800 +0000" channel="channel-24-YES">
+  <programme start="20260708200300 +0000" stop="20260708203600 +0000" channel="channel-24-YES">
     <title lang="he">אהבה מעבר לפינה 2 - פרק 55</title>
     <desc lang="he">אורית, לאחר וידויו של יקי, נפגשת עם החיילת שיקי הטריד. אליאן מנסה להתקרב לנתן, אך הוא לא מעוניין. אמנון מציע לדניאלה לעבור לגור אצלו עד שהעניינים ירגעו. רומריו מכה שוב ומנסה לכפות עצמו על קרן. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708202800 +0000" stop="20260708210300 +0000" channel="channel-24-YES">
+  <programme start="20260708203600 +0000" stop="20260708210900 +0000" channel="channel-24-YES">
     <title lang="he">אהבה מעבר לפינה 2 - פרק 56</title>
     <desc lang="he">נעמה מצליחה להבריח את רומריו ונותנת לקרן הלוואה כספית, ללא ידיעתו של ליאור. אורית מודיעה ליקי שהיא לא מאמינה לו. עדן דוחה את הצעתו של גולן לנישואין. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708210300 +0000" stop="20260708214800 +0000" channel="channel-24-YES">
+  <programme start="20260708210900 +0000" stop="20260708215200 +0000" channel="channel-24-YES">
     <title lang="he">הערב עם אלי יצפאן - ספי ריבלין</title>
     <desc lang="he">25 שנה לתכנית האירוח של אלי יצפאן, עם המערכונים הכי מצחיקים והאורחים הכי מעניינים והשבוע: ספי ריבלין, ירמי קפלן ועוד... כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708214800 +0000" stop="20260708221100 +0000" channel="channel-24-YES">
+  <programme start="20260708215200 +0000" stop="20260708221400 +0000" channel="channel-24-YES">
     <title lang="he">קומדי סטור</title>
     <desc lang="he">תוכנית המערכונים פורצת הדרך ששודרה במשך שלוש עונות וחשפה את הקהל הישראלי למטבעות לשון חדשים ודמויות שהפכו לחלק מפנתיאון ההומור הישראלי. בהשתתפות: צביקה הדר, אסף אשתר, גיל ססובר, איתי שגב ועוד. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708221100 +0000" stop="20260708224500 +0000" channel="channel-24-YES">
-    <title lang="he">עם כל הכבוד - ג'ניפר קים וראובן המלאך</title>
-    <desc lang="he">תכנית חדשה מבית 24/7. ג'ניפר קים עברה תהליך להתאמה מגדרית, היא מעצבת אופנה. ראובן המלאך הוא זמר מזרחית, שומר שבת וגם אחיה הגדול. יחד הם עוזרים לבני משפחה וחברים מסוכסכים להתאחד כי יחד זה הכי חזק.כ' עב ש.ח.</desc>
+  <programme start="20260708221400 +0000" stop="20260708225300 +0000" channel="channel-24-YES">
+    <title lang="he">על הפנים - עם נדב אמבון</title>
+    <desc lang="he">קורנליוס האיום הלא הוא אביעד בללי מגיע עם אחותו נעם לשיחה על למה אנשים מכוערים מצחיקים יותר, מה עומד מאחורי הקעקוע הכי מטופש שהוא עשה ומה גרם לכלבה שלהם להתחיל לדבר. כ' עב'.</desc>
   </programme>
-  <programme start="20260708224500 +0000" stop="20260708231800 +0000" channel="channel-24-YES">
+  <programme start="20260708225300 +0000" stop="20260708232400 +0000" channel="channel-24-YES">
     <title lang="he">רמת אביב ג' - פרק 48</title>
     <desc lang="he">דין מגיע לביקור מפתיע בדירתה של טלי. דניאל חש שמשהו נורא קרה לחברתו שירלי, אך היא מתחמקת מלספר לו. אמיר מגיע לביתה של עידית לינוביץ' לשפוך את ליבו. שרון וגיל מבלים בפארק. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708231800 +0000" stop="20260708234900 +0000" channel="channel-24-YES">
+  <programme start="20260708232400 +0000" stop="20260708235500 +0000" channel="channel-24-YES">
     <title lang="he">קיבלתי תכנית אירוח - יעל שרוני</title>
     <desc lang="he">''קיבלתי תכנית אירוח'' - לייט נייט חדש עם מנחה שמתחלף בכל תכנית. והערב, השחקנית יעל שרוני מארחת את השחקנית והקומיקאית אורנה בנאי ואת היוצרת נטלי מרקוס. כ' עב'. ש.ח.</desc>
   </programme>
-  <programme start="20260708234900 +0000" stop="20260709013000 +0000" channel="channel-24-YES">
+  <programme start="20260708235500 +0000" stop="20260709012700 +0000" channel="channel-24-YES">
     <title lang="he">טיסת לילה</title>
     <desc lang="he">תנו לנו לטפל בהפרעת השינה שלכם. הדקו חגורות, כבו טלפונים והמריאו איתנו אל הלא נודע. כאן יודעים איך הלילה מתחיל אבל לא ברור איך הוא יגמר. קליפים נדירים ומוסיקה טובה אל תוך הלילה. ש.ח.</desc>
   </programme>
@@ -2852,13 +2958,13 @@
     <title lang="he">היום בכנסת</title>
     <desc lang="he">בכל בוקר ערוץ כנסת עושה לכם סדר בפוליטיקה הישראלית: כל החדשות, העידכונים והדיווחים לקראת היום הפוליטי (כת' סמויות). שידור חי.</desc>
   </programme>
-  <programme start="20260707060000 +0000" stop="20260707100000 +0000" channel="knesset-99-YES">
+  <programme start="20260707070000 +0000" stop="20260707110000 +0000" channel="knesset-99-YES">
     <title lang="he">ועדה</title>
-    <desc lang="he">דיוני ועדות הכנסת (כת' סמויות). שידור חי.</desc>
+    <desc lang="he">ועדת הכנסת: הצעת חוק יסוד: לימוד תורה (כת' סמויות). שידור חי.</desc>
   </programme>
-  <programme start="20260707100000 +0000" stop="20260707120000 +0000" channel="knesset-99-YES">
+  <programme start="20260707110000 +0000" stop="20260707120000 +0000" channel="knesset-99-YES">
     <title lang="he">ועדה</title>
-    <desc lang="he">דיוני ועדות הכנסת (כת' סמויות). שידור חי.</desc>
+    <desc lang="he">ועדת הכנסת: הצעת חוק יסוד: לימוד תורה (כת' סמויות). שידור חי.</desc>
   </programme>
   <programme start="20260707120000 +0000" stop="20260707124500 +0000" channel="knesset-99-YES">
     <title lang="he">החדשות</title>
@@ -4780,7 +4886,7 @@
     <title lang="he">בת אור צגאי</title>
   </programme>
   <programme start="20260707070000 +0300" stop="20260707100000 +0300" channel="glglz-RADIO">
-    <title lang="he">מדינה בדרך עם מתן לוי</title>
+    <title lang="he">מדינה בדרך עם גוני כהן</title>
     <desc lang="he">עושה לי את הדרך.</desc>
   </programme>
   <programme start="20260707100000 +0300" stop="20260707120000 +0300" channel="glglz-RADIO">
@@ -4969,5 +5075,91 @@
   <programme start="20260708042000 +0300" stop="20260708050000 +0300" channel="5-sport-RADIO">
     <title lang="he">הכדורגלנים הגדולים-נדב יעקבי-לב יאשין</title>
     <desc lang="he">עם מיכאל יוכין. &quot;העכביש השחור&quot; אולי גדול השוערים בהיסטוריה הוא גם סיפורה של תקופה. תקופה של קומוניזם; מלחמת עולם; עישון של 4 קופסאות ביום; נאמנות לדינמו מוסקבה של הק.ג.ב; תקופה בה שוער מקבל את כדור הזהב בגלל סיבה מפתיעה. תקופה וכדורגל שכבר לא יחזרו(ש.ח).</desc>
+  </programme>
+  <programme start="20260708050000 +0300" stop="20260708060500 +0300" channel="5-sport-RADIO">
+    <title lang="he">מאחורי הטבעות-פרק 9 - הסיפורים מאחורי פריז 1924</title>
+    <desc lang="he">ה&quot;סיסו&quot; של הפינים ואליאס כץ; &quot;הטרזן&quot; ג'וני וייסמילר וסיפורו של הרולד אברהמס ו&quot;מרכבות האש&quot;(ש.ח).</desc>
+  </programme>
+  <programme start="20260708060500 +0300" stop="20260708071000 +0300" channel="5-sport-RADIO">
+    <title lang="he">עולים לרגל-פרק 252 - ראיון פרישה עם מאור קנדיל</title>
+    <desc lang="he">המגן מגיע ופותח הכל. מהמעבר למכבי ת&quot;א; דרך הסיפורים הגדולים מאיביץ' ועד האימון הראשון במכבי חיפה(ש.ח).</desc>
+  </programme>
+  <programme start="20260708071000 +0300" stop="20260708081500 +0300" channel="5-sport-RADIO">
+    <title lang="he">ספיק נ' רול-פרק 336 - פסטיבל מדר וסקנדל הנבחרת</title>
+    <desc lang="he">שני נושאים בוערים במוקד: חציית הכבישים של מדר ובלאט בין התל אביביות; והסגל העצוב של ישראל(ש.ח).</desc>
+  </programme>
+  <programme start="20260708081500 +0300" stop="20260708092500 +0300" channel="5-sport-RADIO">
+    <title lang="he">פודקאסט ה-NBA-פרק 245 - הטרייד הגדול של הקיץ</title>
+    <desc lang="he">כל מה שצריך לדעת על המעבר של יאניס למיאמי; על הדראפט ועל המאמן החדש של אבדיה בפורטלנד(ש.ח).</desc>
+  </programme>
+  <programme start="20260708092500 +0300" stop="20260708101000 +0300" channel="5-sport-RADIO">
+    <title lang="he">הפודקאסטים של ערוץ הספורט-שניים אוחזין בכדור - פרק 73</title>
+    <desc lang="he">שוק השחקנים רותח עם מדר; בלאט; השינויים אצל התל אביביות וגם נס ציונה במסע רכש. וגם: מה קורה בנבחרת(ש.ח).</desc>
+  </programme>
+  <programme start="20260708101000 +0300" stop="20260708105500 +0300" channel="5-sport-RADIO">
+    <title lang="he">תולדות הספורט הירושלמי-פרק 18 - הנצחתו של בן זוסמן</title>
+    <desc lang="he">אביו של בן; צבי זוסמן; מדבר על בנו שנפל ועל הדרך בה זוכרים אותו עם מרכז הטניס שולחן שיצר לכבודו בירושלים(ש.ח).</desc>
+  </programme>
+  <programme start="20260708105500 +0300" stop="20260708113000 +0300" channel="5-sport-RADIO">
+    <title lang="he">יורוסטפ-פוד - פודקאסט היורוליג-פרק 211 - אולימפיאקוס האלופה הראויה</title>
+    <desc lang="he">מסמכים את הפיינל פור באתונה עם חוויות של שליחינו וניתוחים ממשחק הגמר המלהיב ביותר(ש.ח).</desc>
+  </programme>
+  <programme start="20260708113000 +0300" stop="20260708120500 +0300" channel="5-sport-RADIO">
+    <title lang="he">חמש אישי-פרק 14 - ראיון עם ג'ניה ברקמן</title>
+    <desc lang="he">הסמל של נוף הגליל מגיע ומדבר על הסטיגמה שנוצרה לו; תקרת הזכוכית; הפציעה שכמעט סיימה קריירה ושאלה על עתידו(ש.ח).</desc>
+  </programme>
+  <programme start="20260708120500 +0300" stop="20260708125500 +0300" channel="5-sport-RADIO">
+    <title lang="he">עולים לרגל-פרק 253 - מסכמים את גמר הגביע</title>
+    <desc lang="he">הווינריות של מכבי ת&quot;א; הראיון הבעייתי של קוז'וך; הסיכויים של הנציגות באירופה והקריסה הניהולית בחיפה(ש.ח).</desc>
+  </programme>
+  <programme start="20260708125500 +0300" stop="20260708135000 +0300" channel="5-sport-RADIO">
+    <title lang="he">פודקאסט ה-NBA-פרק 244 - 53 שנים של המתנה הסתיימו</title>
+    <desc lang="he">מסכמים את סדרת הגמר; החגיגות של הניקס; האכזבה של וומבניאמה וכל התובנות של סיום העונה בליגה הטובה בעולם(ש.ח).</desc>
+  </programme>
+  <programme start="20260708135000 +0300" stop="20260708145500 +0300" channel="5-sport-RADIO">
+    <title lang="he">ספיק נ' רול-פרק 336 - פסטיבל מדר וסקנדל הנבחרת</title>
+    <desc lang="he">שני נושאים בוערים במוקד: חציית הכבישים של מדר ובלאט בין התל אביביות; והסגל העצוב של ישראל(ש.ח).</desc>
+  </programme>
+  <programme start="20260708145500 +0300" stop="20260708154000 +0300" channel="5-sport-RADIO">
+    <title lang="he">הפודקאסטים של ערוץ הספורט-שניים אוחזין בכדור - פרק 73</title>
+    <desc lang="he">שוק השחקנים רותח עם מדר; בלאט; השינויים אצל התל אביביות וגם נס ציונה במסע רכש. וגם: מה קורה בנבחרת(ש.ח).</desc>
+  </programme>
+  <programme start="20260708154000 +0300" stop="20260708162500 +0300" channel="5-sport-RADIO">
+    <title lang="he">תולדות הספורט הירושלמי-פרק 18 - הנצחתו של בן זוסמן</title>
+    <desc lang="he">אביו של בן; צבי זוסמן; מדבר על בנו שנפל ועל הדרך בה זוכרים אותו עם מרכז הטניס שולחן שיצר לכבודו בירושלים(ש.ח).</desc>
+  </programme>
+  <programme start="20260708162500 +0300" stop="20260708170000 +0300" channel="5-sport-RADIO">
+    <title lang="he">יורוסטפ-פוד - פודקאסט היורוליג-פרק 211 - אולימפיאקוס האלופה הראויה</title>
+    <desc lang="he">מסמכים את הפיינל פור באתונה עם חוויות של שליחינו וניתוחים ממשחק הגמר המלהיב ביותר(ש.ח).</desc>
+  </programme>
+  <programme start="20260708170000 +0300" stop="20260708180000 +0300" channel="5-sport-RADIO">
+    <title lang="he">הכדורגלנים הגדולים-נדב יעקבי-יוהאן קרויף עם ארבל עשת</title>
+    <desc lang="he">היישר מהולנד ארבל עשת מגיע לשיחה על יוהאן קרויף האגדה ההולנדית &quot;שחי לנצח&quot;. מתחילת דרכו כשחקן באייאקס ועד השיא כמאמן ברצלונה(ש.ח).</desc>
+  </programme>
+  <programme start="20260708180000 +0300" stop="20260708200000 +0300" channel="5-sport-RADIO">
+    <title lang="he">תוכנית הספורט של ישראל-8/7</title>
+    <desc lang="he">; כללי. בשיתוף &quot;רדיו חיפה&quot;.</desc>
+    <premiere lang="he"/>
+  </programme>
+  <programme start="20260708200000 +0300" stop="20260708210000 +0300" channel="5-sport-RADIO">
+    <title lang="he">עולים לרגל-פרק 252 - ראיון פרישה עם מאור קנדיל</title>
+    <desc lang="he">המגן מגיע ופותח הכל. מהמעבר למכבי ת&quot;א; דרך הסיפורים הגדולים מאיביץ' ועד האימון הראשון במכבי חיפה(ש.ח).</desc>
+  </programme>
+  <programme start="20260708210000 +0300" stop="20260708220500 +0300" channel="5-sport-RADIO">
+    <title lang="he">ספיק נ' רול-פרק 336 - פסטיבל מדר וסקנדל הנבחרת</title>
+    <desc lang="he">שני נושאים בוערים במוקד: חציית הכבישים של מדר ובלאט בין התל אביביות; והסגל העצוב של ישראל(ש.ח).</desc>
+  </programme>
+  <programme start="20260708220500 +0300" stop="20260708230000 +0300" channel="5-sport-RADIO">
+    <title lang="he">חמש אישי-פרק 13 - ראיון עם חן סול</title>
+    <desc lang="he">ההישרדות של טבריה בליגת העל; פרשת החוזים הכפולים; האווירה עם חודדה והצוות והשאיפות לעונה הבאה(ש.ח).</desc>
+  </programme>
+  <programme start="20260708230000 +0300" stop="20260708235000 +0300" channel="5-sport-RADIO">
+    <title lang="he">חדשות הספורט-המהדורה המרכזית</title>
+    <desc lang="he">; מהדורת לילה.</desc>
+    <premiere lang="he"/>
+  </programme>
+  <programme start="20260708235000 +0300" stop="20260709005500 +0300" channel="5-sport-RADIO">
+    <title lang="he">עמרי אסנהיים מארח-ברק אברמוב</title>
+    <premiere lang="he"/>
   </programme>
 </tv>
