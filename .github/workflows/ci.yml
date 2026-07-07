@@ -61,6 +61,9 @@ jobs:
 
     - name: Installation - macOS (Brew)
       if: ${{ runner.os == 'macOS' }}
+      env:
+        # Silence "taps are not trusted" warning for runner-preinstalled taps (e.g. aws/tap)
+        HOMEBREW_NO_REQUIRE_TAP_TRUST: 1
       run: |
         # brew update
         # TODO: Should be the brew upgrade
@@ -87,7 +90,7 @@ jobs:
         pytest --random-order --cov=freqtrade --cov=freqtrade_client --cov-config=.coveragerc
 
     - uses: codecov/codecov-action@fb8b3582c8e4def4969c97caa2f19720cb33a72f # v7.0.0
-      if: (runner.os == 'Linux' && matrix.python-version == '3.12' && matrix.os == 'ubuntu-24.04')
+      if: (runner.os == 'Linux' && matrix.python-version == '3.12' && matrix.os == 'ubuntu-24.04' && github.repository == 'freqtrade/freqtrade')
       with:
         fail_ci_if_error: true
         token: ${{ secrets.CODECOV_TOKEN }}  # zizmor: ignore[secrets-outside-env] Intentionally not using environment variable.
@@ -183,7 +186,7 @@ jobs:
 
     - name: Discord notification
       uses: sarisia/actions-status-discord@eb045afee445dc055c18d3d90bd0f244fd062708 # v1.16.0
-      if: ${{ failure() && ( github.event_name != 'pull_request' || github.event.pull_request.head.repo.fork == false) }}
+      if: ${{ failure() && github.repository == 'freqtrade/freqtrade' && ( github.event_name != 'pull_request' || github.event.pull_request.head.repo.fork == false) }}
       with:
           color: '#FF0000' # red
           title: Freqtrade CI failed on ${{ matrix.os }} with Python ${{ matrix.python-version }}!
@@ -250,7 +253,7 @@ jobs:
 
     - name: Discord notification
       uses: sarisia/actions-status-discord@eb045afee445dc055c18d3d90bd0f244fd062708 # v1.16.0
-      if: failure() && ( github.event_name != 'pull_request' || github.event.pull_request.head.repo.fork == false)
+      if: failure() && github.repository == 'freqtrade/freqtrade' && ( github.event_name != 'pull_request' || github.event.pull_request.head.repo.fork == false)
       with:
           color: '#FF0000' # red
           title: Freqtrade doc test failed!
